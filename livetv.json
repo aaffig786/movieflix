@@ -1,22 +1,22 @@
 [
   {
     "tvName": "APNA TV",
-    "tvImageUrl": "http://stream3.qtelmedia.com:1935/live/apnatvweb/playlist.m3u8",
-    "tvUrl" ""
+    "tvUrl": "http://stream3.qtelmedia.com:1935/live/apnatvweb/playlist.m3u8",
+    "tvImageUrl" "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   },
   {
-    "tv_name": "HUM TV",
-    "tv_url": "http://stream3.qtelmedia.com:1935/live/humtvweb/playlist.m3u8",
-    "img_url" ""
+    "tvName": "HUM TV",
+    "tvUrl": "http://stream3.qtelmedia.com:1935/live/humtvweb/playlist.m3u8",
+    "tvImageUrl" "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   },
   {
-    "tv_name": "PTV SPORTS",
-    "tv_url": "http://stream3.qtelmedia.com:1935/live/ptvsportsweb/playlist.m3u8",
-    "img_url" ""
+    "tvName": "PTV SPORTS",
+    "tvUrl": "http://stream3.qtelmedia.com:1935/live/ptvsportsweb/playlist.m3u8",
+    "tvImageUrl" "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   },
   {
-    "tv_name": "DUNIYA ENT",
-    "tv_url": "http://stream3.qtelmedia.com:1935/live/duniyaentweb/playlist.m3u8",
-    "img_url" ""
+    "tvName": "DUNIYA ENT",
+    "tvUrl": "http://stream3.qtelmedia.com:1935/live/duniyaentweb/playlist.m3u8",
+    "tvImageUrl" "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   }
 ]
