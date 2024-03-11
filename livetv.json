@@ -1,0 +1,22 @@
+[
+  {
+    "tv_name": "APNA TV",
+    "tv_url": "http://stream3.qtelmedia.com:1935/live/apnatvweb/playlist.m3u8",
+    "img_url" ""
+  },
+  {
+    "tv_name": "HUM TV",
+    "tv_url": "http://stream3.qtelmedia.com:1935/live/humtvweb/playlist.m3u8",
+    "img_url" ""
+  },
+  {
+    "tv_name": "PTV SPORTS",
+    "tv_url": "http://stream3.qtelmedia.com:1935/live/ptvsportsweb/playlist.m3u8",
+    "img_url" ""
+  },
+  {
+    "tv_name": "DUNIYA ENT",
+    "tv_url": "http://stream3.qtelmedia.com:1935/live/duniyaentweb/playlist.m3u8",
+    "img_url" ""
+  }
+]
