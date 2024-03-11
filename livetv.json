@@ -1,22 +1,22 @@
 [
   {
     "tvName": "APNA TV",
-    "tvUrl": "http://stream3.qtelmedia.com:1935/live/apnatvweb/playlist.m3u8",
+    "tvUrl": "https://storage.googleapis.com/movieflixvideos/BigBuckBunny.mp4",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   },
   {
     "tvName": "HUM TV",
-    "tvUrl": "http://stream3.qtelmedia.com:1935/live/humtvweb/playlist.m3u8",
+    "tvUrl": "https://storage.googleapis.com/movieflixvideos/BigBuckBunny.mp4",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   },
   {
     "tvName": "PTV SPORTS",
-    "tvUrl": "http://stream3.qtelmedia.com:1935/live/ptvsportsweb/playlist.m3u8",
+    "tvUrl": "https://storage.googleapis.com/movieflixvideos/BigBuckBunny.mp4",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   },
   {
     "tvName": "DUNIYA ENT",
-    "tvUrl": "http://stream3.qtelmedia.com:1935/live/duniyaentweb/playlist.m3u8",
+    "tvUrl": "https://storage.googleapis.com/movieflixvideos/BigBuckBunny.mp4",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/coverimage.jpg"
   }
 ]
