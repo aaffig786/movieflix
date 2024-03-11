@@ -1,8 +1,8 @@
 [
   {
-    "tv_name": "APNA TV",
-    "tv_url": "http://stream3.qtelmedia.com:1935/live/apnatvweb/playlist.m3u8",
-    "img_url" ""
+    "tvName": "APNA TV",
+    "tvImageUrl": "http://stream3.qtelmedia.com:1935/live/apnatvweb/playlist.m3u8",
+    "tvUrl" ""
   },
   {
     "tv_name": "HUM TV",
