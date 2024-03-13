@@ -2,47 +2,47 @@
   {
     "tvName": "24NewsHD",
     "tvUrl": "https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8",
-    "tvImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/24news.png"
   },
   {
     "tvName": "92NewsHD",
     "tvUrl": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-    "tvImageUrl": "https://i.imgur.com/XqQOUi7.png"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/92news.png"
   },
   {
     "tvName": "AajNews",
     "tvUrl": "https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8",
-    "tvImageUrl": "https://i.imgur.com/VNGnHYz.png"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ajnews.jpg"
   },
   {
     "tvName": "ARYNews",
     "tvUrl": "https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/arynews.png"
   },
   {
     "tvName": "BolNews",
     "tvUrl": "https://ythls.armelin.one/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/bolnews.png"
   },
   {
     "tvName": "DunyaNews",
     "tvUrl": "https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/dunyanews.jpg"
   },
   {
     "tvName": "ExpressEnt",
     "tvUrl": "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/expressent.jpg"
   },
   {
     "tvName": "ExpressNews",
     "tvUrl": "https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/expressnews.jpg"
   },
   {
     "tvName": "GeoKahani",
     "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/geokahani.png"
   },
    {
     "tvName": "GeoNews",
@@ -52,46 +52,46 @@
   {
     "tvName": "GeoTez",
     "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/geotez.jpg"
   },
    {
     "tvName": "HumNews",
     "tvUrl": "https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/humnews.png"
   },
   {
     "tvName": "LahoreNews",
     "tvUrl": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/lahorenews.png"
   },
   {
     "tvName": "MadaniChannel",
     "tvUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/madani.jpeg"
   },
    {
     "tvName": "PTVHome",
     "tvUrl": "https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvhome.jpg"
   },
   {
     "tvName": "PTVNews",
     "tvUrl": "https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvnews.png"
   },
     {
     "tvName": "PTVGlobal",
     "tvUrl": "https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvglobal.jpg"
   },
     {
     "tvName": "SamaaTV",
     "tvUrl": "https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/samatv.jpg"
   },
    {
     "tvName": "ARYMusik",
     "tvUrl": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/arymusik.png"
   }
 ]
