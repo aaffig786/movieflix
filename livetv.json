@@ -1,22 +1,97 @@
 [
   {
-    "tvName": "APNA TV",
+    "tvName": "24NewsHD",
     "tvUrl": "https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8",
-    "tvImageUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/12/14112159/rudaw_large_square.png"
+    "tvImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png"
   },
   {
-    "tvName": "HUM TV",
+    "tvName": "92NewsHD",
     "tvUrl": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-    "tvImageUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/12/14112159/rudaw_large_square.png"
+    "tvImageUrl": "https://i.imgur.com/XqQOUi7.png"
   },
   {
-    "tvName": "PTV SPORTS",
+    "tvName": "AajNews",
     "tvUrl": "https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8",
-    "tvImageUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/12/14112159/rudaw_large_square.png"
+    "tvImageUrl": "https://i.imgur.com/VNGnHYz.png"
   },
   {
-    "tvName": "DUNIYA ENT",
-    "tvUrl": "https://ythls.armelin.one/channel/UC5mwDEzm4FzXKoHPBDnuUQQ.m3u8",
-    "tvImageUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/12/14112159/rudaw_large_square.png"
+    "tvName": "ARYNews",
+    "tvUrl": "https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "BolNews",
+    "tvUrl": "https://ythls.armelin.one/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "DunyaNews",
+    "tvUrl": "https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "ExpressEnt",
+    "tvUrl": "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "ExpressNews",
+    "tvUrl": "https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "GeoKahani",
+    "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+   {
+    "tvName": "GeoNews",
+    "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "GeoTez",
+    "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+   {
+    "tvName": "HumNews",
+    "tvUrl": "https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "LahoreNews",
+    "tvUrl": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "MadaniChannel",
+    "tvUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+   {
+    "tvName": "PTVHome",
+    "tvUrl": "https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+  {
+    "tvName": "PTVNews",
+    "tvUrl": "https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+    {
+    "tvName": "PTVGlobal",
+    "tvUrl": "https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+    {
+    "tvName": "SamaaTV",
+    "tvUrl": "https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+  },
+   {
+    "tvName": "ARYMusik",
+    "tvUrl": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
   }
 ]
