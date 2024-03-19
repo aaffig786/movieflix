@@ -2,7 +2,7 @@
    {
     "tvName": "Geo News",
     "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8",
-    "tvImageUrl": "https://i.imgur.com/R4KtTbJ.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/geonews.jpg"
   },
   {
     "tvName": "Geo Tez",
@@ -17,12 +17,12 @@
   {
     "tvName": "Lahore News",
     "tvUrl": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
-    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/lahorenews.png"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/lahorenews.jpg"
   },
   {
     "tvName": "24 News HD",
     "tvUrl": "https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8",
-    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/24news.png"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/news24.jpg"
   },
   {
     "tvName": "92 News HD",
@@ -57,7 +57,7 @@
    {
     "tvName": "PTV News",
     "tvUrl": "https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8",
-    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvnews.png"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvnews.jpg"
   },
   {
     "tvName": "City 41",
