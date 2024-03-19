@@ -63,6 +63,41 @@
     "tvName": "City 41",
     "tvUrl": "https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/city41.png"
+  },
+   {
+    "tvName": "City 42",
+    "tvUrl": "https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/city42.jpg"
+  },
+   {
+    "tvName": "Dawn News",
+    "tvUrl": "https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/dawnnews.jpg"
+  },
+   {
+    "tvName": "Gourmet News",
+    "tvUrl": "https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/gnnnews.jpg"
+  },
+   {
+    "tvName": "KTN News",
+    "tvUrl": "https://ythls.armelin.one/channel/UCmqlO4sewQO97iCeakXTdaw.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ktnnews.jpg"
+  },
+   {
+    "tvName": "Such News",
+    "tvUrl": "https://ythls.armelin.one/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/suchnews.png"
+  },
+   {
+    "tvName": "Sindh News",
+    "tvUrl": "https://ythls.armelin.one/channel/UCdNrdgAx3bT6tXJ-RJ9dOBA.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/sindhnews.jpg"
+  },
+   {
+    "tvName": "Public News",
+    "tvUrl": "https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/publicnews.png"
   }
    
 ]
