@@ -54,9 +54,15 @@
     "tvUrl": "https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/expressnews.jpg"
   },
+   {
+    "tvName": "PTV News",
+    "tvUrl": "https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvnews.png"
+  },
   {
     "tvName": "City 41",
     "tvUrl": "https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/city41.png"
   }
+   
 ]
