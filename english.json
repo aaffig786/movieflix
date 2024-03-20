@@ -1,5 +1,6 @@
 [
  {
+  {
     "name": "Extraction 2",
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/extraction2(2023)/extraction2cover.jpg",
@@ -17,10 +18,34 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/blackadam2022/blackadamcover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/blackadam2022/BlackAdam(2022)HindiDubbed.mp4"
   },
+ {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "type": "SuperHero - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/doctorstrangeinthemultiverseofmadness2022/doctorstrangermwmcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/doctorstrangeinthemultiverseofmadness2022/doctorstrangeinthemultiverseofmadness2022.mp4"
+  },
+ {
+    "name": "Avatar the Way of Water",
+    "type": "Action - Fantasy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/avatarthewayofwater2022/avatarcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/avatarthewayofwater2022/avatarthewayofwater2022.mp4"
+  },
+ {
+    "name": "Day Shift",
+    "type": "Suspense - Vampire / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/dayshift2022/dayshiftcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/dayshift2022/dayshift2022.mp4"
+  },
   {
-    "name": "BEAST",
+    "name": "Beast",
     "type": "Survival - Action / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/beast2022/beastcover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/beast2022/Beast(2022)HindiDubbed720p.mp4"
+  },
+ {
+    "name": "Army of the Dead",
+    "type": "Zombie - thriller / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/armyofthedead2021/armyofdeadcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/armyofthedead2021/armyofthedead2021.mp4"
   }
 ]
