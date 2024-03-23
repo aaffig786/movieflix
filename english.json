@@ -2,91 +2,103 @@
   {
     "name": "Extraction 2",
     "type": "Action - Thriller / 2023",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/extraction2(2023)/extraction2cover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/extraction2(2023)/Extraction2(2023)HindiDubbed720p.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Extraction2(2023)/extraction2cover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Extraction2(2023)/Extraction2(2023)HindiDubbed720p.mp4"
   },
  {
     "name": "My Fault",
     "type": "Romance - Drama / 2023",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/myfaultculpamia2023/myfaultcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/myfaultculpamia2023/myfaultculpamia2023.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/MyFault(2023)/myfaultcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/MyFault(2023)/myfaultculpamia2023.mp4"
   },
  {
     "name": "Evil Dead Rise",
     "type": "Horror - Thriller / 2023",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/evildeadrise2023/evildeadrisescover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/evildeadrise2023/evildeadrise2023.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/EvilDeadRise(2023)/evildeadrisescover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/EvilDeadRise(2023)/evildeadrise2023.mp4"
   },
  {
     "name": "Black Panther: Wakanda Forever",
     "type": "Action - SuperHero / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/blackpantherwakandaforever/blackpantherwakandaforevercover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/blackpantherwakandaforever/BlackPantherWakandaForever(2022).mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackPantherWakandaForEver(2022)/blackpantherwakandaforevercover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackPantherWakandaForEver(2022)/BlackPantherWakandaForever(2022).mp4"
   },
  {
     "name": "Black Adam",
     "type": "Action - SuperHero / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/blackadam2022/blackadamcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/blackadam2022/BlackAdam(2022)HindiDubbed.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackAdam(2022)/blackadamcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackAdam(2022)/BlackAdam(2022)HindiDubbed.mp4"
   },
  {
     "name": "Doctor Strange in the Multiverse of Madness",
     "type": "SuperHero - Thriller / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/doctorstrangeinthemultiverseofmadness2022/doctorstrangermwmcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/doctorstrangeinthemultiverseofmadness2022/doctorstrangeinthemultiverseofmadness2022.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Dr.StrangeMultiverseofMadness(2022)/doctorstrangermwmcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Dr.StrangeMultiverseofMadness(2022)/doctorstrangeinthemultiverseofmadness2022.mp4"
   },
  {
     "name": "Avatar the Way of Water",
     "type": "Action - Fantasy / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/avatarthewayofwater2022/avatarcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/avatarthewayofwater2022/avatarthewayofwater2022.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/avatarcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/avatarthewayofwater2022.mp4"
   },
  {
     "name": "Jurassic World Dominion",
     "type": "Science Fiction - Fantasy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/JurasicWorldDominion(2022)/jurasicparkcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/JurasicWorldDominion(2022)/jurassicworlddominion2022.mp4"
+  },
+  {
+    "name": "Double Threat",
+    "type": "Action - Fantasy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/jurassicworlddominion2022/jurasicparkcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/jurassicworlddominion2022/jurassicworlddominion2022.mp4"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoubleThreat(2022)/DoubleThreat(2022).mp4"
   },
  {
     "name": "Day Shift",
     "type": "Suspense - Vampire / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/dayshift2022/dayshiftcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/dayshift2022/dayshift2022.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift(2022)/dayshiftcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift(2022)/dayshift2022.mp4"
   },
   {
     "name": "Beast",
     "type": "Survival - Action / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/beast2022/beastcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/beast2022/Beast(2022)HindiDubbed720p.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast(2022)/beastcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast(2022)/Beast(2022)HindiDubbed720p.mp4"
+  },
+  {
+    "name": "Shang Chi & the Legend of 10 Rings",
+    "type": "Action - Thriller / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/ShangChiandtheLegendoftheTenRings(2021)/Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/ShangChiandtheLegendoftheTenRings(2021)/ShangChiandtheLegendoftheTenRings(2021).mp4"
   },
  {
     "name": "Army of the Dead",
     "type": "Zombie - Thriller / 2021",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/armyofthedead2021/armyofdeadcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/armyofthedead2021/armyofthedead2021.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/ArmyoftheDead(2021)/armyofdeadcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/ArmyoftheDead(2021)/armyofthedead2021.mp4"
   },
  {
     "name": "Fifty Shades Freed",
     "type": "Romance - Erotic / 2018",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/fiftyshadesfreed2018/fifftyshadesoffreedcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/fiftyshadesfreed2018/fiftyshadesfreed2018.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2018/FiftyShadesofFreed(2018)/fifftyshadesoffreedcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2018/FiftyShadesofFreed(2018)/fiftyshadesfreed2018.mp4"
   },
  {
     "name": "Fifty Shades Darker",
     "type": "Romance - Erotic / 2017",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/fiftyshadesdarker2017/fifftyshadesofdarkercover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/fiftyshadesdarker2017/fiftyshadesdarker2017.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesofDarker(2017)/fifftyshadesofdarkercover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesofDarker(2017)/fiftyshadesdarker2017.mp4"
   },
  {
     "name": "Jigsaw",
     "type": "Horror - Crime / 2017",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/jigsaw2017/jigsawcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/jigsaw2017/jigsaw2017.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/JigSaw(2017)/jigsawcover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/JigSaw(2017)/jigsaw2017.mp4"
   },
  {
     "name": "Fifty Shades Grey",
     "type": "Romance - Erotic / 2015",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/english/fiftyshadesofgrey2015/fifftyshadesofgreycover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/fiftyshadesofgrey2015/fiftyshadesofgrey2015.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey(2015)/fifftyshadesofgreycover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey(2015)/fiftyshadesofgrey2015.mp4"
   }
 ]
