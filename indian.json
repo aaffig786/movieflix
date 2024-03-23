@@ -6,10 +6,22 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/pathaan2023/pathaan2023.mp4"
   },
   {
+    "name": "Chhatriwali",
+    "type": "Drama - Comedy / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Chhatriwali(2023)/Chhatriwali-2-322x402.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Chhatriwali(2023)/Chhatriwali(2023).mp4"
+  },
+  {
     "name": "KGF Chapter 2",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/kgfchapter2(2022)/kgf2cover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/kgfchapter2(2022)/KGFChapter2(2022).mp4"
+  },
+  {
+    "name": "Heropanti 2",
+    "type": "Action - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Heropanti2(2022)/Heropanti%202.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Heropanti2(2022)/Heropanti2(2022)%20.mp4"
   },
  {
     "name": "Drishyam 2",
@@ -23,6 +35,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/bhediya2022/bhediyacover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/bhediya2022/Bhediya(2022).mp4"
   },
+  {
+    "name": "Doctor G",
+    "type": "Comedy - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/DoctorG(2022)/doctorg.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/DoctorG(2022)/DoctorG(2022).mp4"
+  },
    {
     "name": "Bhool Bhulaiyaa 2",
     "type": "Drama - Horror / 2022",
@@ -35,6 +53,18 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/brahmastrapartoneshiva2022/bharmastracover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/brahmastrapartoneshiva2022/brahmastrapartoneshiva2022.mp4"
   },
+  {
+    "name": "Freddy",
+    "type": "Suspense - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Freddy(2022)/Freddy_Official_Poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Freddy(2022)/Freddy(2022).mp4"
+  },
+  {
+    "name": "Forensic",
+    "type": "Suspense - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic(2022)/forensic.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic(2022)/Forensic2022.mp4"
+  },
  {
     "name": "Attack",
     "type": "Action - Suspense / 2022",
@@ -46,5 +76,11 @@
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/captain2022/captaincover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/captain2022/captain2022.mp4"
+  },
+  {
+    "name": "Babloo Bachelor",
+    "type": "Drama - Comedy / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor(2021)/BablooBachelor.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor(2021)/BablooBachelor(2021).mp4"
   }
 ]
