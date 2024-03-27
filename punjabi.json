@@ -2,7 +2,13 @@
  {
     "name": "Babe Bhangra Paunde Ne",
     "type": "Drama - Comedy / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixbucket/Punjabi/babebhangrapandyne2022/babebhangrapandynecover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixbucket/Punjabi/babebhangrapandyne2022/BabeBhangraPaundeNe(2022).mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BabeBhangraPaundeNe(2022)/babebhangrapandynecover.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BabeBhangraPaundeNe(2022)/BabeBhangraPaundeNe(2022).mp4"
+  },
+ {
+    "name": "Beautiful Billo",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BeautifulBillo(2022)/beautifulbillo.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BeautifulBillo(2022)/BeautifulBillo(2022).mp4"
   }
 ]
