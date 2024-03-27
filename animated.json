@@ -4,5 +4,23 @@
     "type": "Season 1 / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/KungFuPandaSeason1(2022)/kungfupandacover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/KungFuPandaSeason1(2022)/kungfupandathedragonknight(2022)season1complete.mp4"
+  },
+ {
+    "name": "Sonic the Hedgehog 2",
+    "type": "Movie / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/SonicTheHedgehog2(2022)/sonic2.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/SonicTheHedgehog2(2022)/SonicTheHedgehog2(2022).mp4"
+  },
+ {
+    "name": "King",
+    "type": "Movie / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/king2022/king.png",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/king2022/king2022.mp4"
+  },
+ {
+    "name": "Minions: The Rise Of Gru",
+    "type": "Movie / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/minionstheriseofgru2022/minions.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/minionstheriseofgru2022/minionstheriseofgru2022.mp4"
   }
 ]
