@@ -1,0 +1,57 @@
+[
+   {
+    "tvName": "Madani Channel",
+    "tvUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/madani.jpeg"
+  },
+  {
+    "tvName": "Express Ent",
+    "tvUrl": "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/expressent.jpg"
+  },
+  {
+    "tvName": "Geo Kahani",
+    "tvUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/geokahani.png"
+  },
+   {
+    "tvName": "PTV Home",
+    "tvUrl": "https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvhome.jpg"
+  },
+    {
+    "tvName": "PTV Global",
+    "tvUrl": "https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvglobal.jpg"
+  },
+    {
+    "tvName": "Samaa TV",
+    "tvUrl": "https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/samatv.jpg"
+  },
+   {
+    "tvName": "ABN Urdu",
+    "tvUrl": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8",
+    "tvImageUrl": "hhttps://storage.googleapis.com/movieflixvideos/iptvlogo/abnurdu.jpg"
+  },
+  {
+    "tvName": "Awaz TV Network",
+    "tvUrl": "https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/awaztvnetwork.jpg"
+  },
+   {
+    "tvName": "Discover Pakistan",
+    "tvUrl": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/discoverpakistan.jpg"
+  },
+   {
+    "tvName": "Grace Network",
+    "tvUrl": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/gracenetwork.png"
+  },
+   {
+    "tvName": "Al Ehsan Tv",
+    "tvUrl": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/alehsantv.jpg"
+  }
+]
