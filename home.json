@@ -34,5 +34,11 @@
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy(2023)/bloodydaddycover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy(2023)/BloodyDaddy(2023).mp4"
+  },
+ {
+    "name": "Ek Villain Returns",
+    "type": "Action - Crime / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns(2022)/ekvillianreturns.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns(2022)/EkVillainReturns(2022).mp4"
   }
 ]
