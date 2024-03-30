@@ -17,6 +17,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2(2022)/kgf2cover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2(2022)/KGFChapter2(2022).mp4"
   },
+ {
+    "name": "Ek Villain Returns",
+    "type": "Action - Crime / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns(2022)/ekvillianreturns.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns(2022)/EkVillainReturns(2022).mp4"
+  },
   {
     "name": "Heropanti 2",
     "type": "Action - Drama / 2022",
