@@ -18,6 +18,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Jawan(2023)/jawan/Jawan.m3u8"
   },
  {
+    "name": "Leo",
+    "type": "Action - Crime / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Leo(2023)/LeoPoster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Leo(2023)/Leo/Leo.m3u8"
+  },
+ {
     "name": "Jaane Jaan",
     "type": "Mystery - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/JaaneJaan(2023)/JaaneJaanPoster.jpeg",
