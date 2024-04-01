@@ -6,6 +6,24 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter(2024).mp4"
   },
  {
+    "name": "Tiger 3",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Tiger3(2023)/Tiger3.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter(2024).mp4"
+  },
+ {
+    "name": "Jawan",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Jawan(2023)/Jawanposter.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter(2024).mp4"
+  },
+ {
+    "name": "Jaane Jaan",
+    "type": "Mystery - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/JaaneJaan(2023)/JaaneJaanPoster.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/JaaneJaan(2023)/JaaneJaan/JaaneJaan.m3u8"
+  },
+ {
     "name": "Salaar: Part 1 – Ceasefire",
     "type": "Action - Drama / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Salaar(2023)/salaar.jpg",
