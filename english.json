@@ -1,8 +1,39 @@
 [
  {
+    "name": "The Wages of Fear",
+    "type": "War - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheWagesofFear/The%20Wages%20of%20Fear.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheWagesofFear/TheWagesofFear/TheWagesofFear.m3u8"
+  },
+ {
+    "name": "Wifelike",
+    "type": "Action - Fantasy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/WifeLike.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/Wifelike(2022)/Wifelike(2022).m3u8"
+  },
+ {
+    "name": "Avatar: The Way of Water",
+    "type": "Action - Animation / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/Avatar_The_Way_of_Water_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/AvatarTheWayofWater/avatarthewayofwater.m3u8"
+  },
+  {
+    "name": "Army of the Dead",
+    "type": "Zombie - Horror / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/armyofthedead2021/Army_of_the_Dead_poster.png",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/armyofthedead2021/armyofthedead2021.m3u8"
+  },
+ {
+    "name": "Monkey King One & Only",
+    "type": "Action - Adventure / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing/MonkeyKing.m3u8"
+  },
+ {
     "name": "Fifty Shades Darker",
     "type": "Romance - Erotic / 2017",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/Fifty_Shades_Darker_film_poster.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/fiftyshadesdarker2017.m3u8"
   },
+]
  
