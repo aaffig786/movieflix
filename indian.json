@@ -12,6 +12,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Tiger3(2023)/tiger3/Tiger3.m3u8"
   },
  {
+    "name": "Bholaa",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Bholaa(2023)/Bholaa_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Bholaa(2023)/Bholaa/Bholaa.m3u8"
+  },
+ {
     "name": "Jawan",
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Jawan(2023)/Jawanposter.jpg",
@@ -98,8 +104,8 @@
  {
     "name": "Brahmāstra: Part One – Shiva",
     "type": "Action - Fantasy / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BharmastraPartOne(2022)/bharmastracover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BharmastraPartOne(2022)/brahmastrapartoneshiva2022.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BrahmastraPartOneShiva(2022)/Brahmastra_Part_One_Shiva.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BrahmastraPartOneShiva(2022)/brahmastrapartoneshiva/brahmastrapartoneshiva.m3u8"
   },
   {
     "name": "Freddy",
@@ -116,8 +122,8 @@
  {
     "name": "Attack",
     "type": "Action - Suspense / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack(2022)/attackcover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack(2022)/attack2022part1.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack/Attack_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack/attack/attack.m3u8"
   },
  {
     "name": "Captain",
@@ -128,7 +134,13 @@
   {
     "name": "Babloo Bachelor",
     "type": "Drama - Comedy / 2021",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor(2021)/BablooBachelor.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor(2021)/BablooBachelor(2021).mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor/Babloo_Bachelor_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor/BablooBachelor/BablooBachelor.m3u8"
+  },
+ {
+    "name": "Lust Stories 1",
+    "type": "Drama - Romance / 2018",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2018/LustStories1(2018)/Lust_Stories_(2018)_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2018/LustStories1(2018)/LustStories1/LustStories1.m3u8"
   }
 ]
