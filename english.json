@@ -6,6 +6,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheWagesofFear/TheWagesofFear/TheWagesofFear.m3u8"
   },
  {
+    "name": "Art of Love",
+    "type": "Romance - Fantasy / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/ArtofLove/Art%20of%20Love.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/ArtofLove/ArtofLove/ArtofLove.m3u8"
+  },
+ {
     "name": "Wifelike",
     "type": "Action - Fantasy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/WifeLike.jpg",
@@ -16,6 +22,12 @@
     "type": "Action - Animation / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/Avatar_The_Way_of_Water_poster.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/AvatarTheWayofWater/avatarthewayofwater.m3u8"
+  },
+ {
+    "name": "Beast",
+    "type": "Horror - Adventure / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast_2022_American_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast/Beast.m3u8"
   },
   {
     "name": "Army of the Dead",
