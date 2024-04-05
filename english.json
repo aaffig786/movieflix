@@ -12,6 +12,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/ArtofLove/ArtofLove/ArtofLove.m3u8"
   },
  {
+    "name": "57 Seconds",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/57Seconds/Fifty_seven_seconds_poster.png",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/57Seconds/57Seconds/57Seconds.m3u8"
+  },
+ {
     "name": "Wifelike",
     "type": "Action - Fantasy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/WifeLike.jpg",
