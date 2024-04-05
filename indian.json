@@ -3,7 +3,25 @@
     "name": "Fighter",
     "type": "Action - Drama / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter(2024).mp4"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter/Fighter.m3u8"
+  },
+ {
+    "name": "Abraham Ozler",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/AbrahamOzler/Abraham_Ozler_2024.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/AbrahamOzler/AbrahamOzler/AbrahamOzler.m3u8"
+  },
+ {
+    "name": "Battery",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Battery/Battery_Poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Battery/Battery/Battery.m3u8"
+  },
+ {
+    "name": "Teri Baaton Mein Aisa Uljha Jiya",
+    "type": "Romance - Comedy / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/TeriBaatonMeinAisaUljhaJiya/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/TeriBaatonMeinAisaUljhaJiya/TeriBaatonMeinAisaUljhaJiya/TeriBaatonMeinAisaUljhaJiya.m3u8"
   },
  {
     "name": "Tiger 3",
@@ -30,6 +48,24 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Leo(2023)/Leo/Leo.m3u8"
   },
  {
+    "name": "Jailer",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Jailer(2023)/Jailer_2023_Tamil_film_poster%20(1).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Jailer(2023)/Jailer/Jailer.m3u8"
+  },
+ {
+    "name": "Tu Jhoothi Main Makkaar",
+    "type": "Romance - Comedy / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/TuJhoothiMainMakkaar(2023)/Tu_Jhoothi_Main_Makkaar_Title_Card.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/TuJhoothiMainMakkaar(2023)/TuJhoothiMainMakkaar/TuJhoothiMainMakkaar.m3u8"
+  },
+  {
+    "name": "The Kerala Story",
+    "type": "Drama - Crime / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/TheKeralaStory(2023)/The_Kerala_Story_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/TheKeralaStory(2023)/TheKeralaStory/TheKeralaStory.m3u8"
+  },
+ {
     "name": "Jaane Jaan",
     "type": "Mystery - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/JaaneJaan(2023)/JaaneJaanPoster.jpeg",
@@ -39,13 +75,43 @@
     "name": "Salaar: Part 1 – Ceasefire",
     "type": "Action - Drama / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Salaar(2023)/salaar.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Salaar(2023)/Salaar(2023).mp4"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Salaar(2023)/Salaar/Salaar.m3u8"
   },
  {
     "name": "Pathan",
     "type": "Action - Drama / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Pathan(2023)/pathancover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Pathan(2023)/pathaan2023.mp4"
+  },
+  {
+    "name": "Gadar 2",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Gadar2(2023)/Gadar_2_film_poster%20(1).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Gadar2(2023)/Gadar2/Gadar2.m3u8"
+  },
+ {
+    "name": "Kuttey",
+    "type": "Crime - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Kuttey(2023)/Kuttey_film_poster%20(1).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Kuttey(2023)/Kuttey/Kuttey.m3u8"
+  },
+ {
+    "name": "Chor Nikal Ke Bhaga",
+    "type": "Drama - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/ChorNikalKeBhaga(2023)/Chor_Nikal_Ke_Bhaga_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/ChorNikalKeBhaga(2023)/ChorNikalKeBhaga/ChorNikalKeBhaga.m3u8"
+  },
+ {
+    "name": "Lust Stories 2",
+    "type": "Romance - Fantasy / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/LustStories2(2023)/Lust_Stories_2%20(1).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/LustStories2(2023)/LustStories2/LustStories2.m3u8"
+  },
+ {
+    "name": "Rocky Aur Rani Kii Prem Kahaani",
+    "type": "Romance - Drama / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/RockyAurRaniKiPremKahaani(2023)/Rocky_Aur_Rani_Ki_Prem_Kahani.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/RockyAurRaniKiPremKahaani(2023)/RockyAurRaniKiPremKahaani/RockyAurRaniKiPremKahaani.m3u8"
   },
  {
     "name": "Chhatriwali",
@@ -87,7 +153,7 @@
     "name": "Bhediya",
     "type": "Suspense - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bhediya(2022)/bhediyacover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bhediya(2022)/Bhediya(2022).mp4"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bhediya/Bhediya/Bhediya.m3u8"
   },
   {
     "name": "Doctor G",
@@ -98,8 +164,8 @@
    {
     "name": "Bhool Bhulaiyaa 2",
     "type": "Drama - Horror / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiya(2022)/bhoolbholiyacover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiya(2022)/BhoolBhulaiyaa2(2022).mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiyaa2/Bhool_Bhulaiyaa_2_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiyaa2/BhoolBhulaiyaa2/BhoolBhulaiyaa2.m3u8"
   },
  {
     "name": "Brahmāstra: Part One – Shiva",
