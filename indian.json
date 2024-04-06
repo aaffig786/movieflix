@@ -65,6 +65,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/TuJhoothiMainMakkaar(2023)/Tu_Jhoothi_Main_Makkaar_Title_Card.jpeg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/TuJhoothiMainMakkaar(2023)/TuJhoothiMainMakkaar/TuJhoothiMainMakkaar.m3u8"
   },
+ {
+    "name": "Chhatriwali",
+    "type": "Romance - Comedy / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Chhatriwali/Chhatriwali_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Chhatriwali/Chhatriwali/Chhatriwali.m3u8"
+  },
   {
     "name": "The Kerala Story",
     "type": "Drama - Crime / 2023",
