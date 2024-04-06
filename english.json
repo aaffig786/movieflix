@@ -59,6 +59,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast_2022_American_poster.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast/Beast.m3u8"
   },
+ {
+    "name": "Day Shift",
+    "type": "Action - Suspense / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/Day_Shift_(film).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/DayShift/DayShift.m3u8"
+  },
   {
     "name": "Army of the Dead",
     "type": "Zombie - Horror / 2021",
