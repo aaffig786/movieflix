@@ -156,6 +156,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Heropanti2(2022)/Heropanti2(2022)%20.mp4"
   },
  {
+    "name": "Cirkus",
+    "type": "Comedy - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cirkus/Cirkus_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cirkus/Cirkus/Cirkus.m3u8"
+  },
+ {
     "name": "Drishyam 2",
     "type": "Suspense - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Drishyam2(2022)/Drishyam2cover.jpg",
