@@ -1,5 +1,11 @@
 [
  {
+    "name": "Eagle",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Eagle/Eagle_2024_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Eagle/Eagle/Eagle.m3u8"
+  },
+ {
     "name": "Fighter",
     "type": "Action - Drama / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter.jpg",
