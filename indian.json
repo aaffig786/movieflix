@@ -180,6 +180,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cuttputlli/Cuttputlli/Cuttputlli.m3u8"
   },
  {
+    "name": "Double XL",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DoubleXL/Double_XL_2022_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DoubleXL/DoubleXL/DoubleXL.m3u8"
+  },
+ {
     "name": "Bigil",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bigil/Bigil_poster.jpg",
