@@ -18,6 +18,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/CaptainMiller/CaptainMiller.m3u8"
   },
  {
+    "name": "Hanu-Man",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/HanuMan/Hanu_Man_film_Release_poster.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/HanuMan/HanuMan/HanuMan.m3u8"
+  },
+ {
     "name": "Abraham Ozler",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/AbrahamOzler/Abraham_Ozler_2024.jpg",
