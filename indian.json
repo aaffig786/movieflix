@@ -137,12 +137,6 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/RockyAurRaniKiPremKahaani(2023)/Rocky_Aur_Rani_Ki_Prem_Kahani.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/RockyAurRaniKiPremKahaani(2023)/RockyAurRaniKiPremKahaani/RockyAurRaniKiPremKahaani.m3u8"
   },
- {
-    "name": "Chhatriwali",
-    "type": "Drama - Comedy / 2023",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Chhatriwali(2023)/Chhatriwali-2-322x402.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Chhatriwali(2023)/Chhatriwali(2023).mp4"
-  },
   {
     "name": "Kho Gaye Hum Kahan",
     "type": "Drama - Comedy / 2023",
@@ -236,8 +230,8 @@
   {
     "name": "Forensic",
     "type": "Suspense - Thriller / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic(2022)/forensic.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic(2022)/Forensic2022.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic/Forensic_Hindi_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic/Forensic/Forensic.m3u8"
   },
  {
     "name": "Attack",
