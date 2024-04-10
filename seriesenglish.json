@@ -1,19 +1,25 @@
 [
  {
+    "name": "Furies",
+    "type": "Season 1 - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Furies-Season1/Furies(2024)Season1.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Furies-Season1/Furies-Season1/Furies-Season1.m3u8"
+  },
+ {
     "name": "Expats",
-    "type": "Drama - Stories / 2024",
+    "type": "Season 1 - Stories / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Expats-Season1/Expats_poster.webp",
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Expats-Season1/Expats-Season1/Expats.m3u8"
   },
  {
     "name": "Avatar: The Last Airbender",
-    "type": "Action - Adventure / 2024",
+    "type": "Season 1 - Adventure / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1.m3u8"
   },
  {
     "name": "Man vs Bee",
-    "type": "Comedy - Drama / 2022",
+    "type": "Season 1 - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2022/ManvsBee(2022)Season1/manvsbeecover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2022/ManvsBee(2022)Season1/manvsbee2022Season1complete.mp4"
   }
