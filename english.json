@@ -138,6 +138,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2018/Creed2/Creed2/Creed2.m3u8"
   },
  {
+    "name": "Furious",
+    "type": "Action - War / 2017",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/Furious/Furious_(2017_film).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/Furious/Furious/Furious.m3u8"
+  },
+ {
     "name": "Fifty Shades Darker",
     "type": "Romance - Erotic / 2017",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/Fifty_Shades_Darker_film_poster.jpg",
