@@ -6,7 +6,13 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy(2023)/BloodyDaddy(2023).mp4"
   },
  {
-    "name": "HIT: The First Case - Season 1",
+    "name": "HIT: The Second Case",
+    "type": "Crime - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2022/HITThe2ndCase/HITThe2ndCase.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2022/HITThe2ndCase/HITThe2ndCase/HITThe2ndCase.m3u8"
+  },
+ {
+    "name": "HIT: The First Case",
     "type": "Crime - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2022/HitTheFirstCase/HIT-_The_First_Case_poster.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2022/HitTheFirstCase/HitTheFirstCase/HitTheFirstCase.m3u8"
