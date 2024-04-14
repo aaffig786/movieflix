@@ -168,6 +168,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Godfather/Godfather/Godfather.m3u8"
   },
  {
+    "name": "Good Luck Jerry",
+    "type": "Drama - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/GoodLuckJerry/Good_Luck_Jerry_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/GoodLuckJerry/GoodLuckJerry/GoodLuckJerry.m3u8"
+  },
+ {
     "name": "Cirkus",
     "type": "Comedy - Drama / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cirkus/Cirkus_film_poster.jpg",
