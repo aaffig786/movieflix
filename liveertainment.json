@@ -40,6 +40,11 @@
     "tvImageUrl": "hhttps://storage.googleapis.com/movieflixvideos/iptvlogo/abnurdu.jpg"
   },
    {
+    "tvName": "ABN Bible Movies",
+    "tvUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ABNBibleMovies.jpg"
+  },
+   {
     "tvName": "ZindagiTV",
     "tvUrl": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ZindagiTV.jpg"
