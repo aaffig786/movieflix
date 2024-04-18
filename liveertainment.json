@@ -15,6 +15,11 @@
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/geokahani.png"
   },
    {
+    "tvName": "JooMusic",
+    "tvUrl": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/JooMusic.png"
+  },
+   {
     "tvName": "PTV Home",
     "tvUrl": "https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8",
     "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ptvhome.jpg"
@@ -33,6 +38,11 @@
     "tvName": "ABN Urdu",
     "tvUrl": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8",
     "tvImageUrl": "hhttps://storage.googleapis.com/movieflixvideos/iptvlogo/abnurdu.jpg"
+  },
+   {
+    "tvName": "ZindagiTV",
+    "tvUrl": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/ZindagiTV.jpg"
   },
   {
     "tvName": "Awaz TV Network",
