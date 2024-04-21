@@ -3,19 +3,43 @@
     "name": "Code 8: Part II",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/Code8PartII/Code_eight_part_II_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/Code8PartII/Code8PartII/Code8PartII.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/Code8PartII/Code8PartII/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Mea Culpa",
+    "type": "Romance - Fantasy / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/MeaCulpa/Mea_Culpa_2024_film_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/MeaCulpa/MeaCulpa/MasterPlayList.m3u8"
+  },
+ {
+    "name": "The Bad Shepherd",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheBadShepherd/TheBadShepherd(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheBadShepherd/TheBadShepherd/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Somewhere Quiet",
+    "type": "Horror - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/SomewhereQuiet/SomewhereQuiet__Poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/SomewhereQuiet/SomewhereQuiet/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Ricky Stanicky",
+    "type": "Comedy - Action / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/RickyStanicky/Ricky%20Stanicky.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/RickyStanicky/RickyStanicky/MasterPlayList.m3u8"
   },
  {
     "name": "The Wages of Fear",
     "type": "War - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheWagesofFear/The%20Wages%20of%20Fear.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheWagesofFear/TheWagesofFear/TheWagesofFear.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/TheWagesofFear/TheWagesofFear/MasterPlayList.m3u8"
   },
  {
     "name": "Art of Love",
     "type": "Romance - Fantasy / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/ArtofLove/Art%20of%20Love.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/ArtofLove/ArtofLove/ArtofLove.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/ArtofLove/ArtofLove/MasterPlayList.m3u8"
   },
  {
     "name": "57 Seconds",
