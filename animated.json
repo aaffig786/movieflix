@@ -26,8 +26,8 @@
  {
     "name": "King",
     "type": "Movie / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/king2022/king.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/king2022/king2022.mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/King/king2022.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/King/King/MasterPlayList.m3u8"
   },
  {
     "name": "Minions: The Rise Of Gru",
