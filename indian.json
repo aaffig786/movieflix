@@ -3,43 +3,85 @@
     "name": "Eagle",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Eagle/Eagle_2024_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Eagle/Eagle.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Eagle/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Crew",
+    "type": "Crime - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Crew(2024)/Crew(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Crew(2024)/Crew(2024)/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Operation Valentine",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/OperationValentine/OperationValentine.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/OperationValentine/OperationValentine/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Murder Mubarak",
+    "type": "Drama - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/MurderMubarak(2024)/MurderMubarak(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/MurderMubarak(2024)/MurderMubarak/MasterPlayList.m3u8"
   },
  {
     "name": "Fighter",
     "type": "Action - Drama / 2024",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter(2024)/Fighter/Fighter.m3u8"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter/Fighter2024.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter/Fighter/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Article 370",
+    "type": "Action - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Article370/Article370(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Article370/Article370/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Pindam",
+    "type": "Horror - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Pindam/Pindam_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Pindam/Pindam/MasterPlayList.m3u8"
   },
  {
     "name": "Captain Miller",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/CaptainMiller/Captain_Miller_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/CaptainMiller/CaptainMiller.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/CaptainMiller/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Kaam Chalu Hai",
+    "type": "Drama - Comedy / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/KaamChaluHai/KaamChaluHai(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/KaamChaluHai/KaamChaluHai/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Merry Christmas",
+    "type": "Drama - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/MerryChristmas/MerryChristmas(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/MerryChristmas/MerryChristmas/MasterPlayList.m3u8"
   },
  {
     "name": "Hanu-Man",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/HanuMan/Hanu_Man_film_Release_poster.jpeg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/HanuMan/HanuMan/HanuMan.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/HanuMan/HanuMan/MasterPlayList.m3u8"
   },
  {
     "name": "Abraham Ozler",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/AbrahamOzler/Abraham_Ozler_2024.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/AbrahamOzler/AbrahamOzler/AbrahamOzler.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/AbrahamOzler/AbrahamOzler/MasterPlayList.m3u8"
   },
  {
     "name": "Battery",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Battery/Battery_Poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Battery/Battery/Battery.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Battery/Battery/MasterPlayList.m3u8"
   },
  {
     "name": "Teri Baaton Mein Aisa Uljha Jiya",
     "type": "Romance - Comedy / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/TeriBaatonMeinAisaUljhaJiya/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/TeriBaatonMeinAisaUljhaJiya/TeriBaatonMeinAisaUljhaJiya/TeriBaatonMeinAisaUljhaJiya.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/TeriBaatonMeinAisaUljhaJiya/TeriBaatonMeinAisaUljhaJiya/MasterPlayList.m3u8"
   },
  {
     "name": "Tiger 3",
