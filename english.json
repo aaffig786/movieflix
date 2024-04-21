@@ -51,31 +51,31 @@
     "name": "Black Panther: Wakanda Forever",
     "type": "Action - SuperHero / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackPantherWakandaForever/Black_Panther_Wakanda_Forever_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackPantherWakandaForever/BlackPantherWakandaForever/BlackPantherWakandaForever.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackPantherWakandaForever/BlackPantherWakandaForever/MasterPlayList.m3u8"
   },
  {
     "name": "Doctor Strange in the Multiverse of Madness",
     "type": "Action - SuperHero / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoctorStrangeInTheMultiverseOfMadness/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoctorStrangeInTheMultiverseOfMadness/DoctorStrangeInTheMultiverseOfMadness/DoctorStrangeInTheMultiverseOfMadness.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoctorStrangeInTheMultiverseOfMadness/DoctorStrangeInTheMultiverseOfMadness/MasterPlayList.m3u8"
   },
  {
     "name": "Jurassic World Dominion",
     "type": "Kaiju - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/JurassicWorldDominion/JurassicWorldDominion_Poster.jpeg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/JurassicWorldDominion/JurassicWorldDominion/JurassicWorldDominion.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/JurassicWorldDominion/JurassicWorldDominion/MasterPlayList.m3u8"
   },
  {
     "name": "Fall",
     "type": "Survival - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Fall/Fall_(2022_film).jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Fall/Fall/Fall.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Fall/Fall/MasterPlayList.m3u8"
   },
  {
     "name": "Black Adam",
     "type": "Action - SuperHero / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackAdam/Black_Adam_(film)_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackAdam/BlackAdam/BlackAdam.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/BlackAdam/BlackAdam/MasterPlayList.m3u8"
   },
  {
     "name": "Wifelike",
@@ -87,85 +87,115 @@
     "name": "Fantastic Beasts: The Secrets of Dumbledore",
     "type": "Fantasy - Mystery / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/FantasticBeastsTheSecretsofDumbledore/Fantastic_Beasts-_The_Secrets_of_Dumbledore.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/FantasticBeastsTheSecretsofDumbledore/FantasticBeastsTheSecretsofDumbledore/FantasticBeastsTheSecretsofDumbledore.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/FantasticBeastsTheSecretsofDumbledore/FantasticBeastsTheSecretsofDumbledore/MasterPlayList.m3u8"
   },
  {
     "name": "Fullmetal Alchemist",
     "type": "Dark Fantasy - Crime / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/FullmetalAlchemistTheFinalAlchemy/Fullmetal_Alchemist.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/FullmetalAlchemistTheFinalAlchemy/FullmetalAlchemistTheFinalAlchemy/FullmetalAlchemistTheFinalAlchemy.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/FullmetalAlchemistTheFinalAlchemy/FullmetalAlchemistTheFinalAlchemy/MasterPlayList.m3u8"
   },
  {
     "name": "Double Threat",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoubleThreat/DoubleThreat.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoubleThreat/DoubleThreat/DoubleThreat.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoubleThreat/DoubleThreat/MasterPlayList.m3u8"
   },
  {
     "name": "Avatar: The Way of Water",
     "type": "Action - Animation / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/Avatar_The_Way_of_Water_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/AvatarTheWayofWater/avatarthewayofwater.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/AvatarTheWayofWater(2022)/AvatarTheWayofWater/MasterPlayList.m3u8"
   },
  {
     "name": "Beast",
     "type": "Horror - Adventure / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast_2022_American_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast/Beast.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Beast/Beast/MasterPlayList.m3u8"
   },
  {
     "name": "Day Shift",
     "type": "Action - Suspense / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/Day_Shift_(film).jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/DayShift/DayShift.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/DayShift/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Nobody",
+    "type": "Action - Thriller / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/Nobody/Nobody_2021_Film_Poster.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/Nobody/Nobody/MasterPlayList.m3u8"
   },
   {
     "name": "Army of the Dead",
     "type": "Zombie - Horror / 2021",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/armyofthedead2021/Army_of_the_Dead_poster.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/armyofthedead2021/armyofthedead2021.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/armyofthedead2021/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Jiaoren of the South China Sea",
+    "type": "Thriller - Horror / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/JiaorenoftheSouthChinaSea/JiaorenoftheSouthChinaSea.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/JiaorenoftheSouthChinaSea/JiaorenoftheSouthChinaSea/MasterPlayList.m3u8"
   },
  {
     "name": "Monkey King One & Only",
     "type": "Action - Adventure / 2021",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing/MonkeyKing.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing/MasterPlayList.m3u8"
+  },
+ {
+    "name": "The Cursed",
+    "type": "Thriller - Horror / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/TheCursed/The_Cursed_(2021_film).jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/TheCursed/TheCursed/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Fast & Furious: Hobbs & Shaw",
+    "type": "Action - Thriller / 2019",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2019/FastandFuriousPresentsHobbsandShaw/HobbsandShaw.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2019/FastandFuriousPresentsHobbsandShaw/FastandFuriousPresentsHobbsandShaw/MasterPlayList.m3u8"
   },
  {
     "name": "Fifty Shades Freed",
     "type": "Romance - Erotic / 2018",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2018/FiftyShadesFreed/Fifty_Shades_Freed_poster.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2018/FiftyShadesFreed/FiftyShadesFreed/FiftyShadesFreed.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2018/FiftyShadesFreed/FiftyShadesFreed/MasterPlayList.m3u8"
   },
  {
     "name": "Creed II",
     "type": "Action - Fighting / 2018",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2018/Creed2/Creed_II_poster.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2018/Creed2/Creed2/Creed2.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2018/Creed2/Creed2/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Jigsaw",
+    "type": "Horror - Thriller / 2017",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/JigSaw/JigSaw(2017).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/JigSaw/JigSaw/MasterPlayList.m3u8"
   },
  {
     "name": "Furious",
     "type": "Action - War / 2017",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/Furious/Furious_(2017_film).jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/Furious/Furious/Furious.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/Furious/Furious/MasterPlayList.m3u8"
   },
  {
     "name": "Fifty Shades Darker",
     "type": "Romance - Erotic / 2017",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/Fifty_Shades_Darker_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/fiftyshadesdarker2017.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/MasterPlayList.m3u8"
   },
  {
     "name": "Fifty Shades of Grey",
     "type": "Romance - Erotic / 2015",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey/Fifty_Shades_of_Grey_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey/FiftyShadesofGrey/FiftyShadesofGrey.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey/FiftyShadesofGrey/MasterPlayList.m3u8"
   },
  {
     "name": "Gulliver's Travels",
     "type": "Adventure - Comedy / 2010",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2010/Gulliver'sTravels/Gullivers_travels_2010_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2010/Gulliver'sTravels/Gulliver'sTravels/Gulliver'sTravels.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2010/Gulliver'sTravels/Gulliver'sTravels/MasterPlayList.m3u8"
   }
 ]
  
