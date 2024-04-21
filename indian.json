@@ -146,74 +146,134 @@
   {
     "name": "KGF Chapter 2",
     "type": "Action - Thriller / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2(2022)/kgf2cover.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2(2022)/KGFChapter2(2022).mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2/k-g-f-chapter-2.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2/KGFChapter2/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Raja Vikramarka",
+    "type": "Action - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RajaVikramarka/RajaVikramarka(2022).jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RajaVikramarka/RajaVikramarka/MasterPlayList.m3u8"
   },
  {
     "name": "Ek Villain Returns",
     "type": "Action - Crime / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns/Ek_Villain_Returns.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns/EkVillainReturns/EkVillainReturns.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/EkVillainReturns/EkVillainReturns/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Radhe Shyam",
+    "type": "Love - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RadheShyam/Radhe_Shyam.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RadheShyam/RadheShyam/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Ram Setu",
+    "type": "Adventure - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RamSetu(2022)/Ram-Setu-Movie.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RamSetu(2022)/RamSetu(2022)/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Jaadugar: Love Goals",
+    "type": "Love - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/JaadugarLoveGoals/JaadugarLoveGoals(2022).jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/JaadugarLoveGoals/JaadugarLoveGoals/MasterPlayList.m3u8"
   },
   {
     "name": "Heropanti 2",
     "type": "Action - Drama / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Heropanti2/Heropanti_2_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Heropanti2/Heropanti2/Heropanti2.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Heropanti2/Heropanti2/MasterPlayList.m3u8"
   },
  {
     "name": "Godfather",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Godfather/GodFather2022.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Godfather/Godfather/Godfather.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Godfather/Godfather/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Khuda Haafiz: Chapter 2",
+    "type": "Action - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KhudaHaafizChapter2/Khuda_Haafiz.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KhudaHaafizChapter2/KhudaHaafizChapter2/MasterPlayList.m3u8"
   },
  {
     "name": "Good Luck Jerry",
     "type": "Drama - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/GoodLuckJerry/Good_Luck_Jerry_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/GoodLuckJerry/GoodLuckJerry/GoodLuckJerry.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/GoodLuckJerry/GoodLuckJerry/MasterPlayList.m3u8"
   },
  {
     "name": "Cirkus",
     "type": "Comedy - Drama / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cirkus/Cirkus_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cirkus/Cirkus/Cirkus.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cirkus/Cirkus/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Phone Bhoot",
+    "type": "Love - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/PhoneBhoot/PhoneBhoot(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/PhoneBhoot/PhoneBhoot/MasterPlayList.m3u8"
+  },
+ {
+    "name": "John Luther",
+    "type": "Crime - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/JohnLuther/John_Luther_official_poster_1.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/JohnLuther/JohnLuther/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Liger",
+    "type": "Action - Love / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Liger/liger-posterart.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Liger/Liger/MasterPlayList.m3u8"
   },
  {
     "name": "Drishyam 2",
     "type": "Suspense - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Drishyam2/Drishyam_2_2022_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Drishyam2/Drishyam2/Drishyam2.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Drishyam2/Drishyam2/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Nazar Andaaz",
+    "type": "Comedy - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/NazarAndaaz/NazarAndaaz(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/NazarAndaaz/NazarAndaaz/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Janhit Mein Jaari",
+    "type": "Love - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/JanhitMeinJaari/JanhitMeinJaari(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/JanhitMeinJaari/JanhitMeinJaari/MasterPlayList.m3u8"
   },
  {
     "name": "Bhediya",
     "type": "Suspense - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bhediya/Bhediya_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bhediya/Bhediya/Bhediya.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bhediya/Bhediya/MasterPlayList.m3u8"
   },
  {
     "name": "Cuttputlli",
     "type": "Crime - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cuttputlli/Cuttputlli_film.jpeg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cuttputlli/Cuttputlli/Cuttputlli.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Cuttputlli/Cuttputlli/MasterPlayList.m3u8"
   },
  {
     "name": "Double XL",
     "type": "Drama - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DoubleXL/Double_XL_2022_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DoubleXL/DoubleXL/DoubleXL.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DoubleXL/DoubleXL/MasterPlayList.m3u8"
   },
  {
     "name": "Bigil",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bigil/Bigil_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bigil/Bigil/Bigil.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Bigil/Bigil/MasterPlayList.m3u8"
   },
  {
     "name": "Dhokha: Round D Corner",
     "type": "Crime - Suspense / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DhokhaRoundDCorner/Dhokha_Round_D_Corner_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DhokhaRoundDCorner/DhokhaRoundDCorner/DhokhaRoundDCorner.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/DhokhaRoundDCorner/DhokhaRoundDCorner/MasterPlayList.m3u8"
   },
   {
     "name": "Doctor G",
@@ -225,54 +285,54 @@
     "name": "Bhool Bhulaiyaa 2",
     "type": "Drama - Horror / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiyaa2/Bhool_Bhulaiyaa_2_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiyaa2/BhoolBhulaiyaa2/BhoolBhulaiyaa2.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BhoolBhulaiyaa2/BhoolBhulaiyaa2/MasterPlayList.m3u8"
   },
  {
     "name": "Brahmāstra: Part One – Shiva",
     "type": "Action - Fantasy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BrahmastraPartOneShiva(2022)/Brahmastra_Part_One_Shiva.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BrahmastraPartOneShiva(2022)/brahmastrapartoneshiva/brahmastrapartoneshiva.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/BrahmastraPartOneShiva(2022)/brahmastrapartoneshiva/MasterPlayList.m3u8"
   },
   {
     "name": "Freddy",
     "type": "Suspense - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Freddy/Freddy_Official_Poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Freddy/Freddy/Freddy.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Freddy/Freddy/MasterPlayList.m3u8"
   },
   {
     "name": "Forensic",
     "type": "Suspense - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic/Forensic_Hindi_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic/Forensic/Forensic.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Forensic/Forensic/MasterPlayList.m3u8"
   },
  {
     "name": "Attack",
     "type": "Action - Suspense / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack/Attack_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack/attack/attack.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Attack/attack/MasterPlayList.m3u8"
   },
  {
     "name": "Captain",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Captain/Captain_2022_film.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Captain/Captain/Captain.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Captain/Captain/MasterPlayList.m3u8"
   },
   {
     "name": "Babloo Bachelor",
     "type": "Drama - Comedy / 2021",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor/Babloo_Bachelor_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor/BablooBachelor/BablooBachelor.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/BablooBachelor/BablooBachelor/MasterPlayList.m3u8"
   },
  {
     "name": "Lust Stories 1",
     "type": "Drama - Romance / 2018",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2018/LustStories1(2018)/Lust_Stories_(2018)_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2018/LustStories1(2018)/LustStories1/LustStories1.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2018/LustStories1(2018)/LustStories1/MasterPlayList.m3u8"
   },
  {
     "name": "Bruce Lee: The Fighter",
     "type": "Action - Romance / 2016",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/BruceLeeTheFighter/Bruce_Lee_The_Fighter.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/BruceLeeTheFighter/BruceLeeTheFighter/BruceLeeTheFighter.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/BruceLeeTheFighter/BruceLeeTheFighter/MasterPlayList.m3u8"
   }
 ]
