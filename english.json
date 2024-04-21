@@ -21,31 +21,73 @@
     "name": "57 Seconds",
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/57Seconds/Fifty_seven_seconds_poster.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/57Seconds/57Seconds/57Seconds.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/57Seconds/57Seconds/MasterPlayList.m3u8"
+  },
+ {
+    "name": "The Piper",
+    "type": "Horror - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/ThePiper/ThePiper.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/ThePiper/ThePiper/MasterPlayList.m3u8"
   },
  {
     "name": "Extraction 2",
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Extraction2/Extraction_2_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Extraction2/Extraction2/Extraction2.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Extraction2/Extraction2/MasterPlayList.m3u8"
+  },
+ {
+    "name": "The Hand",
+    "type": "Horror - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/TheHand/TheHand.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/TheHand/TheHand/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Safe House",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SafeHouse/SafeHouse.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SafeHouse/SafeHouse/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Silent Night",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SilentNight/SilentNight.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SilentNight/SilentNight/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Tearsucker",
+    "type": "Horror - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Tearsucker/TearSucker.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Tearsucker/Tearsucker/MasterPlayList.m3u8"
   },
  {
     "name": "Anyone but You",
     "type": "Drama - Romance / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/AnyoneButYou/Anyone_But_You_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/AnyoneButYou/AnyoneButYou/AnyoneButYou.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/AnyoneButYou/AnyoneButYou/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Saw X",
+    "type": "Horror - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SawX(2023)/sawX.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SawX(2023)/SawX(2023)/MasterPlayList.m3u8"
   },
  {
     "name": "Hidden Strike",
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/HiddenStrike/Hidden_Strike_(poster).png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/HiddenStrike/HiddenStrike/HiddenStrike.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/HiddenStrike/HiddenStrike/MasterPlayList.m3u8"
+  },
+ {
+    "name": "My Fault",
+    "type": "Romance - Love / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/MyFaultCulpaMia/My_Fault_(film)_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/MyFaultCulpaMia/MyFaultCulpaMia/MasterPlayList.m3u8"
   },
  {
     "name": "Evil Dead Rise",
     "type": "Horror - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/EvilDeadRise/EvilDeadRiseTeaser.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/EvilDeadRise/EvilDeadRise/EvilDeadRise.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/EvilDeadRise/EvilDeadRise/MasterPlayList.m3u8"
   },
  {
     "name": "Black Panther: Wakanda Forever",
@@ -66,6 +108,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/JurassicWorldDominion/JurassicWorldDominion/MasterPlayList.m3u8"
   },
  {
+    "name": "Morbius",
+    "type": "Vampire - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Morbius/Morbius_(film)_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Morbius/Morbius/MasterPlayList.m3u8"
+  },
+ {
     "name": "Fall",
     "type": "Survival - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Fall/Fall_(2022_film).jpg",
@@ -81,7 +129,7 @@
     "name": "Wifelike",
     "type": "Action - Fantasy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/WifeLike.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/Wifelike(2022)/Wifelike(2022).m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/Wifelike(2022)/Wifelike(2022)/MasterPlayList.m3u8"
   },
  {
     "name": "Fantastic Beasts: The Secrets of Dumbledore",
@@ -100,6 +148,12 @@
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoubleThreat/DoubleThreat.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DoubleThreat/DoubleThreat/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Malibu Crush",
+    "type": "Love - Fantasy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/MalibuCrush/MalibuCrush(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/MalibuCrush/MalibuCrush/MasterPlayList.m3u8"
   },
  {
     "name": "Avatar: The Way of Water",
