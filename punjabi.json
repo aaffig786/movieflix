@@ -21,36 +21,78 @@
     "name": "Honeymoon",
     "type": "Drama - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/Honeymoon/Honeymoon_(2022)_film_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/Honeymoon/Honeymoon/Honeymoon.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/Honeymoon/Honeymoon/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Maa Da Ladla",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/MaaDaLadla/MaaDaLadla(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/MaaDaLadla/MaaDaLadla/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Jug Jugg Jeeyo",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/JugJuggJeeyo/JugJuggJeeyo(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/JugJuggJeeyo/JugJuggJeeyo/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Sass Meri Ne Munda Jamya",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/SassMeriNeMundaJameya/SassMeriNeMundaJameya(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/SassMeriNeMundaJameya/SassMeriNeMundaJameya/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Main Te Bapu",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/MainTeBapu(2022)/MainTeBapu(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/MainTeBapu(2022)/MainTeBapu(2022)/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Jind Mahi",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/JindMahi/JindMahi(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/JindMahi/JindMahi/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Lekh",
+    "type": "Drama - Comedy / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/Lekh/Lekh(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/Lekh/Lekh/MasterPlayList.m3u8"
   },
  {
     "name": "Babe Bhangra Paunde Ne",
     "type": "Drama - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BabeBhangraPaundeNe/Babe_Bhangra_Paunde_Ne_(film).jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BabeBhangraPaundeNe/BabeBhangraPaundeNe/BabeBhangraPaundeNe.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BabeBhangraPaundeNe/BabeBhangraPaundeNe/MasterPlayList.m3u8"
   },
  {
     "name": "Bajre Da Sitta",
     "type": "Drama - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BajreDaSitta/Bajre_Da_Sitta_poster.png",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BajreDaSitta/BajreDaSitta/BajreDaSitta.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BajreDaSitta/BajreDaSitta/MasterPlayList.m3u8"
   },
  {
     "name": "Beautiful Billo",
     "type": "Drama - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BeautifulBillo/Beautiful%20Billo.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BeautifulBillo/BeautifulBillo/BeautifulBillo.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2022/BeautifulBillo/BeautifulBillo/MasterPlayList.m3u8"
   },
  {
     "name": "Honsla Rakh",
     "type": "Drama - Comedy / 2021",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2021/HonslaRakh/Honsla_Rakh_film.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2021/HonslaRakh/HonslaRakh/HonslaRakh.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2021/HonslaRakh/HonslaRakh/MasterPlayList.m3u8"
   },
  {
     "name": "Chandigarh Kare Aashiqui",
     "type": "Drama - Comedy / 2021",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/ChandigarhKareAashiqui(2021)/Chandigarh_Kare_Aashiqui_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2021/ChandigarhKareAashiqui(2021)/ChandigarhKareAashiqui(2021)/ChandigarhKareAashiqui.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2021/ChandigarhKareAashiqui/ChandigarhKareAashiqui(2021)/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Lahoriye",
+    "type": "Drama - Comedy / 2017",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2017/Lahoriye/Lahoriye(2017).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2017/Lahoriye/Lahoriye/MasterPlayList.m3u8"
   }
 ]
