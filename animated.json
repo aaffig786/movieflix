@@ -1,5 +1,17 @@
 [
  {
+    "name": "Hot Wheels Let's Race",
+    "type": "Movie / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2024/HotWheelsLetsRaceSeason1/HotWheelsLetsRaceSeason1.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2024/HotWheelsLetsRaceSeason1/HotWheelsLetsRaceSeason1/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Migration",
+    "type": "Movie / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2023/Migration/Migration_(2023_film).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2023/Migration/Migration/MasterPlayList.m3u8"
+  },
+ {
     "name": "Kung fu Panda the Dragon Knight",
     "type": "Season 1 / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/KungFuPandaSeason1(2022)/kungfupandacover.jpg",
@@ -8,8 +20,8 @@
  {
     "name": "Sonic the Hedgehog 2",
     "type": "Movie / 2022",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/SonicTheHedgehog2(2022)/sonic2.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/SonicTheHedgehog2(2022)/SonicTheHedgehog2(2022).mp4"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/SonicTheHedgehog2/Sonic_the_Hedgehog_2.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/SonicTheHedgehog2/SonicTheHedgehog2/MasterPlayList.m3u8"
   },
  {
     "name": "King",
@@ -21,6 +33,6 @@
     "name": "Minions: The Rise Of Gru",
     "type": "Movie / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/MinionsTheRiseofGru/Minions_The_Rise_of_Gru_poster.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/MinionsTheRiseofGru/MinionsTheRiseofGru/MinionsTheRiseofGru.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/MinionsTheRiseofGru/MinionsTheRiseofGru/MasterPlayList.m3u8"
   }
 ]
