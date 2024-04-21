@@ -1,8 +1,38 @@
 [
  {
+    "name": "Quaid-e-Azam Zindabad",
+    "type": "Comedy - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/QuaidEAzamZindabad/QuaidEAzamZindabad(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/QuaidEAzamZindabad/QuaidEAzamZindabad/MasterPlayList.m3u8"
+  },
+ {
+    "name": "London Nahi Jaunga",
+    "type": "Comedy - Drama / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/LondonNahiJaunga/LondonNahiJaonga.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/LondonNahiJaunga/LondonNahiJaunga/MasterPlayList.m3u8"
+  },
+ {
     "name": "Ruposh",
     "type": "Drama - Romance / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/Ruposh(2022)/ruhposh.jpeg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/Ruposh(2022)/Ruposh(2022).mp4"
+  },
+ {
+    "name": "Teefa in Trouble",
+    "type": "Comedy - Drama / 2018",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2018/TeefainTrouble/TeefainTrouble.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2018/TeefainTrouble/TeefainTrouble/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Maalik",
+    "type": "Action - Thriller / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/Maalik/Maalik_film.jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/Maalik/Maalik/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Tere Bin Laden",
+    "type": "Comedy - Thriller / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/TereBinLaden/Tere%20Bin%20Laden.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/TereBinLaden/TereBinLaden/MasterPlayList.m3u8"
   }
 ]
