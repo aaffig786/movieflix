@@ -150,10 +150,22 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/KGFChapter2/KGFChapter2/MasterPlayList.m3u8"
   },
  {
+    "name": "RED",
+    "type": "Action - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Red(2022)/Red_2020_Poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/Red(2022)/Red(2022)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Raja Vikramarka",
     "type": "Action - Thriller / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RajaVikramarka/RajaVikramarka(2022).jpeg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RajaVikramarka/RajaVikramarka/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Raw: Beast",
+    "type": "Action - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RawBeast/Beast_2022_Indian_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RawBeast/RawBeast/MasterPlayList.m3u8"
   },
  {
     "name": "Ek Villain Returns",
