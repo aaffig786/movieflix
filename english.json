@@ -245,6 +245,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/MonkeyKing/MonkeyKing/MasterPlayList.m3u8"
   },
+  {
+    "name": "Dune: Part 1",
+    "type": "Thriller - Action / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/Dune(2021)/Dune(2021).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/Dune(2021)/Dune(2021)/MasterPlayList.m3u8"
+  },
  {
     "name": "The Cursed",
     "type": "Thriller - Horror / 2021",
