@@ -12,6 +12,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2023/Migration/Migration/MasterPlayList.m3u8"
   },
  {
+    "name": "Chicken Run: Dawn of the Nugget",
+    "type": "Movie / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2023/ChickenRunDawnOfTheNugget/ChickenRunDawnOfTheNugget(2023).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2023/ChickenRunDawnOfTheNugget/ChickenRunDawnOfTheNugget/MasterPlayList.m3u8"
+  },
+ {
     "name": "Kung fu Panda the Dragon Knight",
     "type": "Season 1 / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2022/Kung%20Fu%20Panda%3A%20Season1/KungfuPandaTheDragonKnightSeason1/KungfuPandaTheDragonKnight(2022)Season1.jpg",
