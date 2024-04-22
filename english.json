@@ -270,6 +270,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey/FiftyShadesofGrey/MasterPlayList.m3u8"
   },
  {
+    "name": "Predestination",
+    "type": "Action - Thriller / 2014",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2014/Predestination(2014)/Predestination(2014).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2014/Predestination(2014)/Predestination(2014)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Gulliver's Travels",
     "type": "Adventure - Comedy / 2010",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2010/Gulliver'sTravels/Gullivers_travels_2010_poster.jpg",
