@@ -1,26 +1,50 @@
 [
  {
+    "name": "Big Girls Dont Cry",
+    "type": "Season 1 - Stories / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/BigGirlsDontCrySeason1/BigGirlsDon%E2%80%99tCry(2024)Season1.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/BigGirlsDontCrySeason1/BigGirlsDontCrySeason1/MasterPlayList.m3u8"
+  },
+ {
+    "name": "3 Body Problem",
+    "type": "Season 1 - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/ThreeBodyProblem.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/ThreeBodyProblem(2024)Season1/MasterPlayList.m3u8"
+  },
+ {
     "name": "Furies",
     "type": "Season 1 - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Furies-Season1/Furies(2024)Season1.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Furies-Season1/Furies-Season1/Furies-Season1.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Furies-Season1/Furies-Season1/MasterPlayList.m3u8"
   },
  {
     "name": "Expats",
     "type": "Season 1 - Stories / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Expats-Season1/Expats_poster.webp",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Expats-Season1/Expats-Season1/Expats.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/Expats-Season1/Expats-Season1/MasterPlayList.m3u8"
   },
  {
     "name": "Avatar: The Last Airbender",
     "type": "Season 1 - Adventure / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/AvatarTheLastAirbender-Season1/AvatarTheLastAirbender-Season1/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Lockwood & Co.",
+    "type": "Season 1 - Suspense / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2023/Lockwood/Lockwood_and_Co_poster.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2023/Lockwood/MasterPlayList.m3u8"
   },
  {
     "name": "Man vs Bee",
     "type": "Season 1 - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2022/ManvsBee(2022)Season1/manvsbeecover.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2022/ManvsBee(2022)Season1/manvsbee2022Season1complete.mp4"
+  },
+ {
+    "name": "Money Heist",
+    "type": "Season 1 - Crime / 2017",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2017/MoneyHeistSeason1/MoneyHeist.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2017/MoneyHeistSeason1/MoneyHeistSeason1/MasterPlayList.m3u8"
   }
 ]
