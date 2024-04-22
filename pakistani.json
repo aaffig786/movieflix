@@ -34,5 +34,11 @@
     "type": "Comedy - Thriller / 2016",
     "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/TereBinLaden/Tere%20Bin%20Laden.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/TereBinLaden/TereBinLaden/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Wrong No.",
+    "type": "Comedy - Drama / 2015",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2015/WrongNo/WrongNo.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2015/WrongNo/WrongNo/MasterPlayList.m3u8"
   }
 ]
