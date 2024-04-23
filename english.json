@@ -79,7 +79,7 @@
   },
  {
     "name": "Barbie",
-    "type": "Fun - Barbie / 2023",
+    "type": "Fun - Drama / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Barbie(2023)/Barbie(2023).jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/Barbie(2023)/Barbie(2023)/MasterPlayList.m3u8"
   },
@@ -94,6 +94,12 @@
     "type": "Action - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SilentNight/SilentNight.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/SilentNight/SilentNight/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Praise This",
+    "type": "Drama - Romance / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/PraiseThis(2023)/PraiseThis(2023).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/PraiseThis(2023)/PraiseThis(2023)/MasterPlayList.m3u8"
   },
  {
     "name": "Tearsucker",
