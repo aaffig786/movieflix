@@ -1,5 +1,11 @@
 [
  {
+    "name": "The Source",
+    "type": "Season 1 - Thriller / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/TheSourceSeason1/TheSourceSeason1.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/TheSourceSeason1/TheSourceSeason1/MasterPlayList.m3u8"
+  },
+ {
     "name": "Code 8: Part II",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/Code8PartII/Code_eight_part_II_poster.jpg",
