@@ -317,6 +317,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/Fifty_Shades_Darker_film_poster.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/MasterPlayList.m3u8"
   },
+  {
+    "name": "Captain America: Civil War",
+    "type": "Action - Superhero / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2016/CaptainAmericaCivilWar(2016)/CaptainAmericaCivilWar(2016).jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2016/CaptainAmericaCivilWar(2016)/CaptainAmericaCivilWar(2016)/MasterPlayList.m3u8"
+  },
  {
     "name": "Fifty Shades of Grey",
     "type": "Romance - Erotic / 2015",
