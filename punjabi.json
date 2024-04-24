@@ -18,6 +18,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/CarryonJatta/CarryonJatta/MasterPlayList.m3u8"
   },
  {
+    "name": "Gudiya",
+    "type": "Drama - Horror / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/Gudiya(2023)/Gudiya(2023).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/Gudiya(2023)/Gudiya(2023)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Buhe Bariyan",
     "type": "Drama - Comedy / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/BuheBariyan/BuheBariyan(2023).jpg",
