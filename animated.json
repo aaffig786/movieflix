@@ -1,5 +1,11 @@
 [
  {
+    "name": "Kung Fu Panda 4",
+    "type": "Movie / 2024",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2024/KungFuPanda4(2024)/KungFuPanda4(2024).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2024/KungFuPanda4(2024)/KungFuPanda4(2024)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Hot Wheels Let's Race",
     "type": "Movie / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2024/HotWheelsLetsRaceSeason1/HotWheelsLetsRaceSeason1.jpg",
