@@ -18,6 +18,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2022/Ruposh/Ruposh/MasterPlayList.m3u8"
   },
  {
+    "name": "Achari Mohabbat",
+    "type": "Comedy - Drama / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2021/AchariMohabbat/AchariMohabbat(2021).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2021/AchariMohabbat/AchariMohabbat/MasterPlayList.m3u8"
+  },
+ {
     "name": "Teefa in Trouble",
     "type": "Comedy - Drama / 2018",
     "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2018/TeefainTrouble/TeefainTrouble.jpeg",
