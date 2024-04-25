@@ -12,6 +12,18 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/TheSourceSeason1/TheSourceSeason1/MasterPlayList.m3u8"
   },
  {
+    "name": "Captain America: The Winter Soldier",
+    "type": "Action - Superhero / 2014",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2014/CaptainAmericaTheWinterSoldier(2014)/CaptainAmericaTheWinterSoldier(2014).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2014/CaptainAmericaTheWinterSoldier(2014)/CaptainAmericaTheWinterSoldier(2014)/MasterPlayList.m3u8"
+  },
+ {
+    "name": "Captain America: The First Avenger",
+    "type": "Action - Superhero / 2011",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2011/CaptainAmericaTheFirstAvenger(2011)/CaptainAmericaTheFirstAvenger.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2011/CaptainAmericaTheFirstAvenger(2011)/CaptainAmericaTheFirstAvenger(2011)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Code 8: Part II",
     "type": "Action - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2024/Code8PartII/Code_eight_part_II_poster.jpg",
