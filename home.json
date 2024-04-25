@@ -12,6 +12,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/TheSourceSeason1/TheSourceSeason1/MasterPlayList.m3u8"
   },
  {
+    "name": "Captain America: Civil War",
+    "type": "Action - Superhero / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2016/CaptainAmericaCivilWar(2016)/CaptainAmericaCivilWar(2016).jpeg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2016/CaptainAmericaCivilWar(2016)/CaptainAmericaCivilWar(2016)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Captain America: The Winter Soldier",
     "type": "Action - Superhero / 2014",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2014/CaptainAmericaTheWinterSoldier(2014)/CaptainAmericaTheWinterSoldier(2014).jpg",
