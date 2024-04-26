@@ -336,6 +336,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FiftyShadesofGrey/FiftyShadesofGrey/MasterPlayList.m3u8"
   },
  {
+    "name": "Mad Max: Fury Road",
+    "type": "Thriller - Action / 2015",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2015/MadMaxFuryRoad(2015)/MadMaxFuryRoad(2015).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/MadMaxFuryRoad(2015)/MadMaxFuryRoad(2015)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Predestination",
     "type": "Action - Thriller / 2014",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2014/Predestination(2014)/Predestination(2014).jpg",
