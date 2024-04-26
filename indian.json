@@ -460,5 +460,11 @@
     "type": "Action - Romance / 2016",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/BruceLeeTheFighter/Bruce_Lee_The_Fighter.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/BruceLeeTheFighter/BruceLeeTheFighter/MasterPlayList.m3u8"
+  },
+  {
+    "name": "Mardaani",
+    "type": "Action - Romance / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2014/Mardaani(2014)/Mardaani(2014).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2014/Mardaani(2014)/Mardaani(2014)/MasterPlayList.m3u8"
   }
 ]
