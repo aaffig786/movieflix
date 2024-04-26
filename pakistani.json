@@ -54,6 +54,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/Maalik/Maalik/MasterPlayList.m3u8"
   },
  {
+    "name": "Janaan",
+    "type": "Comedy - Drama / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/Janaan(2016)/Janaan(2016).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/Janaan(2016)/Janaan(2016)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Tere Bin Laden",
     "type": "Comedy - Thriller / 2016",
     "image_url": "https://storage.googleapis.com/movieflixvideos/pakistani/2016/TereBinLaden/Tere%20Bin%20Laden.jpg",
