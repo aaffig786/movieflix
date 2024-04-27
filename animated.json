@@ -90,6 +90,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2021/WishDragon(2021)/WishDragon(2021)/MasterPlayList.m3u8"
   },
  {
+    "name": "Happy Feet Two",
+    "type": "Movie / 2011",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2011/HappyFeetTwo(2011)/HappyFeetTwo(2011).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2011/HappyFeetTwo(2011)/HappyFeetTwo(2011)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Up",
     "type": "Movie / 2009",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2009/Up(2009)/up2009.jpg",
