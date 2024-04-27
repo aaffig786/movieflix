@@ -65,6 +65,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/ThePiper/ThePiper.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/ThePiper/ThePiper/MasterPlayList.m3u8"
   },
+  {
+    "name": "The Flash",
+    "type": "SuperHero - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2023/TheFlash(2023)/TheFlash(2023).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2023/TheFlash(2023)/TheFlash(2023)/MasterPlayList.m3u8"
+  },
  {
     "name": "Extraction 2",
     "type": "Action - Thriller / 2023",
