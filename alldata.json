@@ -84,12 +84,6 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2024/RickyStanicky/RickyStanicky/MasterPlayList.m3u8"
   },
  {
-    "name": "3 Body Problem",
-    "type": "Season 1 - Thriller / 2024",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/ThreeBodyProblem.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/ThreeBodyProblem(2024)Season1/MasterPlayList.m3u8"
-  },
- {
     "name": "Fighter",
     "type": "Action - Drama / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2024/Fighter/Fighter2024.jpg",
@@ -243,7 +237,7 @@
     "name": "3 Body Problem",
     "type": "Season 1 - Thriller / 2024",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/ThreeBodyProblem.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/3BodyProblem(2024)Season1/MasterPlayList.m3u8"
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/English/2024/3BodyProblemSeason1(2024)/3BodyProblem(2024)Season1/720p.m3u8"
   },
  {
     "name": "Furies",
