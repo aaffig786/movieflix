@@ -144,6 +144,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Jailer(2023)/Jailer/MasterPlayList.m3u8"
   },
   {
+    "name": "Skanda",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Skanda(2023)/Skanda(2023).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Skanda(2023)/Skanda(2023)/MasterPlayList.m3u8"
+  },
+  {
     "name": "Dunki",
     "type": "Drama - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Dunki(2023)/Dunki(2023).jpg",
