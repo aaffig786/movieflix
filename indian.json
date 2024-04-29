@@ -479,6 +479,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2017/Lie/Lie_release_date_poster.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2017/Lie/MasterPlayList.m3u8"
   },
+  {
+    "name": "Sultan",
+    "type": "Action - Drama / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/Sultan(2016)/Sultan(2016).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2016/Sultan(2016)/Sultan(2016)/MasterPlayList.m3u8"
+  },
  {
     "name": "Force 2",
     "type": "Action - Thriller / 2016",
