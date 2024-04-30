@@ -299,6 +299,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/TheCursed/The_Cursed_(2021_film).jpeg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/TheCursed/TheCursed/MasterPlayList.m3u8"
   },
+  {
+    "name": "John Wick: Chapter 3 - Parabellum",
+    "type": "Action - Thriller / 2019",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2019/JohnWickChapter3Parabellum(2019)/JohnWickChapter3Parabellum(2019).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2019/JohnWickChapter3Parabellum(2019)/JohnWickChapter3Parabellum(2019)/MasterPlayList.m3u8"
+  },
  {
     "name": "Fast & Furious: Hobbs & Shaw",
     "type": "Action - Thriller / 2019",
