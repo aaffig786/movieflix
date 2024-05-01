@@ -281,6 +281,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RajaVikramarka/RajaVikramarka(2022).jpeg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/RajaVikramarka/RajaVikramarka/MasterPlayList.m3u8"
   },
+  {
+    "name": "Samrat Prithviraj",
+    "type": "Drama - Thriller / 2022",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/SamratPrithviraj(2022)/SamratPrithviraj(2022).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2022/SamratPrithviraj(2022)/SamratPrithviraj(2022)/MasterPlayList.m3u8"
+  },
  {
     "name": "Raw: Beast",
     "type": "Action - Thriller / 2022",
