@@ -42,10 +42,16 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy/BloodyDaddy/MasterPlayList.m3u8"
   },
  {
+    "name": "Sultan of Delhi",
+    "type": "Season 1 - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy/BloodyDaddy(2023).webp",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy/BloodyDaddy/MasterPlayList.m3u8"
+  },
+ {
     "name": "Farzi",
     "type": "Season 1 - Thriller / 2023",
-    "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/Farzi(2023)Season1/Farzi(2023)Season1.jpg",
-    "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/Farzi(2023)Season1/Farzi(2023)Season1/MasterPlayList.m3u8"
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/SultanofDelhi(2023)HindiSeason1/SultanofDelhi(2023)HindiSeason1.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/SultanofDelhi(2023)HindiSeason1/SultanofDelhi(2023)HindiSeason1/MasterPlayList.m3u8"
   },
  {
     "name": "HIT: The Second Case",
