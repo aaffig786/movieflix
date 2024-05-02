@@ -90,6 +90,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2021/WishDragon(2021)/WishDragon(2021)/MasterPlayList.m3u8"
   },
  {
+    "name": "The Big Trip",
+    "type": "Movie / 2019",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2019/TheBigTrip(2019)/TheBigTrip(2019).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/animated/2019/TheBigTrip(2019)/TheBigTrip(2019)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Home",
     "type": "Movie / 2015",
     "image_url": "https://storage.googleapis.com/movieflixvideos/animated/2015/Home(2015)/Home(2015).jpg",
