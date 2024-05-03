@@ -36,6 +36,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2024/IndianPoliceForceSeason1/IndianPoliceForce/MasterPlayList.m3u8"
   },
  {
+    "name": "Rana Naidu - Season 1",
+    "type": "Episode 1-5 - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/RanaNaidu(2023)Season1E1-5/RanaNaidu2023.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/RanaNaidu(2023)Season1E1-5/RanaNaidu(2023)Season1E1-5/MasterPlayList.m3u8"
+  },
+ {
     "name": "Bloody Daddy",
     "type": "Season 1 - Thriller / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2023/BloodyDaddy/BloodyDaddy(2023).webp",
