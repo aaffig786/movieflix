@@ -186,6 +186,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2021/ChandigarhKareAashiqui/ChandigarhKareAashiqui(2021)/MasterPlayList.m3u8"
   },
  {
+    "name": "Sufna",
+    "type": "Drama - Comedy / 2020",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2020/Sufna(2020)/Sufna(2020).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2020/Sufna(2020)/Sufna(2020)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Lahoriye",
     "type": "Drama - Comedy / 2017",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2017/Lahoriye/Lahoriye(2017).jpg",
