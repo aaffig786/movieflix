@@ -269,6 +269,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/Day_Shift_(film).jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2022/DayShift/DayShift/MasterPlayList.m3u8"
   },
+  {
+    "name": "Fast & Furious 9",
+    "type": "Thriller - Action / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2021/FastAndFurious9(2021)/FastAndFurious9(2021).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2021/FastAndFurious9(2021)/FastAndFurious9(2021)/MasterPlayList.m3u8"
+  },
  {
     "name": "Nobody",
     "type": "Action - Thriller / 2021",
