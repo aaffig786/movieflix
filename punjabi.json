@@ -66,6 +66,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/BuheBariyan/BuheBariyan/MasterPlayList.m3u8"
   },
  {
+    "name": "Sardara and Sons",
+    "type": "Drama - Comedy / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023).jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023)/MasterPlayList.m3u8"
+  },
+ {
     "name": "Bujharat Heere Di",
     "type": "Drama - Comedy / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2023/BujharatHeereDi/BujharatHeereDi(2023).jpg",
