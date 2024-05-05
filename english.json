@@ -408,6 +408,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/MasterPlayList.m3u8"
   },
   {
+    "name": "Arrival",
+    "type": "Action - Thriller / 2016",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2016/Arrival(2016)/Arrival(2016)_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2016/Arrival(2016)/Arrival(2016)/MasterPlayList.m3u8"
+  },
+  {
     "name": "Captain America: Civil War",
     "type": "Action - Superhero / 2016",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2016/CaptainAmericaCivilWar(2016)/CaptainAmericaCivilWar(2016).jpeg",
