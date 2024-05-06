@@ -425,6 +425,12 @@
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2016/DoctorStrange(2016)/Doctor%20Strange.jpg",
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2016/DoctorStrange(2016)/DoctorStrange(2016)/MasterPlayList.m3u8"
   },
+  {
+    "name": "Insidious: Chapter 3",
+    "type": "Horror - Thriller / 2015",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2015/InsidiousChapter3(2015)/InsidiousChapter3(2015)_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/InsidiousChapter3(2015)/InsidiousChapter3(2015)/MasterPlayList.m3u8"
+  },
  {
     "name": "Fifty Shades of Grey",
     "type": "Romance - Erotic / 2015",
