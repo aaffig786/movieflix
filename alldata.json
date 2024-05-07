@@ -1,4 +1,10 @@
 [
+        {
+    "name": "Monsters University",
+    "type": "Movie / 2013",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2013/MonstersUniversity(2013)/MonstersUniversity(2013)_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/punjabi/2013/MonstersUniversity(2013)/MonstersUniversity(2013)/MasterPlayList.m3u8"
+  },
        {
     "name": "Naukar Vahuti Da",
     "type": "Drama - Comedy / 2019",
