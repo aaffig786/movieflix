@@ -474,6 +474,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/FastAndFurious7(2015)/FastAndFurious7(2015)/MasterPlayList.m3u8"
   },
   {
+    "name": "The Rezort",
+    "type": "Thriller - Horror / 2015",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/english/2015/TheRezort(2015)/TheRezort(2015)_11zon.webp",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/english/2015/TheRezort(2015)/TheRezort(2015)/MasterPlayList.m3u8"
+  },
+  {
     "name": "John Wick: Chapter 1",
     "type": "Action - Thriller / 2014",
     "image_url": "https://storage.googleapis.com/movieflixvideos/english/2014/JohnWick(2014)/JohnWick(2014).jpg",
