@@ -150,6 +150,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/Animal(2023)/Animal(2023)/MasterPlayList.m3u8"
   },
   {
+    "name": "Sam Bahadur",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/SamBahadur(2023)/SamBahadur(2023)_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/SamBahadur(2023)/SamBahadur(2023)/MasterPlayList.m3u8"
+  },
+  {
     "name": "Orange Lilly",
     "type": "Drama - Romance / 2023",
     "image_url": "https://storage.googleapis.com/movieflixvideos/indian/2023/OrangeLilly(2023)/OrangeLilly(2023)_11zon.jpg",
