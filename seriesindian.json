@@ -180,6 +180,12 @@
     "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2021/MumbaiDiaries2611(2021)HindiSeason1/MumbaiDiaries2611(2021)HindiSeason1/MasterPlayList.m3u8"
   },
  {
+    "name": "Undekhi",
+    "type": "Season 1 - Thriller / 2020",
+    "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2020/Undekhi(2020)HindiSeason1/Undekhi(2020)HindiSeason1_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2020/Undekhi(2020)HindiSeason1/Undekhi(2020)HindiSeason1/MasterPlayList.m3u8"
+  },
+ {
     "name": "Criminal Justice",
     "type": "Season 1 - Thriller / 2019",
     "image_url": "https://storage.googleapis.com/movieflixvideos/series/Indian/2019/CriminalJusticeSeason1/Criminal_Justice_India.jpeg",
