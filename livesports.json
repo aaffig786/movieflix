@@ -2,11 +2,11 @@
    {
     "tvName": "All Sports",
     "tvUrl": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
-    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/AllSports.jpeg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/AllSports.jpeg"
   },
   {
     "tvName": "Sports Tv",
     "tvUrl": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-    "tvImageUrl": "https://storage.googleapis.com/movieflixvideos/iptvlogo/SportsTv.jpg"
+    "tvImageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/SportsTv.jpg"
   } 
 ]
