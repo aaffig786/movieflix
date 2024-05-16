@@ -336,6 +336,12 @@
     "video_url": "https://storage.googleapis.com/movieflixmovies/english/2021/FastAndFurious9(2021)/FastAndFurious9(2021)/MasterPlayList.m3u8"
   },
   {
+    "name": "Outside the Wire",
+    "type": "Action - Thriller / 2021",
+    "image_url": "https://storage.googleapis.com/movieflixmovies/english/2021/OutsidetheWire(2021)/OutsidetheWire(2021)_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixmovies/english/2021/OutsidetheWire(2021)/OutsidetheWire(2021)/MasterPlayList.m3u8"
+  },
+  {
     "name": "Silent Hours",
     "type": "Romance - Thriller / 2021",
     "image_url": "https://storage.googleapis.com/movieflixmovies/english/2021/SilentHours(2021)/SilentHours_2021__11zon.jpg",
