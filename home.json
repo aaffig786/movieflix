@@ -1,5 +1,11 @@
 [
       {
+    "name": "Plane",
+    "type": "Action - Thriller / 2023",
+    "image_url": "https://storage.googleapis.com/movieflixmovies/english/2023/Plane(2023)/Plane(2023)_11zon.webp",
+    "video_url": "https://storage.googleapis.com/movieflixmovies/english/2023/Plane(2023)/Plane(2023)/MasterPlayList.m3u8"
+  },
+      {
     "name": "Plan A Plan B",
     "type": "Drama - Comedy / 2022",
     "image_url": "https://storage.googleapis.com/movieflixmovies/indian/2022/PlanAPlanB(2022)/PlanAPlanB_11zon.jpg",
