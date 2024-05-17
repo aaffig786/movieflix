@@ -432,6 +432,12 @@
     "video_url": "https://storage.googleapis.com/movieflixmovies/english/2019/EscapeRoom(2019)/EscapeRoom(2019)/MasterPlayList.m3u8"
   },
   {
+    "name": "Ready Player One",
+    "type": "Anime - Thriller / 2018",
+    "image_url": "https://storage.googleapis.com/movieflixmovies/english/2018/ReadyPlayerOne(2018)/ReadyPlayerOne(2018)_11zon.jpg",
+    "video_url": "https://storage.googleapis.com/movieflixmovies/english/2018/ReadyPlayerOne(2018)/ReadyPlayerOne(2018)/MasterPlayList.m3u8"
+  },
+  {
     "name": "No Escape Room",
     "type": "Horror - Thriller / 2018",
     "image_url": "https://storage.googleapis.com/movieflixmovies/english/2018/NoEscapeRoom(2018)/NoEscapeRoom(2018)_11zon.jpg",
