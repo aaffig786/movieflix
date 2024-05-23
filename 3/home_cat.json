@@ -1,0 +1,62 @@
+[
+ {
+    "categoryId": "3",
+    "categoryTitle": "Movies",
+   "categoryItemList": [
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/GunsandGulaabs(2023)HindiSeason1/GunsandGulaabs(2023)HindiSeason1/720p.m3u8",
+        "id": 1,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/GunsandGulaabs(2023)HindiSeason1/GunsandGulaabs(2023)HindiSeason1_11zon.jpg",
+        "movieName": "Guns & Gulaabs"
+      },
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/1920HorrorsoftheHeart(2023)/1920HorrorsoftheHeart(2023)/720p.m3u8",
+        "id": 2,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/1920HorrorsoftheHeart(2023)/1920HorrorsoftheHeart(2023)_11zon.jpg",
+        "movieName": "1920: Horrors of the Heart"
+      },
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8",
+        "id": 3,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1.jpg",
+        "movieName": "Amber Girls School"
+      }
+    ]
+  },
+ {
+    "categoryId": "3",
+    "categoryTitle": "Series",
+   "categoryItemList": [
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8",
+        "id": 1,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1.jpg",
+        "movieName": "Amber Girls School"
+      },
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/ThankYouNext(2024)Season1/ThankYouNext(2024)Season1/720p-1.m3u8",
+        "id": 2,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/ThankYouNext(2024)Season1/ThankYouNext(2024)Season1_11zon.jpeg",
+        "movieName": "Thank You, Next"
+      },
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)/720p.m3u8",
+        "id": 3,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)_11zon.jpg",
+        "movieName": "Oye Bhole Oye"
+      },
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/pakistani/2022/QuaidEAzamZindabad/QuaidEAzamZindabad/720p.m3u8",
+        "id": 4,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/pakistani/2022/QuaidEAzamZindabad/QuaidEAzamZindabad(2022).jpg",
+        "movieName": "Quaid-e-Azam Zindabad"
+      },
+     {
+        "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)/720p.m3u8",
+        "id": 5,
+        "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)_11zon.jpg",
+        "movieName": "Godzilla x Kong: The New Empire"
+      }
+    ]
+  }
+]
