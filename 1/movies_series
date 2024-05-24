@@ -1,1 +1,17 @@
-
+[
+    {
+        "typeId": "1",
+        "typeItemList": [
+            {
+                "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/GameOn(2024)/GameOn(2024)/720p.m3u8",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/GameOn(2024)/GameOn(2024)_11zon.jpg",
+                "movieName": "Game On"
+            },
+            {
+                "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/SIT(2024)/SIT(2024)/720p.m3u8",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/SIT(2024)/SIT(2024).jpg",
+                "movieName": "S.I.T (SPECIAL INVESTIGATION TEAM)"
+            }
+        ]
+    }
+]
