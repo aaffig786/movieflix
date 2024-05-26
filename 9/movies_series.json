@@ -1,1 +1,19 @@
-
+[
+	{
+        "typeId": "9",
+        "typeItemList": [
+   {
+    "movieName": "All Sports",
+  	"type": "Sports",
+  	"imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/AllSports.jpeg",
+    "videoUrl": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
+  },
+  {
+    "movieName": "Sports Tv",
+  	"type": "Sports",
+  	"imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/SportsTv.jpg",
+    "videoUrl": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+  } 
+]
+  }
+]
