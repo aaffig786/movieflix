@@ -5,41 +5,37 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/OuterRange(2024)HindiDubbedSeason2/OuterRange(2024)HindiDubbedSeason2.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/OuterRange(2024)HindiDubbedSeason2/OuterRange(2024)HindiDubbedSeason2/720p.m3u8"
   },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/1920HorrorsoftheHeart(2023)/1920HorrorsoftheHeart(2023)/720p.m3u8",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/1920HorrorsoftheHeart(2023)/1920HorrorsoftheHeart(2023)_11zon.jpg",
-    "movieName": "1920: Horrors of the Heart"
-  },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8",
+ {
+    "movieName": "Amber Girls School",
+    "type": "Season 1 - Romance / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1.jpg",
-    "movieName": "Amber Girls School"
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8"
   },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1.jpg",
-    "movieName": "Amber Girls School"
-  },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/ThankYouNext(2024)Season1/ThankYouNext(2024)Season1/720p-1.m3u8",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/ThankYouNext(2024)Season1/ThankYouNext(2024)Season1_11zon.jpeg",
-    "movieName": "Thank You, Next"
-  },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)/720p.m3u8",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)_11zon.jpg",
-    "movieName": "Oye Bhole Oye"
-  },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/pakistani/2022/QuaidEAzamZindabad/QuaidEAzamZindabad/720p.m3u8",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/pakistani/2022/QuaidEAzamZindabad/QuaidEAzamZindabad(2022).jpg",
-    "movieName": "Quaid-e-Azam Zindabad"
-  },
-  {
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)/720p.m3u8",
+    {
+    "movieName": "Godzilla x Kong: The New Empire",
+    "type": "Adventure - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)_11zon.jpg",
-    "movieName": "Godzilla x Kong: The New Empire"
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)/720p.m3u8"
   },
+ {
+    "movieName": "Tujhpe Main Fida",
+    "type": "Season 1 - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/TujhpeMainFida(2024)HindiSeason1/TujhpeMainFida(2024)HindiSeason1_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/TujhpeMainFida(2024)HindiSeason1/TujhpeMainFida(2024)HindiSeason1/720p-1.m3u8"
+  }, 
+ {
+    "movieName": "Thank You, Next",
+    "type": "Season 1 - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/ThankYouNext(2024)Season1/ThankYouNext(2024)Season1_11zon.jpeg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/ThankYouNext(2024)Season1/ThankYouNext(2024)Season1/720p-1.m3u8"
+  },
+  {
+    "movieName": "S.I.T (SPECIAL INVESTIGATION TEAM)",
+    "type": "Crime - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/SIT(2024)/SIT(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/SIT(2024)/SIT(2024)/720p.m3u8"
+  },
+  
   {
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/Noah’sArk(2024)/Noah’sArk(2024)/720p.m3u8",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/Noah%E2%80%99sArk(2024)/Noah%E2%80%99sArk(2024).jpg",
