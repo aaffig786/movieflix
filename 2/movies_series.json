@@ -2,348 +2,602 @@
 	{
         "typeId": "2",
         "typeItemList": [
+  
   {
-    "movieName": "Blackia 2",
+    "movieName": "Godzilla x Kong: The New Empire",
+    "type": "Adventure - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)/720p.m3u8"
+  },
+  {
+    "movieName": "Arthur the King",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/ArthurtheKing(2024)/ArthurtheKing(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/ArthurtheKing(2024)/ArthurtheKing(2024)/720p.m3u8"
+  },
+ {
+    "movieName": "Code 8: Part II",
     "type": "Action - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Blackia2(2024)/Blackia2(2024)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Blackia2(2024)/Blackia2(2024)/720p.m3u8"
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Code8PartII/Code_eight_part_II_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Code8PartII/Code8PartII/720p.m3u8"
+  },
+
+ {
+    "movieName": "Mea Culpa",
+    "type": "Romance - Fantasy / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/MeaCulpa/Mea_Culpa_2024_film_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/MeaCulpa/MeaCulpa/720p.m3u8"
   },
  {
-    "movieName": "Oye Bhole Oye",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)/720p.m3u8"
+    "movieName": "The Bad Shepherd",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheBadShepherd/TheBadShepherd(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheBadShepherd/TheBadShepherd/720p.m3u8"
   },
  {
-    "movieName": "Kali Jotta",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KaliJotta(2023)/KaliJotta(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KaliJotta(2023)/KaliJotta(2023)/720p.m3u8"
+    "movieName": "Beautiful Wedding",
+    "type": "Love - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/BeautifulWedding/BeautifulWedding(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/BeautifulWedding/BeautifulWedding/720p.m3u8"
   },
  {
-    "movieName": "Amar Singh Chamkila",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/AmarSinghChamkila/AmarSinghChamkila.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/AmarSinghChamkila/AmarSinghChamkila/720p.m3u8"
+    "movieName": "Somewhere Quiet",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/SomewhereQuiet/SomewhereQuiet__Poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/SomewhereQuiet/SomewhereQuiet/720p.m3u8"
   },
  {
-    "movieName": "Jatta Dolie Naa",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JattaDolieNaa(2024)/JattaDolieNaa(2024).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JattaDolieNaa(2024)/JattaDolieNaa(2024)/720p.m3u8"
+    "movieName": "Ricky Stanicky",
+    "type": "Comedy - Action / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/RickyStanicky/Ricky%20Stanicky.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/RickyStanicky/RickyStanicky/720p.m3u8"
   },
  {
-    "movieName": "Lucky Scheme",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/LuckyScheme(2024)/LuckyScheme(2024).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/LuckyScheme(2024)/LuckyScheme(2024)/720p.m3u8"
+    "movieName": "The Wages of Fear",
+    "type": "War - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheWagesofFear/The%20Wages%20of%20Fear.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheWagesofFear/TheWagesofFear/720p.m3u8"
   },
  {
-    "movieName": "Warning 2",
-    "type": "Drama - Action / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Warning2(2024)/Warning2(2024)).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Warning2(2024)/Warning2(2024)/720p.m3u8"
-  },
- {
-    "movieName": "Annhi Dea Mazaak Ae",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnnhiDeaMazaakAe(2023)/AnnhiDeaMazaakAe(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnnhiDeaMazaakAe(2023)/AnnhiDeaMazaakAe(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Boo Main Dargi",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/BooMainDargi/BooMainDargi(2024).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/BooMainDargi/BooMainDargi/720p.m3u8"
+    "movieName": "Art of Love",
+    "type": "Romance - Fantasy / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/ArtofLove/Art%20of%20Love.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/ArtofLove/ArtofLove/720p.m3u8"
   },
   {
-    "movieName": "Bhootni De",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BhootniDe(2023)/BhootniDe(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BhootniDe(2023)/BhootniDe(2023)/720p.m3u8"
+    "movieName": "John Wick: Chapter 4",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/JohnWickChapter4(2023)/JohnWickChapter4(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/JohnWickChapter4(2023)/JohnWickChapter4(2023)/720p.m3u8"
   },
  {
-    "movieName": "Carry on Jatta 3",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/CarryonJatta/Carry_on_Jatta_3_film_poster.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/CarryonJatta/CarryonJatta3(2023)/720p.m3u8"
+    "movieName": "57 Seconds",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/57Seconds/Fifty_seven_seconds_poster.png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/57Seconds/57Seconds/720p.m3u8"
   },
  {
-    "movieName": "Chida Vichara Ki Kare",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/ChidaVicharaKiKare(2023)/ChidaVicharaKiKare(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/ChidaVicharaKiKare(2023)/ChidaVicharaKiKare(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Sidhus of Southall",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SidhusofSouthall(2023)/SidhusofSouthall(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SidhusofSouthall(2023)/SidhusofSouthall(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Jawai Bhai",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JawaiBhai(2023)/JawaiBhai(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JawaiBhai(2023)/JawaiBhai(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Godday Godday Chaa",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GoddayGoddayChaa(2023)/GoddayGoddayChaa(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GoddayGoddayChaa(2023)/GoddayGoddayChaa(2023)/720p.m3u8"
-  },
- {
-    "movieName": "White Punjab",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/WhitePunjab(2023)/WhitePunjab(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/WhitePunjab(2023)/WhitePunjab(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Full Moon",
-    "type": "Drama - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/FullMoon(2023)/FullMoon(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/FullMoon(2023)/FullMoon(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Gudiya",
-    "type": "Drama - Horror / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Gudiya(2023)/Gudiya(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Gudiya(2023)/Gudiya(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Parinda Paar Geyaa",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/ParindaPaarGeyaa(2023)/DeskParindaPaarGeyaa(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/ParindaPaarGeyaa(2023)/ParindaPaarGeyaa(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Buhe Bariyan",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BuheBariyan/BuheBariyan(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BuheBariyan/BuheBariyan/720p.m3u8"
-  },
- {
-    "movieName": "Sardara and Sons",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Bujharat Heere Di",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BujharatHeereDi/BujharatHeereDi(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BujharatHeereDi/BujharatHeereDi/720p.m3u8"
+    "movieName": "The Piper",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/ThePiper/ThePiper.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/ThePiper/ThePiper/720p.m3u8"
   },
   {
-    "movieName": "Kade Dade Diyan Kade Pote Diyan",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KadeDadeDiyanKadePoteDiyan/KadeDadeDiyanKadePoteDiyan.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KadeDadeDiyanKadePoteDiyan/KadeDadeDiyanKadePoteDiyan/720p.m3u8"
+    "movieName": "The Flash",
+    "type": "SuperHero - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheFlash(2023)/TheFlash(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheFlash(2023)/TheFlash(2023)/720p.m3u8"
+  },
+    {
+    "movieName": "Deep Sea Rescue",
+    "type": "Adventure - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/DeepSeaRescue(2023)/DeepSeaRescue(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/DeepSeaRescue(2023)/DeepSeaRescue(2023)/720p-1.m3u8"
+  },
+   {
+    "movieName": "The Marsh King's Daughter",
+    "type": "Adventure - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheMarshKingsDaughter(2023)/TheMarshKingsDaughter(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheMarshKingsDaughter(2023)/TheMarshKingsDaughter(2023)/720p-1.m3u8"
   },
   {
-    "movieName": "Range Road 290",
-    "type": "Comedy - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/RangeRoad290(2023/RangeRoad290(2023)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/RangeRoad290(2023/RangeRoad290(2023)/720p.m3u8"
+    "movieName": "Fast X",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/FastX(2023)/FastX(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/FastX(2023)/FastX(2023)/720p.m3u8"
   },
  {
-    "movieName": "Golgappe",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Golgappe(2023)/Gol_Gappe_film_poster.jpeg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Golgappe(2023)/Golgappe/720p.m3u8"
-  },
- {
-    "movieName": "Sab Fadey Jaange",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SabFadeyJange/SabFadeyJange(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SabFadeyJange/SabFadeyJange/720p.m3u8"
-  },
- {
-    "movieName": "Ji Wife Ji",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JiWifeJi/JiWifeJi(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JiWifeJi/JiWifeJi/720p.m3u8"
-  },
- {
-    "movieName": "Any How Mitti Pao",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnyHowMittiPao/AnyHowMittiPao(2023).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnyHowMittiPao/AnyHowMittiPao/720p.m3u8"
-  },
- {
-    "movieName": "Gaddi Jaandi Ae Chalaangaan Maardi",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi/Gaddi_Jaandi_Ae_Chalaangaan_Maardi_Poster.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi/GaddiJaandiAeChalaangaanMaardi/720p.m3u8"
+    "movieName": "Extraction 2",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Extraction2/Extraction_2_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Extraction2/Extraction2/720p.m3u8"
   },
   {
-    "movieName": "Yaar Mera Titliaan Warga",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/YaarMeraTitliaanWarga(2022)/YaarMeraTitliaanWarga(2022)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/YaarMeraTitliaanWarga(2022)/YaarMeraTitliaanWarga(2022)/720p.m3u8"
+    "movieName": "Knights of the Zodiac",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/KnightsoftheZodiac(2023)/KnightsoftheZodiac(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/KnightsoftheZodiac(2023)/KnightsoftheZodiac(2023)/720p.m3u8"
   },
  {
-    "movieName": "Saunkan Saunkne",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SaunkanSaunkne/SaunkanSaunkne(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SaunkanSaunkne/SaunkanSaunkne/720p.m3u8"
-  },
- {
-    "movieName": "Laung Laachi 2",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/LaungLaachi2(2022)/LaungLaachi2(2022)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/LaungLaachi2(2022)/LaungLaachi2(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Honeymoon",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Honeymoon/Honeymoon_(2022)_film_poster.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Honeymoon/Honeymoon/720p.m3u8"
-  },
- {
-    "movieName": "Jatt Brothers",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JuttBrothers/JuttBrothers.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JuttBrothers/JuttBrothers(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Sher Bagga",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SherBagga(2022)/SherBagga(2022)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SherBagga(2022)/SherBagga(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Maa Da Ladla",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MaaDaLadla/MaaDaLadla(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MaaDaLadla/MaaDaLadla/720p.m3u8"
-  },
- {
-    "movieName": "Jug Jugg Jeeyo",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JugJuggJeeyo/JugJuggJeeyo(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JugJuggJeeyo/JugJuggJeeyo/720p.m3u8"
-  },
- {
-    "movieName": "Sass Meri Ne Munda Jamya",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SassMeriNeMundaJameya/SassMeriNeMundaJameya(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SassMeriNeMundaJameya/SassMeriNeMundaJameya/720p.m3u8"
-  },
- {
-    "movieName": "Main Te Bapu",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MainTeBapu(2022)/MainTeBapu(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MainTeBapu(2022)/MainTeBapu(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Jind Mahi",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JindMahi/JindMahi(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JindMahi/JindMahi/720p.m3u8"
-  },
- {
-    "movieName": "Bhoot Uncle Tusi Great Ho",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BhootUncleTusiGreatHo(2022)/BhootUncleTusiGreatHo(2022)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BhootUncleTusiGreatHo(2022)/BhootUncleTusiGreatHo(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Lekh",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Lekh/Lekh(2022).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Lekh/Lekh/720p.m3u8"
-  },
- {
-    "movieName": "Babe Bhangra Paunde Ne",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BabeBhangraPaundeNe/Babe_Bhangra_Paunde_Ne_(film).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BabeBhangraPaundeNe/BabeBhangraPaundeNe/720p.m3u8"
-  },
- {
-    "movieName": "Chhalle Mundiyan",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/ChhallMundiyan(2022)/ChhallMundiyan(2022)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/ChhallMundiyan(2022)/ChhallMundiyan(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Bajre Da Sitta",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BajreDaSitta/Bajre_Da_Sitta_poster.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BajreDaSitta/BajreDaSitta/720p.m3u8"
-  },
- {
-    "movieName": "Beautiful Billo",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BeautifulBillo/Beautiful%20Billo.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BeautifulBillo/BeautifulBillo/720p.m3u8"
-  },
- {
-    "movieName": "Warning",
-    "type": "Drama - Action / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/Warning(2021)/warning2021.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/Warning(2021)/Warning(2021)/720p.m3u8"
-  },
- {
-    "movieName": "Honsla Rakh",
-    "type": "Drama - Comedy / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/HonslaRakh/Honsla_Rakh_film.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/HonslaRakh/HonslaRakh/720p.m3u8"
-  },
- {
-    "movieName": "Chandigarh Kare Aashiqui",
-    "type": "Drama - Comedy / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/ChandigarhKareAashiqui/Chandigarh_Kare_Aashiqui_poster.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/ChandigarhKareAashiqui/ChandigarhKareAashiqui(2021)/720p.m3u8"
-  },
- {
-    "movieName": "Sufna",
-    "type": "Drama - Comedy / 2020",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2020/Sufna(2020)/Sufna(2020).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2020/Sufna(2020)/Sufna(2020)/720p.m3u8"
-  },
- {
-    "movieName": "Naukar Vahuti Da",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NaukarVahutiDa(2019)/NaukarVahutiDa(2019)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NaukarVahutiDa(2019)/NaukarVahutiDa(2019)/720p.m3u8"
-  },
- {
-    "movieName": "Nikka Zaildar 3",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NikkaZaildar3(2019)/NikkaZaildar3(2019)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NikkaZaildar3(2019)/NikkaZaildar3(2019)/720p.m3u8"
+    "movieName": "The Hand",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheHand/TheHand.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheHand/TheHand/720p.m3u8"
   },
   {
-    "movieName": "Lukan Michi",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/LukanMichi(2019)/LukanMichi(2019)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/LukanMichi(2019)/LukanMichi(2019)/720p.m3u8"
+    "movieName": "The Boys in the Boat",
+    "type": "Romance - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheBoysintheBoat(2023)/TheBoysintheBoat(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/TheBoysintheBoat(2023)/TheBoysintheBoat(2023)/720p.m3u8"
   },
  {
-    "movieName": "Chal Mera Putt",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/ChalMeraPutt(2019)/ChalMeraPutt(2019)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/ChalMeraPutt(2019)/ChalMeraPutt(2019)/720p.m3u8"
+    "movieName": "Crystal Lake",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/CrystalLake(2023)/CrystalLake(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/CrystalLake(2023)/CrystalLake(2023)/720p.m3u8"
   },
  {
-    "movieName": "Daaka",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2017/Lahoriye/Lahoriye(2017).jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/Daaka(2019)/Daaka(2019)/720p.m3u8"
+    "movieName": "Barbie",
+    "type": "Fun - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Barbie(2023)/Barbie(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Barbie(2023)/Barbie(2023)/720p.m3u8"
   },
  {
-    "movieName": "Aate Di Chidi",
-    "type": "Drama - Comedy / 2017",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2018/AateDiChidi(2018)/AateDiChidi(2018)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2018/AateDiChidi(2018)/AateDiChidi(2018)/720p.m3u8"
+    "movieName": "Safe House",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/SafeHouse/SafeHouse.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/SafeHouse/SafeHouse/720p.m3u8"
+  },
+  {
+    "movieName": "Plane",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Plane(2023)/Plane(2023)_11zon.webp",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Plane(2023)/Plane(2023)/720p.m3u8"
+  },
+  {
+    "movieName": "Insidious: The Red Door",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/InsidiousTheRedDoor(2023)/InsidiousTheRedDoor(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/InsidiousTheRedDoor(2023)/InsidiousTheRedDoor(2023)/720p.m3u8"
   },
  {
-    "movieName": "Lahoriye",
-    "type": "Drama - Comedy / 2017",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/Daaka(2019)/Daaka(2019)_11zon.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2017/Lahoriye/Lahoriye/720p.m3u8"
+    "movieName": "Silent Night",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/SilentNight/SilentNight.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/SilentNight/SilentNight/720p.m3u8"
+  },
+ {
+    "movieName": "Praise This",
+    "type": "Drama - Romance / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/PraiseThis(2023)/PraiseThis(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/PraiseThis(2023)/PraiseThis(2023)/720p.m3u8"
+  },
+ {
+    "movieName": "Tearsucker",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Tearsucker/TearSucker.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/Tearsucker/Tearsucker/720p.m3u8"
+  },
+ {
+    "movieName": "Anyone but You",
+    "type": "Drama - Romance / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/AnyoneButYou/Anyone_But_You_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/AnyoneButYou/AnyoneButYou/720p.m3u8"
+  },
+ {
+    "movieName": "Saw X",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/SawX(2023)/sawX.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/SawX(2023)/SawX(2023)/720p.m3u8"
+  },
+ {
+    "movieName": "Hidden Strike",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/HiddenStrike/Hidden_Strike_(poster).png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/HiddenStrike/HiddenStrike/720p.m3u8"
+  },
+ {
+    "movieName": "My Fault",
+    "type": "Romance - Love / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/MyFaultCulpaMia/My_Fault_(film)_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/MyFaultCulpaMia/MyFaultCulpaMia/720p.m3u8"
+  },
+ {
+    "movieName": "Evil Dead Rise",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/EvilDeadRise/EvilDeadRiseTeaser.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/EvilDeadRise/EvilDeadRise/720p.m3u8"
+  },
+ {
+    "movieName": "Black Panther: Wakanda Forever",
+    "type": "Action - SuperHero / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/BlackPantherWakandaForever/Black_Panther_Wakanda_Forever_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/BlackPantherWakandaForever/BlackPantherWakandaForever/720p.m3u8"
+  },
+ {
+    "movieName": "Blind War",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/BlindWar(2022)/BlindWar(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/BlindWar(2022)/BlindWar(2022)/720p.m3u8"
+  },
+ {
+    "movieName": "Doctor Strange in the Multiverse of Madness",
+    "type": "Action - SuperHero / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DoctorStrangeInTheMultiverseOfMadness/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DoctorStrangeInTheMultiverseOfMadness/DoctorStrangeInTheMultiverseOfMadness/720p.m3u8"
+  },
+  {
+    "movieName": "Lost & Found",
+    "type": "Drama - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/LostandFound(2022)/LostandFound(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/LostandFound(2022)/LostandFound(2022)/720p.m3u8"
+  },
+  {
+    "movieName": "The Witch: Part 2. The Other One",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/TheWitchTheOtherOne(2022)Part2/TheWitchTheOtherOne(2022)Part2.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/TheWitchTheOtherOne(2022)Part2/TheWitchTheOtherOne(2022)Part2/720p.m3u8"
+  },
+  {
+    "movieName": "Sniper: The White Raven",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/SniperTheWhiteRaven(2022)/SniperTheWhiteRaven(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/SniperTheWhiteRaven(2022)/SniperTheWhiteRaven(2022)/720p.m3u8"
+  },
+   {
+    "movieName": "Uncharted",
+    "type": "Adventure - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Uncharted(2022)/Uncharted(2022)_11zon.jpeg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Uncharted(2022)/Uncharted(2022)/720p.m3u8"
+  },
+ {
+    "movieName": "Jurassic World Dominion",
+    "type": "Kaiju - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/JurassicWorldDominion/JurassicWorldDominion_Poster.jpeg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/JurassicWorldDominion/JurassicWorldDominion/720p.m3u8"
+  },
+ {
+    "movieName": "Don't Worry Darling",
+    "type": "Love - Romance / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DontWorryDarling/DontWorryDarling(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DontWorryDarling/DontWorryDarling/720p.m3u8"
+  },
+ {
+    "movieName": "Morbius",
+    "type": "Vampire - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Morbius/Morbius_(film)_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Morbius/Morbius/720p.m3u8"
+  },
+ {
+    "movieName": "Fall",
+    "type": "Survival - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Fall/Fall_(2022_film).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Fall/Fall/720p.m3u8"
+  },
+ {
+    "movieName": "Black Adam",
+    "type": "Action - SuperHero / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/BlackAdam/Black_Adam_(film)_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/BlackAdam/BlackAdam/720p.m3u8"
+  },
+ {
+    "movieName": "Wifelike",
+    "type": "Action - Fantasy / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Wifelike(2022)/WifeLike.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Wifelike(2022)/Wifelike(2022)/720p.m3u8"
+  },
+ {
+    "movieName": "Fantastic Beasts: The Secrets of Dumbledore",
+    "type": "Fantasy - Mystery / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/FantasticBeastsTheSecretsofDumbledore/Fantastic_Beasts-_The_Secrets_of_Dumbledore.png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/FantasticBeastsTheSecretsofDumbledore/FantasticBeastsTheSecretsofDumbledore/720p.m3u8"
+  },
+ {
+    "movieName": "Fullmetal Alchemist",
+    "type": "Dark Fantasy - Crime / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/FullmetalAlchemistTheFinalAlchemy/Fullmetal_Alchemist.png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/FullmetalAlchemistTheFinalAlchemy/FullmetalAlchemistTheFinalAlchemy/720p.m3u8"
+  },
+ {
+    "movieName": "Double Threat",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DoubleThreat/DoubleThreat.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DoubleThreat/DoubleThreat/720p.m3u8"
+  },
+ {
+    "movieName": "Malibu Crush",
+    "type": "Love - Fantasy / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/MalibuCrush/MalibuCrush(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/MalibuCrush/MalibuCrush/720p.m3u8"
+  },
+ {
+    "movieName": "Avatar: The Way of Water",
+    "type": "Action - Animation / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/AvatarTheWayofWater(2022)/Avatar_The_Way_of_Water_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/AvatarTheWayofWater(2022)/AvatarTheWayofWater/720p.m3u8"
+  },
+ {
+    "movieName": "Beast",
+    "type": "Horror - Adventure / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Beast/Beast_2022_American_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Beast/Beast/720p.m3u8"
+  },
+ {
+    "movieName": "Hatching",
+    "type": "Horror - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Hatching(2022)/Hatching(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/Hatching(2022)/Hatching(2022)/720p.m3u8"
+  },
+ {
+    "movieName": "Day Shift",
+    "type": "Action - Suspense / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DayShift/Day_Shift_(film).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2022/DayShift/DayShift/720p.m3u8"
+  },
+  {
+    "movieName": "Fast & Furious 9",
+    "type": "Thriller - Action / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/FastAndFurious9(2021)/FastAndFurious9(2021).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/FastAndFurious9(2021)/FastAndFurious9(2021)/720p.m3u8"
+  },
+  {
+    "movieName": "Outside the Wire",
+    "type": "Action - Thriller / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/OutsidetheWire(2021)/OutsidetheWire(2021)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/OutsidetheWire(2021)/OutsidetheWire(2021)/720p.m3u8"
+  },
+  {
+    "movieName": "Silent Hours",
+    "type": "Romance - Thriller / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/SilentHours(2021)/SilentHours_2021__11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/SilentHours(2021)/SilentHours(2021)/720p.m3u8"
+  },
+ {
+    "movieName": "Nobody",
+    "type": "Action - Thriller / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/Nobody/Nobody_2021_Film_Poster.jpeg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/Nobody/Nobody/720p.m3u8"
+  },
+ {
+    "movieName": "Godzilla vs. Kong",
+    "type": "Action - Thriller / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/GodzillavsKong(2021)/GodzillavsKong(2021).png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/GodzillavsKong(2021)/GodzillavsKong(2021)/720p.m3u8"
+  },
+  {
+    "movieName": "Army of the Dead",
+    "type": "Zombie - Horror / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/armyofthedead2021/Army_of_the_Dead_poster.png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/armyofthedead2021/720p.m3u8"
+  },
+  {
+    "movieName": "Escape Room: TourmovieNament Of Champions",
+    "type": "Horror - Thriller / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/EscapeRoomTourmovieNamentofChampions(2021)/EscapeRoomTourmovieNamentofChampions(2021)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/EscapeRoomTourmovieNamentofChampions(2021)/EscapeRoomTourmovieNamentofChampions(2021)/720p.m3u8"
+  },
+ {
+    "movieName": "Jiaoren of the South China Sea",
+    "type": "Thriller - Horror / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/JiaorenoftheSouthChinaSea/JiaorenoftheSouthChinaSea.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/JiaorenoftheSouthChinaSea/JiaorenoftheSouthChinaSea/720p.m3u8"
+  },
+  {
+    "movieName": "Jungle Run",
+    "type": "Action - Adventure / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/JungleRun(2021)/JungleRun(2021).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/JungleRun(2021)/JungleRun(2021)/720p.m3u8"
+  },
+ {
+    "movieName": "Monkey King One & Only",
+    "type": "Action - Adventure / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/MonkeyKing/MonkeyKing.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/MonkeyKing/MonkeyKing/720p.m3u8"
+  },
+  {
+    "movieName": "Dune: Part 1",
+    "type": "Thriller - Action / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/Dune(2021)/Dune(2021).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/Dune(2021)/Dune(2021)/720p.m3u8"
+  },
+ {
+    "movieName": "The Cursed",
+    "type": "Thriller - Horror / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/TheCursed/The_Cursed_(2021_film).jpeg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2021/TheCursed/TheCursed/720p.m3u8"
+  },
+  {
+    "movieName": "Bloodshot",
+    "type": "Action - Thriller / 2020",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2020/Bloodshot(2020)/Bloodshot(2020)_11zon%20(1).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2020/Bloodshot(2020)/Bloodshot(2020)/720p.m3u8"
+  },
+  {
+    "movieName": "John Wick: Chapter 3 - Parabellum",
+    "type": "Action - Thriller / 2019",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2019/JohnWickChapter3Parabellum(2019)/JohnWickChapter3Parabellum(2019).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2019/JohnWickChapter3Parabellum(2019)/JohnWickChapter3Parabellum(2019)/720p.m3u8"
+  },
+ {
+    "movieName": "Fast & Furious: Hobbs & Shaw",
+    "type": "Action - Thriller / 2019",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2019/FastandFuriousPresentsHobbsandShaw/HobbsandShaw.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2019/FastandFuriousPresentsHobbsandShaw/FastAndFuriousPresentsHobbsAndShaw(2019)/720p.m3u8"
+  },
+   {
+    "movieName": "Escape Room",
+    "type": "Horror - Thriller / 2019",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2019/EscapeRoom(2019)/EscapeRoom(2019)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2019/EscapeRoom(2019)/EscapeRoom(2019)/720p.m3u8"
+  },
+  {
+    "movieName": "Ready Player One",
+    "type": "Anime - Thriller / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/ReadyPlayerOne(2018)/ReadyPlayerOne(2018)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/ReadyPlayerOne(2018)/ReadyPlayerOne(2018)/720p.m3u8"
+  },
+  {
+    "movieName": "No Escape Room",
+    "type": "Horror - Thriller / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/NoEscapeRoom(2018)/NoEscapeRoom(2018)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/NoEscapeRoom(2018)/NoEscapeRoom(2018)/720p.m3u8"
+  },
+ {
+    "movieName": "Fifty Shades Freed",
+    "type": "Romance - Erotic / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/FiftyShadesFreed/Fifty_Shades_Freed_poster.png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/FiftyShadesFreed/FiftyShadesFreed/720p.m3u8"
+  },
+ {
+    "movieName": "Creed II",
+    "type": "Action - Fighting / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/Creed2/Creed_II_poster.png",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/Creed2/Creed2/720p.m3u8"
+  },
+  {
+    "movieName": "The Witch: Part 1",
+    "type": "Action - Thriller / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/TheWitchPart1TheSubversion(2018)/TheWitchPart1TheSubversion(2018).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/TheWitchPart1TheSubversion(2018)/TheWitchPart1TheSubversion(2018)/720p.m3u8"
+  },
+  {
+    "movieName": "12 Strong",
+    "type": "Action - Thriller / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/12Strong(2018)/12Strong(2018)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2018/12Strong(2018)/12Strong(2018)/720p.m3u8"
+  },
+  {
+    "movieName": "John Wick: Chapter 2",
+    "type": "Action - Thriller / 2017",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/JohnWickChapter2(2017)/JohnWickChapter2(2017).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/JohnWickChapter2(2017)/JohnWickChapter2(2017)/720p.m3u8"
+  },
+  {
+    "movieName": "Escape Room",
+    "type": "Horror - Thriller / 2017",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/EscapeRoom(2017)/EscapeRoom(2017)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/EscapeRoom(2017)/EscapeRoom(2017)/720p.m3u8"
+  },
+ {
+    "movieName": "Jigsaw",
+    "type": "Horror - Thriller / 2017",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/JigSaw/JigSaw(2017).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/JigSaw/JigSaw/720p.m3u8"
+  },
+ {
+    "movieName": "Furious",
+    "type": "Action - War / 2017",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/Furious/Furious_(2017_film).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/Furious/Furious/720p.m3u8"
+  },
+ {
+    "movieName": "Fifty Shades Darker",
+    "type": "Romance - Erotic / 2017",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/FiftyShadesDarker(2017)/Fifty_Shades_Darker_film_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/720p.m3u8"
+  },
+  {
+    "movieName": "Arrival",
+    "type": "Action - Thriller / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/Arrival(2016)/Arrival(2016)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/Arrival(2016)/Arrival(2016)/720p.m3u8"
+  },
+  {
+    "movieName": "Captain America: Civil War",
+    "type": "Action - Superhero / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/CaptaimovieNamericaCivilWar(2016)/CaptaimovieNamericaCivilWar(2016).jpeg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/CaptaimovieNamericaCivilWar(2016)/CaptaimovieNamericaCivilWar(2016)/720p.m3u8"
+  },
+  {
+    "movieName": "Doctor Strange",
+    "type": "Action - Superhero / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/DoctorStrange(2016)/Doctor%20Strange.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/DoctorStrange(2016)/DoctorStrange(2016)/720p.m3u8"
+  },
+  {
+    "movieName": "Insidious: Chapter 3",
+    "type": "Horror - Thriller / 2015",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/InsidiousChapter3(2015)/InsidiousChapter3(2015)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/InsidiousChapter3(2015)/InsidiousChapter3(2015)/720p.m3u8"
+  },
+ {
+    "movieName": "Fifty Shades of Grey",
+    "type": "Romance - Erotic / 2015",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/FiftyShadesofGrey/Fifty_Shades_of_Grey_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/FiftyShadesofGrey/FiftyShadesofGrey/720p.m3u8"
+  },
+ {
+    "movieName": "Mad Max: Fury Road",
+    "type": "Thriller - Action / 2015",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/MadMaxFuryRoad(2015)/MadMaxFuryRoad(2015).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/MadMaxFuryRoad(2015)/MadMaxFuryRoad(2015)/720p.m3u8"
+  },
+  {
+    "movieName": "Fast And Furious 7",
+    "type": "Thriller - Action / 2015",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/FastAndFurious7(2015)/FastAndFurious7(2015).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/FastAndFurious7(2015)/FastAndFurious7(2015)/720p.m3u8"
+  },
+  {
+    "movieName": "The Rezort",
+    "type": "Thriller - Horror / 2015",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/TheRezort(2015)/TheRezort(2015)_11zon.webp",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/TheRezort(2015)/TheRezort(2015)/720p.m3u8"
+  },
+  {
+    "movieName": "John Wick: Chapter 1",
+    "type": "Action - Thriller / 2014",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2014/JohnWick(2014)/JohnWick(2014).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2014/JohnWick(2014)/JohnWickChapter1(2014)/720p.m3u8"
+  },
+ {
+    "movieName": "Predestination",
+    "type": "Action - Thriller / 2014",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2014/Predestination(2014)/Predestination(2014).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2014/Predestination(2014)/Predestination(2014)/720p.m3u8"
+  },
+ {
+    "movieName": "Captain America: The Winter Soldier",
+    "type": "Action - Superhero / 2014",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2014/CaptaimovieNamericaTheWinterSoldier(2014)/CaptaimovieNamericaTheWinterSoldier(2014).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2014/CaptaimovieNamericaTheWinterSoldier(2014)/CaptaimovieNamericaTheWinterSoldier(2014)/720p.m3u8"
+  },
+  {
+    "movieName": "Jack Reacher",
+    "type": "Action - Thriller / 2012",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2012/JackReacher(2012)/JackReacher(2012)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2012/JackReacher(2012)/JackReacher(2012)/720p.m3u8"
+  },
+   {
+    "movieName": "Zero Dark Thirty",
+    "type": "Action - Thriller / 2012",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2012/ZeroDarkThirty(2012)/ZeroDarkThirty(2012).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2012/ZeroDarkThirty(2012)/ZeroDarkThirty(2012)/720p.m3u8"
+  },
+ {
+    "movieName": "Captain America: The First Avenger",
+    "type": "Action - Superhero / 2011",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2011/CaptaimovieNamericaTheFirstAvenger(2011)/CaptaimovieNamericaTheFirstAvenger.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2011/CaptaimovieNamericaTheFirstAvenger(2011)/CaptaimovieNamericaTheFirstAvenger(2011)/720p.m3u8"
+  },
+ {
+    "movieName": "Gulliver's Travels",
+    "type": "Adventure - Comedy / 2010",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2010/Gulliver'sTravels/Gullivers_travels_2010_poster.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2010/Gulliver'sTravels/Gulliver'sTravels/720p.m3u8"
+  },
+ {
+    "movieName": "Journey to the Center of the Earth",
+    "type": "Adventure - Comedy / 2008",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2008/JourneytotheCenteroftheEarth/JourneytotheCenteroftheEarth.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2008/JourneytotheCenteroftheEarth/JourneytotheCenteroftheEarth/720p.m3u8"
+  },
+  {
+    "movieName": "The Fast and the Furious: Tokyo Drift",
+    "type": "Action - Thriller / 2006",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/TheFastandtheFuriousTokyoDrift/TheFastandtheFuriousTokyoDrift.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/TheFastandtheFuriousTokyoDrift/TheFastandtheFuriousTokyoDrift/720p.m3u8"
   }
-  ]
+]
   }
 ]
