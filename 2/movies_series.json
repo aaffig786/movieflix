@@ -3,6 +3,12 @@
         "typeId": "2",
         "typeItemList": [
 		{
+    "movieName": "The Beekeeper",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheBeekeeper(2024)/TheBeekeeper(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheBeekeeper(2024)/TheBeekeeper(2024)/720p1.m3u8"
+  },
+		{
     "movieName": "Damsel",
     "type": "Action - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Damsel(2024)/Damsel(2024).jpg",
