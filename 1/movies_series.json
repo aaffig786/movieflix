@@ -194,6 +194,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/FridayNightPlan(2023)/FridayNightPlan(2023)_11zon.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/FridayNightPlan(2023)/FridayNightPlan(2023)/720p.m3u8"
   },
+		{
+    "movieName": "Zara Hatke Zara Bachke",
+    "type": "Drama - Love / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/ZaraHatkeZaraBachke(2023)/ZaraHatkeZaraBachke(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/ZaraHatkeZaraBachke(2023)/ZaraHatkeZaraBachke(2023)/720p.m3u8"
+  },
   {
     "movieName": "Orange Lilly",
     "type": "Drama - Romance / 2023",
