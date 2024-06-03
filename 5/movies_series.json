@@ -2,6 +2,12 @@
 	{
         "typeId": "5",
         "typeItemList": [
+		{
+    "movieName": "Namacool",
+    "type": "Season 1 - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Namacool(2024)HindiSeason1/Namacool(2024)HindiSeason1_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Namacool(2024)HindiSeason1/Namacool(2024)HindiSeason1/720p.m3u8"
+  },
  {
     "movieName": "Chacha Vidhayak Hai Humare",
     "type": "Season 3 - Comedy / 2024",
