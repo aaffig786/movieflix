@@ -1,6 +1,6 @@
 [
    {
-      "countryTitle":"BollyWood Movies",
+      "countryTitle":"BOLLYWOOD MOVIES",
       "countryId":"1",
       "allCountryItemList":[
          {
@@ -132,7 +132,7 @@
       ]
    },
    {
-      "countryTitle":"Punjabi Movies",
+      "countryTitle":"HOLLYWOOD MOVIES",
       "countryId":"2",
       "allCountryItemList":[
          {
@@ -258,7 +258,7 @@
       ]
    },
    {
-      "countryTitle":"Punjabi Movies",
+      "countryTitle":"PUNJABI MOVIES",
       "countryId":"3",
       "allCountryItemList":[
          {
@@ -384,7 +384,7 @@
       ]
    },
    {
-      "countryTitle":"Pakistani Movies",
+      "countryTitle":"PAKISTANI MOVIES",
       "countryId":"4",
       "allCountryItemList":[
          {
@@ -468,7 +468,7 @@
       ]
    },
    {
-      "countryTitle":"BollyWood Web Series",
+      "countryTitle":"BOLLYWOOD WEB SERIES",
       "countryId":"5",
       "allCountryItemList":[
          {
@@ -600,7 +600,7 @@
       ]
    },
    {
-      "countryTitle":"HollyWood Web Series",
+      "countryTitle":"HOLLYWOOD WEB SERIES",
       "countryId":"6",
       "allCountryItemList":[
          {
@@ -726,7 +726,7 @@
       ]
    },
    {
-      "countryTitle":"Animated Movies & Sereis",
+      "countryTitle":"ANIMATED MOVIES & SERIES",
       "countryId":"7",
       "allCountryItemList":[
          {
@@ -852,7 +852,7 @@
       ]
    },
    {
-      "countryTitle":"Live TV Show Biz",
+      "countryTitle":"SHOW BIZ - LIVE TV",
       "countryId":"8",
       "allCountryItemList":[
          {
@@ -942,7 +942,7 @@
       ]
    },
    {
-      "countryTitle":"Live TV Sports",
+      "countryTitle":"SPORTS - LIVE TV",
       "countryId":"9",
       "allCountryItemList":[
          {
@@ -960,7 +960,7 @@
       ]
    },
    {
-      "countryTitle":"Live TV News",
+      "countryTitle":"NEWS - LIVE TV",
       "countryId":"10",
       "allCountryItemList":[
          {
