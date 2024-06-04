@@ -131,6 +131,10 @@
   }
     ]
   },
+	{
+    "countryTitle": "Punjabi Movies",
+  "countryId": "2",
+   "allCountryItemList": [
 {
     "movieName": "The Beekeeper",
     "type": "Action - Thriller / 2024",
