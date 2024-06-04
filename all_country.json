@@ -1,7 +1,7 @@
 [
  {
-    "categoryTitle": "RECENTLY ADDED",
-   "categoryItemList": [
+    "countryTitle": "RECENTLY ADDED",
+   "allCountryItemList": [
     {
     "movieName": "Crooks",
     "type": "Season 1 - Action / 2024",
@@ -106,8 +106,8 @@
     ]
   },
  {
-    "categoryTitle": "MUST WATCH",
-   "categoryItemList": [
+    "countryTitle": "MUST WATCH",
+   "allCountryItemList": [
     {
     "movieName": "Extraction 2",
     "type": "Action - Thriller / 2023",
@@ -211,8 +211,8 @@
     ]
   },
  {
-    "categoryTitle": "TRENDING MOVIES & SERIES",
-   "categoryItemList": [
+    "countryTitle": "TRENDING MOVIES & SERIES",
+   "allCountryItemList": [
     {
     "movieName": "Sam Bahadur",
     "type": "Action - Thriller / 2023",
@@ -302,8 +302,8 @@
     ]
   },
  {
-    "categoryTitle": "CASUAL VIEWING",
-   "categoryItemList": [
+    "countryTitle": "CASUAL VIEWING",
+   "allCountryItemList": [
     {
     "movieName": "Jurassic World Dominion",
     "type": "Kaiju - Thriller / 2022",
