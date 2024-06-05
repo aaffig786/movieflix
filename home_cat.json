@@ -6,21 +6,26 @@
     "movieName": "Oye Bhole Oye",
     "type": "Drama - Comedy / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)_11zon.jpg",
+     "videoUrl": ""
   },
     
     {
     "movieName": "Noah's Ark",
     "type": "Movie / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/Noah%E2%80%99sArk(2024)/Noah%E2%80%99sArk(2024).jpg",
-  },{
+     "videoUrl": ""
+  },
+    {
     "movieName": "Raja Vikramarka",
     "type": "Action - Thriller / 2022",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2022/RajaVikramarka/RajaVikramarka(2022).jpeg",
+     "videoUrl": ""
   },
   {
     "movieName": "Samrat Prithviraj",
     "type": "Drama - Thriller / 2022",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2022/SamratPrithviraj(2022)/SamratPrithviraj(2022).jpg",
+   "videoUrl": ""
   }
     ]
   }
