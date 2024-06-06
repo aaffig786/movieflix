@@ -857,30 +857,35 @@
       "allCountryItemList":[
          {
             "movieName":"Madani Channel",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/madani.jpeg",
             "videoUrl":"https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
          },
          {
             "movieName":"Express Ent",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/expressent.jpg",
             "videoUrl":"https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8"
          },
          {
             "movieName":"Geo Kahani",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/geokahani.png",
             "videoUrl":"https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
          },
          {
             "movieName":"JooMusic",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/JooMusic.png",
             "videoUrl":"https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
          },
          {
             "movieName":"PTV Home",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/ptvhome.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8"
@@ -893,48 +898,56 @@
          },
          {
             "movieName":"Samaa TV",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/samatv.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8"
          },
          {
             "movieName":"ABN Urdu",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/abnurdu.jpg",
             "videoUrl":"https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
          },
          {
             "movieName":"ABN Bible Movies",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/ABNBibleMovies.jpg",
             "videoUrl":"https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
          },
          {
             "movieName":"ZindagiTV",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/ZindagiTV.jpg",
             "videoUrl":"https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
          },
          {
             "movieName":"Awaz TV Network",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/awaztvnetwork.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8"
          },
          {
             "movieName":"Discover Pakistan",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/discoverpakistan.jpg",
             "videoUrl":"https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
          },
          {
             "movieName":"Grace Network",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/gracenetwork.png",
             "videoUrl":"https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
          },
          {
             "movieName":"Al Ehsan Tv",
+            "countryId": "8",
             "type":"Entertainment",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/alehsantv.jpg",
             "videoUrl":"https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
@@ -947,12 +960,14 @@
       "allCountryItemList":[
          {
             "movieName":"All Sports",
+            "countryId": "9",
             "type":"Sports",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/AllSports.jpeg",
             "videoUrl":"https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
          },
          {
             "movieName":"Sports Tv",
+            "countryId": "9",
             "type":"Sports",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/SportsTv.jpg",
             "videoUrl":"https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
@@ -972,96 +987,112 @@
          },
          {
             "movieName":"Geo Tez",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/geotez.jpg",
             "videoUrl":"https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
          },
          {
             "movieName":"Hum News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/humnews.png",
             "videoUrl":"https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8"
          },
          {
             "movieName":"Lahore News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/lahorenews.jpg",
             "videoUrl":"https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
          },
          {
             "movieName":"24 News HD",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/news24.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8"
          },
          {
             "movieName":"92 News HD",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/92news.png",
             "videoUrl":"http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
          },
          {
             "movieName":"Aaj News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/ajnews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8"
          },
          {
             "movieName":"ARY News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/arynews.png",
             "videoUrl":"https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8"
          },
          {
             "movieName":"Bol News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/bolnews.png",
             "videoUrl":"https://ythls.armelin.one/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8"
          },
          {
             "movieName":"Dunya News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/dunyanews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8"
          },
          {
             "movieName":"Express News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/expressnews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8"
          },
          {
             "movieName":"PTV News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/ptvnews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8"
          },
          {
             "movieName":"City 41",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/city41.png",
             "videoUrl":"https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8"
          },
          {
             "movieName":"City 42",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/city42.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8"
          },
          {
             "movieName":"Dawn News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/dawnnews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8"
          },
          {
             "movieName":"Gourmet News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/gnnnews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8"
          },
          {
             "movieName":"KTN News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/ktnnews.jpg",
             "videoUrl":"https://ythls.armelin.one/channel/UCmqlO4sewQO97iCeakXTdaw.m3u8"
@@ -1080,6 +1111,7 @@
          },
          {
             "movieName":"Public News",
+            "countryId": "10",
             "type":"News",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/iptvlogo/publicnews.png",
             "videoUrl":"https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8"
