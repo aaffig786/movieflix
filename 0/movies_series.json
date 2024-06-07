@@ -2,6 +2,12 @@
 	{
         "typeId": "0",
         "typeItemList": [
+		{
+    "movieName": "Mansooba",
+    "type": "Drama - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Mansooba(2024)/Mansooba(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Mansooba(2024)/Mansooba(2024)/720p.m3u8"
+  },
 {
     "movieName": "Yodha",
     "type": "Action - Thriller / 2024",
