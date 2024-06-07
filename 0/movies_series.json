@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "InsideMan",
+    "type": "Action - Thriller / 2006",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/InsideMan(2006)/InsideMan(2006).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/InsideMan(2006)/InsideMan(2006)/720p.m3u8"
+  },
+		{
     "movieName": "Mansooba",
     "type": "Drama - Comedy / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Mansooba(2024)/Mansooba(2024).jpg",
