@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Heartbreak High",
+    "type": "Season 2 - Drama / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/HeartbreakHigh(2024)Season2/HeartbreakHigh(2024)Season2.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/HeartbreakHigh(2024)Season2/HeartbreakHigh(2024)Season2/720p.m3u8"
+  },
+		{
     "movieName": "InsideMan",
     "type": "Action - Thriller / 2006",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/InsideMan(2006)/InsideMan(2006).jpg",
