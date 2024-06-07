@@ -615,6 +615,12 @@
     "type": "Action - Thriller / 2006",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/TheFastandtheFuriousTokyoDrift/TheFastandtheFuriousTokyoDrift.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/TheFastandtheFuriousTokyoDrift/TheFastandtheFuriousTokyoDrift/720p.m3u8"
+  },
+		 {
+    "movieName": "InsideMan",
+    "type": "Action - Thriller / 2006",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/InsideMan(2006)/InsideMan(2006).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2006/InsideMan(2006)/InsideMan(2006)/720p.m3u8"
   }
 ]
   }
