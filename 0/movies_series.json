@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Geek Girl",
+    "type": "Season 1 - Drama / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/GeekGirl(2024)Season1/GeekGirl(2024)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/GeekGirl(2024)Season1/GeekGirl(2024)Season1/720p.m3u8"
+  },
+		{
     "movieName": "Heartbreak High",
     "type": "Season 2 - Drama / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/HeartbreakHigh(2024)Season2/HeartbreakHigh(2024)Season2.jpg",
