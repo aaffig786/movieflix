@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Night of the Hunted",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/NightoftheHunted(2023)/NightoftheHunted(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/NightoftheHunted(2023)/NightoftheHunted(2023)/720p1.m3u8"
+  },
+		{
     "movieName": "Laapataa Ladies",
     "type": "Drama - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/LaapataaLadies(2024)/LaapataaLadies(2024).jpg",
