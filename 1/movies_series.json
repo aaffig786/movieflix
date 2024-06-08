@@ -824,6 +824,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2010/LSDLoveSexAurDhokha(2010)/LSD_11zon.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2010/LSDLoveSexAurDhokha(2010)/LSDLoveSexAurDhokha(2010)/720p.m3u8"
   },
+		{
+    "movieName": "Taare Zameen Par",
+    "type": "Drama - Story / 2007",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2007/TaareZameenPar(2007)/TaareZameenPar(2007).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2007/TaareZameenPar(2007)/TaareZameenPar(2007)/720p.m3u8"
+  },
   {
     "movieName": "Lage Raho Munna Bhai",
     "type": "Comedy - Drama / 2006",
