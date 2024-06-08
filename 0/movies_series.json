@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "The Good Dinosaur",
+    "type": "Movie / 2015",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2015/TheGoodDinosaur(2015)/thegooddinosaur.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2015/TheGoodDinosaur(2015)/TheGoodDinosaur(2015)/720p.m3u8"
+  },
+		{
     "movieName": "House of Lies",
     "type": "Crime - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/HouseofLies(2024)/HouseofLies(2024).jpg",
