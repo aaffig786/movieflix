@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "B & B: Bujji and Bhairava",
+    "type": "Season 1 / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/B%26BBujjiandBhairava(2024)HindiSeason1/B%26BBujjiandBhairava.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/B%26BBujjiandBhairava(2024)HindiSeason1/B%26BBujjiandBhairava(2024)HindiSeason1/720p.m3u8"
+  },
+		{
     "movieName": "Griselda",
     "type": "Season 1 - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/Griselda(2024)Season1/Griselda(2024)Season1.jpeg",
