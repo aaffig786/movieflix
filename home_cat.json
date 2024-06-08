@@ -6,19 +6,19 @@
     "movieName": "Heeramandi: The Diamond Bazaar",
     "type": "Season 1 - Darama / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/2022.jpg",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/2022.mp4"
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/2022/480p.m3u8"
   },
     {
      "movieName": "Outer Range",
     "type": "Season 2 - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/2023.jpg",
-    "videoUrl": ""
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/2023/480p.m3u8"
   },
     {
     "movieName": "Shaitaan",
     "type": "Drama - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/2024.jpg",
-    "videoUrl": ""
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/2024/480p.m3u8"
   }
     ]
   }
