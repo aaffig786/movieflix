@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Je Paisa Bolda Hunda",
+    "type": "Comedy - Drama / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JePaisaBoldaHunda(2024)/JePaisaBoldaHunda(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JePaisaBoldaHunda(2024)/JePaisaBoldaHunda(2024)/720p.m3u8"
+  },
+		{
     "movieName": "Blackout",
     "type": "Action - Comedy / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Blackout(2024)/Blackout(2024).jpg",
