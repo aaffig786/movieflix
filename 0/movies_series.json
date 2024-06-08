@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Tad the Lost Explorer and the Emerald Tablet",
+    "type": "Movie / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/TadtheLostExplorerandtheEmeraldTablet(2022)/TadtheLostExplorerandtheEmeraldTablet(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/TadtheLostExplorerandtheEmeraldTablet(2022)/TadtheLostExplorerandtheEmeraldTablet(2022)/720p.m3u8"
+  },
+		{
     "movieName": "Neeyat",
     "type": "Mystery - Thriller / 2023",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/Neeyat(2023)/Neeyat(2023).jpg",
