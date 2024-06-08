@@ -152,6 +152,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/TheExWife(2022)Season1/TheExWife(2022)Season1_11zon.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/TheExWife(2022)Season1/TheExWife(2022)Season1/720p.m3u8"
   },
+		{
+    "movieName": "Inside Man",
+    "type": "Season 1 - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/InsideMan(2022)Season1/InsideMan(2022)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/InsideMan(2022)Season1/InsideMan(2022)Season1/720p.m3u8"
+  },
   {
     "movieName": "Resident Evil",
     "type": "Season 1 - Zombie / 2022",
