@@ -829,6 +829,12 @@
     "type": "Comedy - Drama / 2006",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2006/LageRahoMunnaBhai(2006)/LageRahoMunnaBhai(2006)_11zon.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2006/LageRahoMunnaBhai(2006)/LageRahoMunnaBhai(2006)/720p.m3u8"
+  },
+		 {
+    "movieName": "Swades",
+    "type": "Drama - Story / 2004",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2004/Swades(2004)/Swades(2004).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2004/Swades(2004)/Swades(2004)/720p.m3u8"
   }
   ]
   }
