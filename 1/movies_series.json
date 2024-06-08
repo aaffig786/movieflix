@@ -770,6 +770,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2019/Mardaani2(2019)/Mardaani2(2019).jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2019/Mardaani2(2019)/Mardaani2(2019)/720p.m3u8"
   },
+		 {
+    "movieName": "Hichki",
+    "type": "Drama - Story / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2018/Hichki(2018)/Hichki(2018).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2018/Hichki(2018)/Hichki(2018)/720p.m3u8"
+  },
  {
     "movieName": "Lust Stories 1",
     "type": "Drama - Romance / 2018",
