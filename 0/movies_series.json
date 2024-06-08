@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Abigail",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Abigail(2024)/Abigail(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Abigail(2024)/Abigail(2024)/720p.m3u8"
+  },
+		{
     "movieName": "Sweet Tooth",
     "type": "Season 3 - Adventure / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/SweetTooth(2024)Season3/SweetTooth(2024)Season3.jpg",
