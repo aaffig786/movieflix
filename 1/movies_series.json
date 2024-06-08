@@ -27,6 +27,12 @@
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Raid(2024)/Raid(2024)/720p.m3u8"
   },
 		{
+    "movieName": "Kaagaz 2",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Kaagaz2(2024)/Kaagaz2(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Kaagaz2(2024)/Kaagaz2(2024)/720p.m3u8"
+  },
+		{
     "movieName": "Dedh Bigha Zameen",
     "type": "Drama - Story / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/DedhBighaZameen(2024)/DedhBighaZameen(2024).jpg",
