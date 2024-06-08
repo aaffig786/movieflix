@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Inside Man",
+    "type": "Season 1 - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/InsideMan(2022)Season1/InsideMan(2022)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/InsideMan(2022)Season1/InsideMan(2022)Season1/720p.m3u8"
+  },
+		{
     "movieName": "Tad the Lost Explorer and the Emerald Tablet",
     "type": "Movie / 2022",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/TadtheLostExplorerandtheEmeraldTablet(2022)/TadtheLostExplorerandtheEmeraldTablet(2022).jpg",
