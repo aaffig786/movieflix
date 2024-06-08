@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Bade Miyan Chote Miyan",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/BadeMiyanChoteMiyan(2024)/BadeMiyanChoteMiyan(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/BadeMiyanChoteMiyan(2024)/BadeMiyanChoteMiyan(2024)/720p.m3u8"
+  },
+		{
     "movieName": "B & B: Bujji and Bhairava",
     "type": "Season 1 / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/B%26BBujjiandBhairava(2024)HindiSeason1/B%26BBujjiandBhairava.jpg",
