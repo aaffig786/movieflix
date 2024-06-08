@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		 {
+    "movieName": "Swades",
+    "type": "Drama - Story / 2004",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2004/Swades(2004)/Swades(2004).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2004/Swades(2004)/Swades(2004)/720p.m3u8"
+  },
+		 {
     "movieName": "Hichki",
     "type": "Drama - Story / 2018",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2018/Hichki(2018)/Hichki(2018).jpg",
