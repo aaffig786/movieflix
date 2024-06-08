@@ -80,6 +80,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/BoonieBearsBacktoEarth(2022)/BoonieBearsBacktoEarth(2022).jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/BoonieBearsBacktoEarth(2022)/BoonieBearsBacktoEarth(2022)/720p.m3u8"
   },
+		{
+    "movieName": "Tad the Lost Explorer and the Emerald Tablet",
+    "type": "Movie / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/TadtheLostExplorerandtheEmeraldTablet(2022)/TadtheLostExplorerandtheEmeraldTablet(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/TadtheLostExplorerandtheEmeraldTablet(2022)/TadtheLostExplorerandtheEmeraldTablet(2022)/720p.m3u8"
+  },
  {
     "movieName": "Sonic the Hedgehog 2",
     "type": "Movie / 2022",
