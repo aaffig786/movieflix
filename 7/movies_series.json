@@ -2,6 +2,12 @@
 	{
         "typeId": "7",
         "typeItemList": [
+		{
+    "movieName": "B & B: Bujji and Bhairava",
+    "type": "Season 1 / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/B%26BBujjiandBhairava(2024)HindiSeason1/B%26BBujjiandBhairava.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/B%26BBujjiandBhairava(2024)HindiSeason1/B%26BBujjiandBhairava(2024)HindiSeason1/720p.m3u8"
+  },
   {
     "movieName": "Noah's Ark",
     "type": "Movie / 2024",
