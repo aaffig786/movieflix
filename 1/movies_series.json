@@ -3,6 +3,12 @@
         "typeId": "1",
         "typeItemList": [
 		{
+    "movieName": "Blackout",
+    "type": "Action - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Blackout(2024)/Blackout(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Blackout(2024)/Blackout(2024)/720p.m3u8"
+  },
+		{
     "movieName": "Bade Miyan Chote Miyan",
     "type": "Action - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/BadeMiyanChoteMiyan(2024)/BadeMiyanChoteMiyan(2024).jpg",
