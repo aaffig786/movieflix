@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "The Tearsmith",
+    "type": "Romance - Drama / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheTearsmith(2024)/TheTearsmith(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheTearsmith(2024)/TheTearsmith(2024)/720p.m3u8"
+  },
+		{
     "movieName": "The Martian",
     "type": "Space - Thriller / 2015",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2015/TheMartian(2015)/TheMartian(2015).jpg",
