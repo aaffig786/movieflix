@@ -170,6 +170,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/ManVsBee/ManvsBee(2022)Season1.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2022/ManVsBee/ManvsBeeSeason1/720p.m3u8"
   },
+		{
+    "movieName": "Lost In Space",
+    "type": "Season 2 - Adventure / 2019",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2019/LOSTINSPACE(2019)SEASON2/LOSTINSPACE(2019)SEASON2.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2019/LOSTINSPACE(2019)SEASON2/LOSTINSPACE(2019)SEASON2/720p.m3u8"
+  },
  {
     "movieName": "Money Heist",
     "type": "Season 2 - Suspense / 2018",
