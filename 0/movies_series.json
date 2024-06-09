@@ -2,6 +2,12 @@
 	{
         "typeId": "0",
         "typeItemList": [
+		 {
+    "movieName": "Aaja Mexico Challiye",
+    "type": "Drama - Comedy / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/AajaMexicoChalliye(2022)/AajaMexicoChalliye(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/AajaMexicoChalliye(2022)/AajaMexicoChalliye(2022)/720p.m3u8"
+  },
 		{
             "movieName":"Maharani",
             "type":"Season 3 - Thriller / 2024",
