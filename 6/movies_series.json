@@ -176,6 +176,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2018/MoneyHeistSeason2/MoneyHeistSeason2.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2018/MoneyHeistSeason2/MoneyHeistSeason2/720p.m3u8"
   },
+		 {
+    "movieName": "Lost In Space",
+    "type": "Season 1 - Adventure / 2018",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2018/LostinSpace(2018)Season1/LostinSpace(2018)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2018/LostinSpace(2018)Season1/LostinSpace(2018)Season1/720p.m3u8"
+  },
  {
     "movieName": "Clique",
     "type": "Season 2 - Drama / 2018",
