@@ -257,6 +257,12 @@
  {
     "categoryTitle": "TRENDING MOVIES & SERIES",
    "categoryItemList": [
+    {
+    "movieName": "Karmma Calling",
+    "type": "Crime - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/KarmmaCalling(2024)Season1/KarmmaCalling(2024)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/KarmmaCalling(2024)Season1/KarmmaCalling(2024)Season1/720p.m3u8"
+  },
    {
     "movieName": "Neeyat",
     "type": "Mystery - Thriller / 2023",
