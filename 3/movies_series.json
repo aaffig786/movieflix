@@ -212,6 +212,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi/Gaddi_Jaandi_Ae_Chalaangaan_Maardi_Poster.png",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi/GaddiJaandiAeChalaangaanMaardi/720p.m3u8"
   },
+		 {
+    "movieName": "Aaja Mexico Challiye",
+    "type": "Drama - Comedy / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/AajaMexicoChalliye(2022)/AajaMexicoChalliye(2022).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/AajaMexicoChalliye(2022)/AajaMexicoChalliye(2022)/720p.m3u8"
+  },
   {
     "movieName": "Yaar Mera Titliaan Warga",
     "type": "Drama - Comedy / 2022",
