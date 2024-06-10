@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+            "movieName":"Mr & Mrs Smith",
+            "type":"Season 1 - Action / 2024",
+            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/English/2024/Mr%26MrsSmith(2024)Season1/Mr%26MrsSmith(2024)Season1.jpg",
+            "videoUrl":"https://storage.googleapis.com/movieflixmovies/series/English/2024/Mr%26MrsSmith(2024)Season1/Mr%26MrsSmith(2024)Season1/720p.m3u8"
+         },
+		{
             "movieName":"Miss Perfect",
             "type":"Season 1 - Romance / 2024",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MissPerfect(2024)Season1/MissPerfect(2024)Season1.jpg",
