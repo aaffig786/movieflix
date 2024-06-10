@@ -4,6 +4,12 @@
         "typeItemList": [
 		{
     "movieName": "Now You See Me",
+    "type": "Drama - Thriller / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/NowYouSeeMe2(2016)/NowYouSeeMe2(2016).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/NowYouSeeMe2(2016)/NowYouSeeMe2(2016)/720p.m3u8"
+  },
+		{
+    "movieName": "Now You See Me",
     "type": "Drama - Thriller / 2013",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2013/NowYouSeeMe(2013)/NowYouSeeMe(2013).jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2013/NowYouSeeMe(2013)/NowYouSeeMe(2013)/720p.m3u8"
