@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Now You See Me",
+    "type": "Drama - Thriller / 2013",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2013/NowYouSeeMe(2013)/NowYouSeeMe(2013).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2013/NowYouSeeMe(2013)/NowYouSeeMe(2013)/720p.m3u8"
+  },
+		{
             "movieName":"Mr & Mrs Smith",
             "type":"Season 1 - Action / 2024",
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/English/2024/Mr%26MrsSmith(2024)Season1/Mr%26MrsSmith(2024)Season1.jpg",
