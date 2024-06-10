@@ -556,6 +556,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/FiftyShadesDarker(2017)/Fifty_Shades_Darker_film_poster.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2017/FiftyShadesDarker(2017)/fiftyshadesdarker/720p.m3u8"
   },
+		{
+    "movieName": "Now You See Me",
+    "type": "Drama - Thriller / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/NowYouSeeMe2(2016)/NowYouSeeMe2(2016).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2016/NowYouSeeMe2(2016)/NowYouSeeMe2(2016)/720p.m3u8"
+  },
   {
     "movieName": "Arrival",
     "type": "Action - Thriller / 2016",
