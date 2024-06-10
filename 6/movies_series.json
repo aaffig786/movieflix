@@ -3,6 +3,12 @@
         "typeId": "6",
         "typeItemList": [
 		{
+            "movieName":"Mr & Mrs Smith",
+            "type":"Season 1 - Action / 2024",
+            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/English/2024/Mr%26MrsSmith(2024)Season1/Mr%26MrsSmith(2024)Season1.jpg",
+            "videoUrl":"https://storage.googleapis.com/movieflixmovies/series/English/2024/Mr%26MrsSmith(2024)Season1/Mr%26MrsSmith(2024)Season1/720p.m3u8"
+         },
+		{
     "movieName": "Sweet Tooth",
     "type": "Season 3 - Adventure / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/SweetTooth(2024)Season3/SweetTooth(2024)Season3.jpg",
