@@ -2,91 +2,114 @@
 {
     "movieName": "Tarot",
     "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/1.png",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024).jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/2.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "Heeramandi: The Diamond Bazaar",
+    "type": "Season 1 - Darama / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/HeeramandiTheDiamondBazaar(2024)HindiSeason1/HeeramandiTheDiamondBazaar(2024)HindiSeason1_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/HeeramandiTheDiamondBazaar(2024)HindiSeason1/HeeramandiTheDiamondBazaar(2024)HindiSeason1/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/3.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+     "movieName": "Outer Range",
+    "type": "Season 2 - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/OuterRange(2024)HindiDubbedSeason2/OuterRange(2024)HindiDubbedSeason2.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/OuterRange(2024)HindiDubbedSeason2/OuterRange(2024)HindiDubbedSeason2/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/4.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "Shaitaan",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Shaitaan(2024)/Shaitaan(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2024/Shaitaan(2024)/Shaitaan(2024)/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/5.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "HitMan",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/HitMan(2024)/HitMan(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/HitMan(2024)/HitMan(2024)/720p.m3u8"
+  },
+  {
+    "movieName": "Goodbye Earth",
+    "type": "Season 1 - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/GoodbyeEarth(2024)HindiDubbedSeason1/GoodbyeEarth(2024)HindiDubbedSeason1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2024/GoodbyeEarth(2024)HindiDubbedSeason1/GoodbyeEarth(2024)HindiDubbedSeason1/720p.m3u8"
+  },
+ {
+    "movieName": "Amber Girls School",
+    "type": "Season 1 - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/6.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "Godzilla x Kong: The New Empire",
+    "type": "Adventure - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/GodzillaxKongTheNewEmpire(2024)/GodzillaxKongTheNewEmpire(2024)/720p.m3u8"
+  },
+ {
+    "movieName": "The Beekeeper",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheBeekeeper(2024)/TheBeekeeper(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/TheBeekeeper(2024)/TheBeekeeper(2024)/720p1.m3u8"
+  }, 
+ {
+    "movieName": "Leo",
+    "type": "Movie / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2023/Leo(2023)/Leo(2023).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2023/Leo(2023)/Leo(2023)/720p.m3u8"
+  },
+  {
+    "movieName": "Oh My Wife!",
+    "type": "Season 1 - Drama / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/OhMyWife!(2024)HindiSeason1/Wife!(2024)HindiSeason1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/OhMyWife!(2024)HindiSeason1/OhMyWife!(2024)HindiSeason1/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/7.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "Oye Bhole Oye",
+    "type": "Drama - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/8.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "Lootere",
+    "type": "Season 1 - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Lootere(2024)HindiSeason1/Lootere(2024)HindiSeason1_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Lootere(2024)HindiSeason1/Lootere(2024)HindiSeason1/720p.m3u8"
   },
     {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/9.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+    "movieName": "Noah's Ark",
+    "type": "Movie / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/Noah%E2%80%99sArk(2024)/Noah%E2%80%99sArk(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/Noah’sArk(2024)/Noah’sArk(2024)/720p.m3u8"
   },
-    {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/10.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+  {
+    "movieName": "Kadak Singh",
+    "type": "Drama - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/KadakSingh(2023)/KadakSingh(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/KadakSingh(2023)/KadakSingh(2023)/720p.m3u8"
   },
-    {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/11.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+  {
+    "movieName": "Sonic the Hedgehog 2",
+    "type": "Movie / 2022",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/SonicTheHedgehog2/Sonic_the_Hedgehog_2.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2022/SonicTheHedgehog2/SonicTheHedgehog2/720p.m3u8"
   },
-    {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/12.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+  {
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/HotWheelsLetsRaceSeason1/HotWheelsLetsRaceSeason1/720p.m3u8",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/HotWheelsLetsRaceSeason1/HotWheelsLetsRaceSeason1.jpg",
+    "movieName": "Hot Wheels Let's Race"
   },
-    {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/13.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+  {
+    "movieName": "Sam Bahadur",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/SamBahadur(2023)/SamBahadur(2023)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/SamBahadur(2023)/SamBahadur(2023)/720p.m3u8"
   },
-    {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/14.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
-  },
-    {
-    "movieName": "Tarot",
-    "type": "Horror - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/demo/15.png",
-    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/Tarot(2024)/Tarot(2024)/720p.m3u8"
+  {
+    "movieName": "The Boss Baby: Family Business",
+    "type": "Movie / 2021",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2021/TheBossBabyFamilyBusiness(2021)/TheBossBabyFamilyBusiness(2021)_11zon.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2021/TheBossBabyFamilyBusiness(2021)/TheBossBabyFamilyBusiness(2021)/720p.m3u8"
   }
 ]
