@@ -2,6 +2,12 @@
 	{
         "typeId": "0",
         "typeItemList": [
+		{
+    "movieName": "Sonic - The Hedgehog",
+    "type": "Season 3 / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/SonicPrime(2024)Season3/SonicPrime(2024)Season3.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/SonicPrime(2024)Season3/SonicPrime(2024)Season3/720p.m3u8"
+  },
 		 {
             "movieName":"Sawab",
             "type":"Season 1 - Drama / 2024",
