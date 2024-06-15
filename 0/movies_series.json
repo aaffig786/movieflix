@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Rebel Moon - Part Two: The Scargiver",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/RebelMoonTheScargiverPart2(2024)/RebelMoonTheScargiverPart2(2024).jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/english/2024/RebelMoonTheScargiverPart2(2024)/RebelMoonTheScargiverPart2(2024)/720p.m3u8"
+  },
+		{
     "movieName": "Rebel Moon - Part One: A Child of Fire",
     "type": "Action - Thriller / 2023",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/english/2023/RebelMoonAChildofFirePart1(2023)/l4becuugatfc1_11zon.jpg",
