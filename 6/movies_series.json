@@ -218,6 +218,12 @@
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2017/MoneyHeistSeason1/MoneyHeist.jpg",
     "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2017/MoneyHeistSeason1/MoneyHeistSeason1/720p.m3u8"
   },
+		{
+    "movieName": "Stranger Things",
+    "type": "Season 1 - Thriller / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2016/StrangerThings(2016)Season1/StrangerThings(2016)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2016/StrangerThings(2016)Season1/StrangerThings(2016)Season1/720p.m3u8"
+  },
  {
     "movieName": "Game of Thrones",
     "type": "Season 1 - Thriller / 2011",
