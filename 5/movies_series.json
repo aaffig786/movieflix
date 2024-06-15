@@ -32,6 +32,12 @@
             "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/LoveAdhura(2024)Season1/LoveAdhura(2024)Season1.jpg",
             "videoUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/LoveAdhura(2024)Season1/LoveAdhura(2024)Season1/720p.m3u8"
          },
+		 {
+            "movieName":"Sawab",
+            "type":"Season 1 - Drama / 2024",
+            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Sawab(2024)Season1/Sawab(2024)Season1.jpg",
+            "videoUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Sawab(2024)Season1/Sawab(2024)Season1/720p.m3u8"
+         },
 		{
     "movieName": "Killer Soup",
     "type": "Season 1 - Thriller / 2024",
