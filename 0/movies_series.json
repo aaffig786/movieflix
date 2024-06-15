@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+    "movieName": "Stranger Things",
+    "type": "Season 1 - Thriller / 2016",
+    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2016/StrangerThings(2016)Season1/StrangerThings(2016)Season1.jpg",
+    "videoUrl": "https://storage.googleapis.com/movieflixmovies/series/English/2016/StrangerThings(2016)Season1/StrangerThings(2016)Season1/720p.m3u8"
+  },
+		{
     "movieName": "Sonic - The Hedgehog",
     "type": "Season 3 / 2024",
     "imageUrl": "https://storage.googleapis.com/movieflixmovies/animated/2024/SonicPrime(2024)Season3/SonicPrime(2024)Season3.jpg",
