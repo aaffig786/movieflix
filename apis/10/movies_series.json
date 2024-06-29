@@ -1,1 +1,128 @@
-
+[
+	{
+        "typeId": "10",
+        "typeItemList": [
+   {
+    "movieName": "Geo News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/geonews.jpg",
+    "videoUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8"
+  },
+  {
+    "movieName": "Geo Tez",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/geotez.jpg",
+    "videoUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+  },
+   {
+    "movieName": "Hum News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/humnews.png",
+    "videoUrl": "https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8"
+  },
+  {
+    "movieName": "Lahore News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/lahorenews.jpg",
+    "videoUrl": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
+  },
+  {
+    "movieName": "24 News HD",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/news24.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8"
+  },
+  {
+    "movieName": "92 News HD",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/92news.png",
+    "videoUrl": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+  },
+  {
+    "movieName": "Aaj News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ajnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8"
+  },
+  {
+    "movieName": "ARY News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/arynews.png",
+    "videoUrl": "https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8"
+  },
+  {
+    "movieName": "Bol News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/bolnews.png",
+    "videoUrl": "https://ythls.armelin.one/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8"
+  },
+  {
+    "movieName": "Dunya News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/dunyanews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8"
+  },
+   {
+    "movieName": "Express News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/expressnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8"
+  },
+   {
+    "movieName": "PTV News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ptvnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8"
+  },
+  {
+    "movieName": "City 41",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/city41.png",
+    "videoUrl": "https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8"
+  },
+   {
+    "movieName": "City 42",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/city42.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8"
+  },
+   {
+    "movieName": "Dawn News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/dawnnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8"
+  },
+   {
+    "movieName": "Gourmet News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/gnnnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8"
+  },
+   {
+    "movieName": "KTN News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ktnnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCmqlO4sewQO97iCeakXTdaw.m3u8"
+  },
+   {
+    "movieName": "Such News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/suchnews.png",
+    "videoUrl": "https://ythls.armelin.one/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8"
+  },
+   {
+    "movieName": "Sindh News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/sindhnews.jpg",
+    "videoUrl": "https://ythls.armelin.one/channel/UCdNrdgAx3bT6tXJ-RJ9dOBA.m3u8"
+  },
+   {
+    "movieName": "Public News",
+	"type": "News",
+	    "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/publicnews.png",
+    "videoUrl": "https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8"
+  }
+   
+]
+}
+]
