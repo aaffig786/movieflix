@@ -1,1 +1,93 @@
 
+[
+    {
+        "typeId": "8",
+        "typeItemList": [
+            {
+                "movieName": "Madani Channel",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/madani.jpeg",
+                "videoUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+            },
+            {
+                "movieName": "Express Ent",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/expressent.jpg",
+                "videoUrl": "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8"
+            },
+            {
+                "movieName": "Geo Kahani",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/geokahani.png",
+                "videoUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+            },
+            {
+                "movieName": "JooMusic",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/JooMusic.png",
+                "videoUrl": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+            },
+            {
+                "movieName": "PTV Home",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ptvhome.jpg",
+                "videoUrl": "https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8"
+            },
+            {
+                "movieName": "PTV Global",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ptvglobal.jpg",
+                "videoUrl": "https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8"
+            },
+            {
+                "movieName": "Samaa TV",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/samatv.jpg",
+                "videoUrl": "https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8"
+            },
+            {
+                "movieName": "ABN Urdu",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/abnurdu.jpg",
+                "videoUrl": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
+            },
+            {
+                "movieName": "ABN Bible Movies",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ABNBibleMovies.jpg",
+                "videoUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
+            },
+            {
+                "movieName": "ZindagiTV",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/ZindagiTV.jpg",
+                "videoUrl": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
+            },
+            {
+                "movieName": "Awaz TV Network",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/awaztvnetwork.jpg",
+                "videoUrl": "https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8"
+            },
+            {
+                "movieName": "Discover Pakistan",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/discoverpakistan.jpg",
+                "videoUrl": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+            },
+            {
+                "movieName": "Grace Network",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/gracenetwork.png",
+                "videoUrl": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+            },
+            {
+                "movieName": "Al Ehsan Tv",
+                "type": "Entertainment",
+                "imageUrl": "https://storage.googleapis.com/movieflixmovies/iptvlogo/alehsantv.jpg",
+                "videoUrl": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
+            }
+        ]
+    }
+]
+
