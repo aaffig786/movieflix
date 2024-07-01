@@ -3,6 +3,108 @@
         "typeId": "1",
         "typeItemList": [
 		{
+    "movieName": "Bade Miyan Chote Miyan",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/BadeMiyanChoteMiyan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/BadeMiyanChoteMiyan(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Fighter",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Fighter(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Fighter(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Gadera",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Gadera(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Gadera(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Game On",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/GameOn(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/GameOn(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Eagle",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Eagle(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Eagle(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Captain Miller",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/CaptainMiller(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/CaptainMiller(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Dange",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Dange(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Dange(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Crakk",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Crakk(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Crakk(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Hanuman",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Hanuman(2024)/cover.jpeg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Hanuman(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "House of Lies",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/HouseofLies(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/HouseofLies(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Crew",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Crew(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Crew(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "DedhBighaZameen",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/DedhBighaZameen(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/DedhBighaZameen(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Blackout",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Blackout(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Blackout(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Battery",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Battery(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Battery(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Bhakshak",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Bhakshak(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Bhakshak(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Bhimaa",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Bhimaa(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Bhimaa(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Ghost",
+    "type": "Action - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2023/Ghost(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2023/Ghost(2023)/Ghost(2023)_720p.m3u8"
+  },
+		{
     "movieName": "K.G.F: Chapter 2",
     "type": "Action - Thriller / 2022",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/KGFChapter2(2022)/cover.jpeg",
