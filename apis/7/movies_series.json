@@ -3,12 +3,36 @@
         "typeId": "7",
         "typeItemList": [
 		{
+    "movieName": "Kung Fu Panda 4",
+    "type": "Movie / 2024",
+    "imageUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2024/KungFuPanda4(2024)/cover.jpg",
+    "videoUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2024/KungFuPanda4(2024)/KungFuPanda4(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Noah's Ark",
+    "type": "Movie / 2024",
+    "imageUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2024/NoahsArk(2024)/cover.jpg",
+    "videoUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2024/NoahsArk(2024)/NoahsArk(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Hot Wheels LetsRace",
+    "type": "Season 1 / 2024",
+    "imageUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2024/HotWheelsLetsRace(2024)Season1/cover.jpg",
+    "videoUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2024/HotWheelsLetsRace(2024)Season1/HotWheelsLetsRace(2024)Season1_720p.m3u8"
+  },
+		{
+    "movieName": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "type": "Movie / 2023",
+    "imageUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2023/TeenageMutantNinjaTurtlesMutantMayhem(2023)/cover.jpg",
+    "videoUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2023/TeenageMutantNinjaTurtlesMutantMayhem(2023)/720p.m3u8"
+  },
+		{
     "movieName": "Jurassic Planet: The Mighty Kingdom",
     "type": "Movie / 2021",
     "imageUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2021/JurassicPlanetTheMightyKingdom(2021)/cover.jpg",
     "videoUrl": "hhttps://storage.googleapis.com/mfdataapi/animated/2021/JurassicPlanetTheMightyKingdom(2021)/JurassicPlanetTheMightyKingdom(2021)_720p.m3u8"
   }
 		
-]
-}
+      ]
+   }
 ]
