@@ -111,6 +111,78 @@
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/KGFChapter2(2022)/KGFChapter2(2022)_720p.m3u8"
   },
 		{
+    "movieName": "Attack: Part 1",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Attack(2022)Part1/cover.jpeg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Attack(2022)Part1/Attack(2022)Part1_720p.m3u8"
+  },
+		{
+    "movieName": "God Father",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Godfather(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Godfather(2022)/Godfather(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Dhokha Round D'Corner",
+    "type": "Suspense - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/DhokhaRoundDCorner(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/DhokhaRoundDCorner(2022)/DhokhaRoundDCorner(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Good Luck Jerry",
+    "type": "Drama - Comedy / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/GoodLuckJerry(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/GoodLuckJerry(2022)/GoodLuckJerry(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Ek Villain Returns",
+    "type": "Crime - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/EkVillainReturns(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/EkVillainReturns(2022)/EkVillainReturns(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Khuda Haafiz: Chapter 2",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/KhudaHaafizChapter2(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/KhudaHaafizChapter2(2022)/KhudaHaafizChapter2(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Double XL",
+    "type": "Drama - Comedy / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/DoubleXL(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/DoubleXL(2022)/DoubleXL(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Janhit Mein Jaari",
+    "type": "Drama - Comedy / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/JanhitMeinJaari(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/JanhitMeinJaari(2022)/JanhitMeinJaari(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Freddy",
+    "type": "Crime - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Freddy(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Freddy(2022)/Freddy(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Forensic",
+    "type": "Crime - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Forensic(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Forensic(2022)/Forensic(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Brahmastra: Part One 'Shiva'",
+    "type": "Action - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/BrahmastraPartOneShiva(2022)/cover.jpeg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/BrahmastraPartOneShiva(2022)/BrahmastraPartOneShiva(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Cuttputlli",
+    "type": "Suspense - Thriller / 2022",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Cuttputlli(2022)/cover.jpeg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Cuttputlli(2022)/Cuttputlli(2022)_720p.m3u8"
+  },
+		{
     "movieName": "Bhediya",
     "type": "Action - Thriller / 2022",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/Bhediya(2022)/cover.jpg",
@@ -169,6 +241,12 @@
     "type": "Action - Thriller / 2022",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/JohnLuther(2022)/cover.jpg",
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2022/JohnLuther(2022)/JohnLuther(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Indoo Ki Jawani",
+    "type": "Drama - Romance / 2020",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2020/IndooKiJawani(2020)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2020/IndooKiJawani(2020)/720p.m3u8"
   }
 		
     ]
