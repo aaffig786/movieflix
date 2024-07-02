@@ -9,6 +9,12 @@
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/FuriosaAMadMaxSaga(2024)/FuriosaAMadMaxSaga(2024)_720p.m3u8"
   },
 		{
+    "movieName": "Tarot",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Tarot(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Tarot(2024)/Tarot(2024)_720p.m3u8"
+  },
+		{
     "movieName": "HitMan",
     "type": "Action - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/HitMan(2024)/cover.jpg",
@@ -21,6 +27,96 @@
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DunePartTwo(2024)/DunePartTwo(2024)_720p.m3u8"
   },
 		{
+    "movieName": "The Wages of Fear",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheWagesofFear(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheWagesofFear(2024)/TheWagesofFear(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "The Tearsmith",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheTearsmith(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheTearsmith(2024)/TheTearsmith(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Through My Window 3: Looking at You",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ThroughMyWindow3LookingatYou(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ThroughMyWindow3LookingatYou(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "The Beekeeper",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheBeekeeper(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheBeekeeper(2024)/TheBeekeeper(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Rebel Moon: The Scargiver",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/RebelMoonTheScargiver(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/RebelMoonTheScargiver(2024)/RebelMoonTheScargiver(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Trigger Warning",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TriggerWarning(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TriggerWarning(2024)/TriggerWarning(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Under Paris",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/UnderParis(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/UnderParis(2024)/UnderParis(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Wanted Man",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/WantedMan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/WantedMan(2024)/WantedMan(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "The Fall Guy",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheFallGuy(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheFallGuy(2024)/TheFallGuy(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Mean Girls",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/MeanGirls(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/MeanGirls(2024)/MeanGirls(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Ricky Stanicky",
+    "type": "Drama - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/RickyStanicky(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/RickyStanicky(2024)/RickyStanicky(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Too Old for Fairy Tales 2",
+    "type": "Drama - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TooOldforFairyTales2(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TooOldforFairyTales2(2024)/TooOldforFairyTales2(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Spaceman",
+    "type": "Space - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Spaceman(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Spaceman(2024)/Spaceman(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Madame Web",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/MadameWeb(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/MadameWeb(2024)/MadameWeb(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Stolen",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Stolen(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Stolen(2024)/Stolen(2024)_720p.m3u8"
+  },
+		{
     "movieName": "Ghostbusters: Frozen Empire",
     "type": "Horror - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/GhostbustersFrozenEmpire(2024)/cover.jpg",
@@ -31,12 +127,6 @@
     "type": "Action - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ContagionofFear(2024)/cover.jpg",
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ContagionofFear(2024)/ContagionofFear(2024)_720p.m3u8"
-  },
-		{
-    "movieName": "IF",
-    "type": "Drama - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/IF(2024)/cover.jpg",
-    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/IF(2024)/IF(2024)_720p.m3u8"
   },
 		{
     "movieName": "Don't Worry Darling",
@@ -85,6 +175,12 @@
     "type": "Drama - Romance / 2023",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2023/Visions(2023)/cover.jpg",
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2023/Visions(2023)/Visions(2023)_720p.m3u8"
+  },
+			{
+    "movieName": "Night of the Hunted",
+    "type": "Horror - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/NightoftheHunted(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/NightoftheHunted(2023)/NightoftheHunted(2023)_720p.m3u8"
   },
 		{
     "movieName": "The Marsh Kings Daughter",
