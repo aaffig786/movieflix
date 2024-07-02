@@ -3,6 +3,36 @@
         "typeId": "1",
         "typeItemList": [
 		{
+    "movieName": "Sharma jee Ki Beti",
+    "type": "Drama - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/SharmajeeKiBeti(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/SharmajeeKiBeti(2024)/SharmajeeKiBeti(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Silence 2: The Night Owl Bar Shootout",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Silence2TheNightOwlBarShootout(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Silence2TheNightOwlBarShootout(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Siren 108",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Siren108(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Siren108(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Manjummel Boys",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/ManjummelBoys(2024)/cover.webp",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/ManjummelBoys(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Tillu Square",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TilluSquare(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TilluSquare(2024)/720p.m3u8"
+  },
+		{
     "movieName": "Bade Miyan Chote Miyan",
     "type": "Action - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/BadeMiyanChoteMiyan(2024)/cover.jpg",
@@ -13,6 +43,132 @@
     "type": "Action - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Fighter(2024)/cover.jpg",
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Fighter(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Yodha",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Yodha(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Yodha(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Shaitaan",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Shaitaan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Shaitaan(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Maidaan",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Maidaan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Maidaan(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Teri Baaton Mein Aisa Uljha Jiya",
+    "type": "Comedy - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TeriBaatonMeinAisaUljhaJiya(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TeriBaatonMeinAisaUljhaJiya(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Antony",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Antony(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Antony(2024)/Antony(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Yuvaraj",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Yuvaraj(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Yuvaraj(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Raid 2",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Raid(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Raid(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Rebel",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Rebel(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Rebel(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "S.I.T",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/S.I.T.(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/S.I.T.(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Saindhav",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Saindhav(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Saindhav(2024)/Saindhav(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Operation Valentine",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/OperationValentine(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/OperationValentine(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Patna Shuklla",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/PatnaShuklla(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/PatnaShuklla(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Naadu",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Naadu(2024)/cover.jpeg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Naadu(2024)/Naadu(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Murder Mubarak",
+    "type": "Crime - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/MurderMubarak(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/MurderMubarak(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Merry Christmas",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/MerryChristmas(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/MerryChristmas(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Joshua",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Joshua(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Joshua(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Kaagaz 2",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Kaagaz2(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Kaagaz2(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Kaam Chalu Hai",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/KaamChaluHai(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/KaamChaluHai(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Pindam",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Pindam(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Pindam(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Madgaon Express",
+    "type": "Drama - Comedy / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/MadgaonExpress(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/MadgaonExpress(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Laapataa Ladies",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/LaapataaLadies(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/LaapataaLadies(2024)/720p.m3u8"
   },
 		{
     "movieName": "Gadera",
@@ -103,6 +259,12 @@
     "type": "Action - Thriller / 2023",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2023/Ghost(2023)/cover.jpg",
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2023/Ghost(2023)/Ghost(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "My Name Is Shruthi",
+    "type": "Crime - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2023/MyNameIsShruthi(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2023/MyNameIsShruthi(2023)/MyNameIsShruthi(2023)_720p.m3u8"
   },
 		{
     "movieName": "K.G.F: Chapter 2",
