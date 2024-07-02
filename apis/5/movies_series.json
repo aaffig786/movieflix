@@ -4,347 +4,72 @@
         "typeId": "5",
         "typeItemList": [
 		{
-            "movieName":"Ranneeti: Balakot & Beyond",
+            "movieName":"Inspector Rishi",
             "type":"Season 1 - Thriller / 2024",
-            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/RanneetiBalakot%26Beyond(2024)Season1/RanneetiBalakot%26Beyond(2024)Season1.jpg",
-            "videoUrl0":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/RanneetiBalakot%26Beyond(2024)Season1/RanneetiBalakot%26Beyond(2024)Season1/720p.m3u8"
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/InspectorRishi(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/InspectorRishi(2024)Season1/InspectorRishi(2024)Season1_720p.m3u8"
          },
 		{
-            "movieName":"Poacher",
+            "movieName":"Yakshini",
             "type":"Season 1 - Thriller / 2024",
-            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Poacher(2024)Season1/Poacher(2024)Season1.jpeg",
-            "videoUrl0":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Poacher(2024)Season1/Poacher(2024)Season1/720p.m3u8"
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Yakshini(2024)Season1/cover.jpeg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Yakshini(2024)Season1/720p.m3u8"
          },
 		{
-            "movieName":"Miss Perfect",
-            "type":"Season 1 - Romance / 2024",
-            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MissPerfect(2024)Season1/MissPerfect(2024)Season1.jpg",
-            "videoUrl0":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MissPerfect(2024)Season1/MissPerfect(2024)Season1/720p.m3u8"
-         },
-		 {
-            "movieName":"Maharani",
+            "movieName":"Undekhi",
             "type":"Season 3 - Thriller / 2024",
-            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Maharani(2024)Season3/Maharani(2024)Season3.jpg",
-            "videoUrl0":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Maharani(2024)Season3/Maharani(2024)Season3/720p.m3u8"
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Undekhi(2024)Season3/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Undekhi(2024)Season3/Undekhi(2024)Season3_720p.m3u8"
          },
-		 {
-            "movieName":"Love Adhura",
-            "type":"Season 1 - Romance / 2024",
-            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/LoveAdhura(2024)Season1/LoveAdhura(2024)Season1.jpg",
-            "videoUrl0":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/LoveAdhura(2024)Season1/LoveAdhura(2024)Season1/720p.m3u8"
+		{
+            "movieName":"Sunflower",
+            "type":"Season 2 - Drama / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Sunflower(2024)Season2/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Sunflower(2024)Season2/720p.m3u8"
          },
-		 {
+		{
+            "movieName":"Murder At Koh E Fiza",
+            "type":"Season 1 - Thriller / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/MurderAtKohEFiza(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/MurderAtKohEFiza(2024)Season1/MurderAtKohEFiza(2024)Season1_720p.m3u8"
+         },
+		{
+            "movieName":"Womaniya",
+            "type":"Season 1 - Thriller / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Womaniya(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Womaniya(2024)Season1/720p.m3u8"
+         },
+		{
+            "movieName":"Amber Girls School",
+            "type":"Season 1 - Drama / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/AmberGirlsSchool(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/AmberGirlsSchool(2024)Season1/AmberGirlsSchool(2024)Season1_720p.m3u8"
+         },
+		{
             "movieName":"Sawab",
             "type":"Season 1 - Drama / 2024",
-            "imageUrl":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Sawab(2024)Season1/Sawab(2024)Season1.jpg",
-            "videoUrl0":"https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Sawab(2024)Season1/Sawab(2024)Season1/720p.m3u8"
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Sawab(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Sawab(2024)Season1/Sawab(2024)Season1_720p.m3u8"
          },
 		{
-    "movieName": "Killer Soup",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/KillerSoup(2024)Season1/KillerSoup(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/KillerSoup(2024)Season1/KillerSoup(2024)Season1/720p.m3u8"
-  },
+            "movieName":"Chacha Vidhayak Hain Humare",
+            "type":"Season 3 - Drama / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/ChachaVidhayakHainHumare(2024)Season3/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/ChachaVidhayakHainHumare(2024)Season3/ChachaVidhayakHainHumare(2024)Season3_720p.m3u8"
+         },
 		{
-    "movieName": "Karmma Calling",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/KarmmaCalling(2024)Season1/KarmmaCalling(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/KarmmaCalling(2024)Season1/KarmmaCalling(2024)Season1/720p.m3u8"
-  },
+            "movieName":"Sisterhood",
+            "type":"Season 1 - Drama / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Sisterhood(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Sisterhood(2024)Season1/720p.m3u8"
+         },
 		{
-    "movieName": "VideoCam Scam",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/VideoCamScam(2024)Season1/VideoCamScam(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/VideoCamScam(2024)Season1/VideoCamScam(2024)Season1/720p.m3u8"
-  },
-		{
-    "movieName": "Illegal",
-    "type": "Season 3 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Illegal(2024)Season3/Illegal(2024)Season3.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Illegal(2024)Season3/Illegal(2024)Season3/720p.m3u8"
-  },
-		{
-    "movieName": "Oh My Wife!",
-    "type": "Season 1 - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/OhMyWife!(2024)HindiSeason1/Wife!(2024)HindiSeason1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/OhMyWife!(2024)HindiSeason1/OhMyWife!(2024)HindiSeason1/720p.m3u8"
-  },
-		{
-    "movieName": "Namacool",
-    "type": "Season 1 - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Namacool(2024)HindiSeason1/Namacool(2024)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Namacool(2024)HindiSeason1/Namacool(2024)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Chacha Vidhayak Hai Humare",
-    "type": "Season 3 - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/ChachaVidhayakHainHumare(2024)HindiSeason3/ChachaVidhayakHainHumare(2024)HindiSeason3.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/ChachaVidhayakHainHumare(2024)HindiSeason3/ChachaVidhayakHainHumare(2024)HindiSeason3/720p.m3u8"
-  },
- {
-    "movieName": "Amber Girls School",
-    "type": "Season 1 - Romance / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/AmberGirlsSchool(2024)HindiSeason1/AmberGirlsSchool(2024)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Tujhpe Main Fida",
-    "type": "Season 1 - Romance / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/TujhpeMainFida(2024)HindiSeason1/TujhpeMainFida(2024)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/TujhpeMainFida(2024)HindiSeason1/TujhpeMainFida(2024)HindiSeason1/720p-1.m3u8"
-  },
- {
-    "movieName": "Lootere",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Lootere(2024)HindiSeason1/Lootere(2024)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Lootere(2024)HindiSeason1/Lootere(2024)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Murder in Mahim",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MurderinMahim(2024)HindiSeason1/MurderinMahim(2024)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MurderinMahim(2024)HindiSeason1/MurderinMahim(2024)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Undekhi",
-    "type": "Season 3 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Undekhi(2024)HindiSeason3/Undekhi(2024)HindiSeason3_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Undekhi(2024)HindiSeason3/Undekhi(2024)HindiSeason3/720p.m3u8"
-  },
- {
-    "movieName": "Heeramandi: The Diamond Bazaar",
-    "type": "Season 1 - Darama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/HeeramandiTheDiamondBazaar(2024)HindiSeason1/HeeramandiTheDiamondBazaar(2024)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/HeeramandiTheDiamondBazaar(2024)HindiSeason1/HeeramandiTheDiamondBazaar(2024)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Maamla Legal Hai",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MaamlaLegalHaiSeason1/MaamlaLegalHai(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MaamlaLegalHaiSeason1/MaamlaLegalHaiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Zindabaad Yaarian",
-    "type": "Season 1 - Punjabi / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Punjabi/2024/ZindabaadYaarian(2024)Season1/ZindabaadYaarian(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Punjabi/2024/ZindabaadYaarian(2024)Season1/ZindabaadYaarian(2024)Season1/720p.m3u8"
-  },
- {
-    "movieName": "Dil Dosti Dilemma",
-    "type": "Season 1 - Love / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/DilDostiDilemma(2024)Season1/DilDostiDilemma(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/DilDostiDilemma(2024)Season1/DilDostiDilemma(2024)Season1/720p.m3u8"
-  },
- {
-    "movieName": "Murder at Koh E Fiza",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MurderAtKoheFizaSeason1/MurderAtKoheFiza(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/MurderAtKoheFizaSeason1/MurderAtKoheFizaSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Showtime",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Showtime(2024)Season1/Showtime(2024)HindiSeason1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/Showtime(2024)Season1/Showtime(2024)Season1/720p.m3u8"
-  },
- {
-    "movieName": "Inspector Rishi",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/InspectorRishiSeason1/InspectorRishi(2024)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/InspectorRishiSeason1/InspectorRishiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Indian Police Force",
-    "type": "Season 1 - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/IndianPoliceForceSeason1/Indian_Police_Force.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2024/IndianPoliceForceSeason1/IndianPoliceForce/720p.m3u8"
-  },
- {
-    "movieName": "Leaked!",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Leaked(2023)HindiSeason1/Leaked(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Leaked(2023)HindiSeason1/Leaked(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Campus Beats",
-    "type": "Season 1 - Drama / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/CampusBeats(2023)Season1/CampusBeats(2023)Season1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/CampusBeats(2023)Season1/CampusBeats(2023)Season1/720p.m3u8"
-  },
-  {
-    "movieName": "Guns & Gulaabs",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/GunsandGulaabs(2023)HindiSeason1/GunsandGulaabs(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/GunsandGulaabs(2023)HindiSeason1/GunsandGulaabs(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Bambai Meri Jaan",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/BambaiMeriJaan(2023)HindiSeason1/BambaiMeriJaan(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/BambaiMeriJaan(2023)HindiSeason1/BambaiMeriJaan(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Scam 2003",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Scam(2023)HindiSeason1/Scam(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Scam(2023)HindiSeason1/Scam(2023)HindiSeason1/720p.m3u8"
-  },
-  {
-    "movieName": "Kaala Paani",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/KaalaPaani(2023)HindiSeason1/KaalaPaani(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/KaalaPaani(2023)HindiSeason1/KaalaPaani(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Athidhi",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Athidhi(2023)HindiSeason1/Athidhi(2023)HindiSeason1_11zon.webp",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Athidhi(2023)HindiSeason1/Athidhi(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "The Village",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/TheVillage(2023)HindiSeason1/TheVillage(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/TheVillage(2023)HindiSeason1/TheVillage(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Mumbai Diaries",
-    "type": "Season 2 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/MumbaiDiaries(2023)HindiSeason2/MumbaiDiaries(2023)HindiSeason2_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/MumbaiDiaries(2023)HindiSeason2/MumbaiDiaries(2023)HindiSeason2/720p.m3u8"
-  },
- {
-    "movieName": "Rana Naidu - Season 1",
-    "type": "Episode 6-10 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/RanaNaidu(2023)Season1E6-10/RanaNaidu2023.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/RanaNaidu(2023)Season1E6-10/RanaNaidu(2023)Season1E6-10/720p.m3u8"
-  },
- {
-    "movieName": "Rana Naidu - Season 1",
-    "type": "Episode 1-5 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/RanaNaidu(2023)Season1E1-5/RanaNaidu2023.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/RanaNaidu(2023)Season1E1-5/RanaNaidu(2023)Season1E1-5/720p.m3u8"
-  },
- {
-    "movieName": "Kaala",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Kaala(2023)HindiSeason1/Kaala(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Kaala(2023)HindiSeason1/Kaala(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Bloody Daddy",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/BloodyDaddy/BloodyDaddy(2023).webp",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/BloodyDaddy/BloodyDaddy/720p.m3u8"
-  },
- {
-    "movieName": "Lucky Guy",
-    "type": "Season 1 - Romance / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/LuckyGuy(2023)HindiSeason1/LuckyGuy(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/LuckyGuy(2023)HindiSeason1/LuckyGuy(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Aakhri Sach",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/AakhriSach(2023)HindiSeason1/AakhriSach(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/AakhriSach(2023)HindiSeason1/AakhriSach(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Hack: Crimes Online",
-    "type": "Season 1 - Crime / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/HackCrimesOnline(2023)HindiSeason1/HackCrimesOnline(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/HackCrimesOnline(2023)HindiSeason1/HackCrimesOnline(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Bhootmate",
-    "type": "Season 1 - Love / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/BhootMate(2023)HindiSeason1/BhootMate(2023)HindiSeason1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/BhootMate(2023)HindiSeason1/BhootMate(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Sultan of Delhi",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/SultanofDelhi(2023)HindiSeason1/SultanofDelhi(2023)HindiSeason1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/SultanofDelhi(2023)HindiSeason1/SultanofDelhi(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Farzi",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Farzi(2023)Season1/Farzi(2023)Season1.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/Farzi(2023)Season1/Farzi(2023)Season1/720p.m3u8"
-  },
- {
-    "movieName": "P.I. Meena",
-    "type": "Season 1 - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/P.I.Meena(2023)HindiSeason1/P.I.Meena(2023)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2023/P.I.Meena(2023)HindiSeason1/P.I.Meena(2023)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Outlaw",
-    "type": "Season 1 - Punjabi / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Punjabi/2023/Outlaw(2023)PunjabiSeason1/Outlaw(2023)PunjabiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Punjabi/2023/Outlaw(2023)PunjabiSeason1/Outlaw(2023)PunjabiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Undekhi",
-    "type": "Season 2 - Thriller / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2022/Undekhi(2022)HindiSeason2/Undekhi(2022)HindiSeason2_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2022/Undekhi(2022)HindiSeason2/Undekhi(2022)HindiSeason2/720p.m3u8"
-  },
- {
-    "movieName": "HIT: The Second Case",
-    "type": "Season 2 - Thriller / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2022/HITThe2ndCase/HITThe2ndCase.jpeg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2022/HITThe2ndCase/HITThe2ndCase/720p.m3u8"
-  },
- {
-    "movieName": "HIT: The First Case",
-    "type": "Season 1 - Thriller / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2022/HitTheFirstCase/HIT-_The_First_Case_poster.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2022/HitTheFirstCase/HitTheFirstCase/720p.m3u8"
-  },
- {
-    "movieName": "Mumbai Diaries",
-    "type": "Season 1 - Thriller / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2021/MumbaiDiaries2611(2021)HindiSeason1/MumbaiDiaries2611(2021)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2021/MumbaiDiaries2611(2021)HindiSeason1/MumbaiDiaries2611(2021)HindiSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Chacha Vidhayak Hai Humare",
-    "type": "Season 2 - Comedy / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2021/ChachaVidhayakHainHumare(2021)HindiSeason2/ChachaVidhayakHainHumare(2021)HindiSeason2_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2021/ChachaVidhayakHainHumare(2021)HindiSeason2/ChachaVidhayakHainHumare(2021)HindiSeason2/720p.m3u8"
-  },
- {
-    "movieName": "Undekhi",
-    "type": "Season 1 - Thriller / 2020",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2020/Undekhi(2020)HindiSeason1/Undekhi(2020)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2020/Undekhi(2020)HindiSeason1/Undekhi(2020)HindiSeason1/720p.m3u8"
-  },
-  {
-    "movieName": "Sacred Games",
-    "type": "Season 2 - Thriller / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2019/SacredGames(2019)HindiSeason2/SacredGames(2019)HindiSeason2_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2019/SacredGames(2019)HindiSeason2/SacredGames(2019)HindiSeason2/720p.m3u8"
-  },
- {
-    "movieName": "Criminal Justice",
-    "type": "Season 1 - Thriller / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2019/CriminalJusticeSeason1/Criminal_Justice_India.jpeg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2019/CriminalJusticeSeason1/CriminalJusticeSeason1/720p.m3u8"
-  },
- {
-    "movieName": "Chacha Vidhayak Hai Humare",
-    "type": "Season 1 - Comedy / 2018",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2018/ChachaVidhayakHainHumare(2018)HindiSeason1/ChachaVidhayakHainHumare(2018)HindiSeason1_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2018/ChachaVidhayakHainHumare(2018)HindiSeason1/ChachaVidhayakHainHumare(2018)HindiSeason1/720p.m3u8"
-  },
-  {
-    "movieName": "Sacred Games",
-    "type": "Season 1 - Thriller / 2018",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/series/Indian/2018/SacredGames(2018)HindiSeason1/SacredGames(2018)HindiSeason1_11zon%20(1).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/series/Indian/2018/SacredGames(2018)HindiSeason1/SacredGames(2018)HindiSeason1/720p.m3u8"
-  }
+            "movieName":"Sunflower",
+            "type":"Season 1 - Drama / 2021",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2021/Sunflower(2021)/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2021/Sunflower(2021)/720p.m3u8"
+         }
+		
 ]
 }
 ]
