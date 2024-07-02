@@ -3,395 +3,102 @@
         "typeId": "3",
         "typeItemList": [
 		{
-    "movieName": "Jatt Nuu Chudail Takri",
-    "type": "Comedy - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JattNuuChudailTakri(2024)/JattNuuChudailTakri(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JattNuuChudailTakri(2024)/JattNuuChudailTakri(2024)/720p.m3u8"
-  },
-		{
-    "movieName": "Jee Ve Sohneya Jee",
-    "type": "Comedy - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JeeVeSohneyaJee(2024)/JeeVeSohneyaJee(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JeeVeSohneyaJee(2024)/JeeVeSohneyaJee(2024)/720p.m3u8"
-  },
-		{
-    "movieName": "Je Paisa Bolda Hunda",
-    "type": "Comedy - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JePaisaBoldaHunda(2024)/JePaisaBoldaHunda(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JePaisaBoldaHunda(2024)/JePaisaBoldaHunda(2024)/720p.m3u8"
-  },
-		{
-    "movieName": "Jonde Raho Bhoot Ji",
-    "type": "Comedy - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JondeRahoBhootJi(2024)/JondeRahoBhootJi(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JondeRahoBhootJi(2024)/JondeRahoBhootJi(2024)/720p.m3u8"
-  },
-		{
-    "movieName": "Vekhi Ja Chhedi Na",
-    "type": "Comedy - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/VekhiJaChhediNa(2024)/VekhiJaChhediNa(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/VekhiJaChhediNa(2024)/VekhiJaChhediNa(2024)/720p.m3u8"
-  },
-		{
-    "movieName": "Punjabi By Nature",
-    "type": "Comedy - Drama / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/PunjabiByNature(2024)/PunjabiByNature.webp",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/PunjabiByNature(2024)/PunjabiByNature(2024)/720p.m3u8"
-  },
-  {
-    "movieName": "Blackia 2",
-    "type": "Action - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Blackia2(2024)/Blackia2(2024)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Blackia2(2024)/Blackia2(2024)/720p.m3u8"
-  },
- {
-    "movieName": "Oye Bhole Oye",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/OyeBholeOye(2024)/OyeBholeOye(2024)/720p.m3u8"
-  },
-{
-    "movieName": "Mansooba",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Mansooba(2024)/Mansooba(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Mansooba(2024)/Mansooba(2024)/720p.m3u8"
-  },
- {
-    "movieName": "Kali Jotta",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KaliJotta(2023)/KaliJotta(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KaliJotta(2023)/KaliJotta(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Amar Singh Chamkila",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/AmarSinghChamkila/AmarSinghChamkila.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/AmarSinghChamkila/AmarSinghChamkila/720p.m3u8"
-  },
- {
-    "movieName": "Jatta Dolie Naa",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JattaDolieNaa(2024)/JattaDolieNaa(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/JattaDolieNaa(2024)/JattaDolieNaa(2024)/720p.m3u8"
-  },
- {
-    "movieName": "Lucky Scheme",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/LuckyScheme(2024)/LuckyScheme(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/LuckyScheme(2024)/LuckyScheme(2024)/720p.m3u8"
-  },
- {
-    "movieName": "Warning 2",
-    "type": "Drama - Action / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Warning2(2024)/Warning2(2024)).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/Warning2(2024)/Warning2(2024)/720p.m3u8"
-  },
- {
-    "movieName": "Annhi Dea Mazaak Ae",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnnhiDeaMazaakAe(2023)/AnnhiDeaMazaakAe(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnnhiDeaMazaakAe(2023)/AnnhiDeaMazaakAe(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Boo Main Dargi",
-    "type": "Drama - Comedy / 2024",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/BooMainDargi/BooMainDargi(2024).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2024/BooMainDargi/BooMainDargi/720p.m3u8"
-  },
-  {
-    "movieName": "Bhootni De",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BhootniDe(2023)/BhootniDe(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BhootniDe(2023)/BhootniDe(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Carry on Jatta 3",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/CarryonJatta/Carry_on_Jatta_3_film_poster.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/CarryonJatta/CarryonJatta3(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Chida Vichara Ki Kare",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/indian/2023/ChidaVicharaKiKare(2023)/ChidaVicharaKiKare(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/indian/2023/ChidaVicharaKiKare(2023)/ChidaVicharaKiKare(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Sidhus of Southall",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SidhusofSouthall(2023)/SidhusofSouthall(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SidhusofSouthall(2023)/SidhusofSouthall(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Jawai Bhai",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JawaiBhai(2023)/JawaiBhai(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JawaiBhai(2023)/JawaiBhai(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Godday Godday Chaa",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GoddayGoddayChaa(2023)/GoddayGoddayChaa(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GoddayGoddayChaa(2023)/GoddayGoddayChaa(2023)/720p.m3u8"
-  },
- {
     "movieName": "White Punjab",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/WhitePunjab(2023)/WhitePunjab(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/WhitePunjab(2023)/WhitePunjab(2023)/720p.m3u8"
+    "type": "Drama - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/WhitePunjab(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/WhitePunjab(2023)/WhitePunjab(2023)_720p.m3u8"
   },
- {
+		{
+    "movieName": "Sidhus of Southall",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/SidhusofSouthall(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/SidhusofSouthall(2023)/SidhusofSouthall(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Sardara and Sons",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/SardaraandSons(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Minda Lalari",
+    "type": "Action - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/MindaLalari(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/MindaLalari(2023)/MindaLalari(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Kali Jotta",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/KaliJotta(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/KaliJotta(2023)/KaliJotta(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Kade Dade Diyan Kade Pote Diyan",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/KadeDadeDiyanKadePoteDiyan(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/KadeDadeDiyanKadePoteDiyan(2023)/KadeDadeDiyanKadePoteDiyan(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Jawai Bhai",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/JawaiBhai(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/JawaiBhai(2023)/JawaiBhai(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Gudiya",
+    "type": "Horror - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/Gudiya(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/Gudiya(2023)/Gudiya(2023)_720p.m3u8"
+  },
+		{
+    "movieName": "Gaddi Jaandi Ae Chalaangaan Maardi",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi(2023)/GaddiJaandiAeChalaangaanMaardi(2023)_720p.m3u8"
+  },
+		{
     "movieName": "Full Moon",
     "type": "Drama - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/FullMoon(2023)/FullMoon(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/FullMoon(2023)/FullMoon(2023)/720p.m3u8"
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/FullMoon(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/FullMoon(2023)/FullMoon(2023)_720p.m3u8"
   },
- {
-    "movieName": "Gudiya",
-    "type": "Drama - Horror / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Gudiya(2023)/Gudiya(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Gudiya(2023)/Gudiya(2023)/720p.m3u8"
+		{
+    "movieName": "Chida Vichara Ki Kare",
+    "type": "Drama - Thriller / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/ChidaVicharaKiKare(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/ChidaVicharaKiKare(2023)/ChidaVicharaKiKare(2023)_720p.m3u8"
   },
- {
-    "movieName": "Parinda Paar Geyaa",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/ParindaPaarGeyaa(2023)/DeskParindaPaarGeyaa(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/ParindaPaarGeyaa(2023)/ParindaPaarGeyaa(2023)/720p.m3u8"
-  },
- {
+		{
     "movieName": "Buhe Bariyan",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BuheBariyan/BuheBariyan(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BuheBariyan/BuheBariyan/720p.m3u8"
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/BuheBariyan(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/BuheBariyan(2023)/BuheBariyan(2023)_720p.m3u8"
   },
- {
-    "movieName": "Sardara and Sons",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SardaraandSons(2023)/SardaraandSons(2023)/720p.m3u8"
+		{
+    "movieName": "Bhootni De",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/BhootniDe(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/BhootniDe(2023)/BhootniDe(2023)_720p.m3u8"
   },
- {
-    "movieName": "Bujharat Heere Di",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BujharatHeereDi/BujharatHeereDi(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/BujharatHeereDi/BujharatHeereDi/720p.m3u8"
+		{
+    "movieName": "Balle O Chalaak Sajjna",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/BalleOChalaakSajjna(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/BalleOChalaakSajjna(2023)/BalleOChalaakSajjna(2023)_720p.m3u8"
   },
-  {
-    "movieName": "Kade Dade Diyan Kade Pote Diyan",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KadeDadeDiyanKadePoteDiyan/KadeDadeDiyanKadePoteDiyan.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/KadeDadeDiyanKadePoteDiyan/KadeDadeDiyanKadePoteDiyan/720p.m3u8"
+		{
+    "movieName": "Annhi Dea Mazaak Ae",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/AnnhiDeaMazaakAe(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/AnnhiDeaMazaakAe(2023)/AnnhiDeaMazaakAe(2023)_720p.m3u8"
   },
-  {
-    "movieName": "Range Road 290",
-    "type": "Comedy - Thriller / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/RangeRoad290(2023/RangeRoad290(2023)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/RangeRoad290(2023/RangeRoad290(2023)/720p.m3u8"
-  },
- {
-    "movieName": "Golgappe",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Golgappe(2023)/Gol_Gappe_film_poster.jpeg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/Golgappe(2023)/Golgappe/720p.m3u8"
-  },
- {
-    "movieName": "Sab Fadey Jaange",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SabFadeyJange/SabFadeyJange(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/SabFadeyJange/SabFadeyJange/720p.m3u8"
-  },
- {
-    "movieName": "Ji Wife Ji",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JiWifeJi/JiWifeJi(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/JiWifeJi/JiWifeJi/720p.m3u8"
-  },
- {
+		{
     "movieName": "Any How Mitti Pao",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnyHowMittiPao/AnyHowMittiPao(2023).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/AnyHowMittiPao/AnyHowMittiPao/720p.m3u8"
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/AnyHowMittiPao(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/AnyHowMittiPao(2023)/AnyHowMittiPao(2023)_720p.m3u8"
   },
- {
-    "movieName": "Gaddi Jaandi Ae Chalaangaan Maardi",
-    "type": "Drama - Comedy / 2023",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi/Gaddi_Jaandi_Ae_Chalaangaan_Maardi_Poster.png",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2023/GaddiJaandiAeChalaangaanMaardi/GaddiJaandiAeChalaangaanMaardi/720p.m3u8"
-  },
-		 {
-    "movieName": "Aaja Mexico Challiye",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/AajaMexicoChalliye(2022)/AajaMexicoChalliye(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/AajaMexicoChalliye(2022)/AajaMexicoChalliye(2022)/720p.m3u8"
-  },
-  {
-    "movieName": "Yaar Mera Titliaan Warga",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/YaarMeraTitliaanWarga(2022)/YaarMeraTitliaanWarga(2022)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/YaarMeraTitliaanWarga(2022)/YaarMeraTitliaanWarga(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Saunkan Saunkne",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SaunkanSaunkne/SaunkanSaunkne(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SaunkanSaunkne/SaunkanSaunkne/720p.m3u8"
-  },
- {
-    "movieName": "Laung Laachi 2",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/LaungLaachi2(2022)/LaungLaachi2(2022)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/LaungLaachi2(2022)/LaungLaachi2(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Honeymoon",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Honeymoon/Honeymoon_(2022)_film_poster.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Honeymoon/Honeymoon/720p.m3u8"
-  },
- {
-    "movieName": "Jatt Brothers",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JuttBrothers/JuttBrothers.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JuttBrothers/JuttBrothers(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Sher Bagga",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SherBagga(2022)/SherBagga(2022)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SherBagga(2022)/SherBagga(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Maa Da Ladla",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MaaDaLadla/MaaDaLadla(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MaaDaLadla/MaaDaLadla/720p.m3u8"
-  },
- {
-    "movieName": "Jug Jugg Jeeyo",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JugJuggJeeyo/JugJuggJeeyo(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JugJuggJeeyo/JugJuggJeeyo/720p.m3u8"
-  },
- {
-    "movieName": "Sass Meri Ne Munda Jamya",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SassMeriNeMundaJameya/SassMeriNeMundaJameya(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/SassMeriNeMundaJameya/SassMeriNeMundaJameya/720p.m3u8"
-  },
- {
-    "movieName": "Main Te Bapu",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MainTeBapu(2022)/MainTeBapu(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/MainTeBapu(2022)/MainTeBapu(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Jind Mahi",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JindMahi/JindMahi(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/JindMahi/JindMahi/720p.m3u8"
-  },
- {
-    "movieName": "Bhoot Uncle Tusi Great Ho",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BhootUncleTusiGreatHo(2022)/BhootUncleTusiGreatHo(2022)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BhootUncleTusiGreatHo(2022)/BhootUncleTusiGreatHo(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Lekh",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Lekh/Lekh(2022).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/Lekh/Lekh/720p.m3u8"
-  },
- {
-    "movieName": "Babe Bhangra Paunde Ne",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BabeBhangraPaundeNe/Babe_Bhangra_Paunde_Ne_(film).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BabeBhangraPaundeNe/BabeBhangraPaundeNe/720p.m3u8"
-  },
- {
-    "movieName": "Chhalle Mundiyan",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/ChhallMundiyan(2022)/ChhallMundiyan(2022)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/ChhallMundiyan(2022)/ChhallMundiyan(2022)/720p.m3u8"
-  },
- {
-    "movieName": "Bajre Da Sitta",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BajreDaSitta/Bajre_Da_Sitta_poster.png",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BajreDaSitta/BajreDaSitta/720p.m3u8"
-  },
- {
-    "movieName": "Beautiful Billo",
-    "type": "Drama - Comedy / 2022",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BeautifulBillo/Beautiful%20Billo.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2022/BeautifulBillo/BeautifulBillo/720p.m3u8"
-  },
- {
-    "movieName": "Warning",
-    "type": "Drama - Action / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/Warning(2021)/warning2021.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/Warning(2021)/Warning(2021)/720p.m3u8"
-  },
- {
-    "movieName": "Honsla Rakh",
-    "type": "Drama - Comedy / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/HonslaRakh/Honsla_Rakh_film.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/HonslaRakh/HonslaRakh/720p.m3u8"
-  },
- {
-    "movieName": "Chandigarh Kare Aashiqui",
-    "type": "Drama - Comedy / 2021",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/ChandigarhKareAashiqui/Chandigarh_Kare_Aashiqui_poster.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2021/ChandigarhKareAashiqui/ChandigarhKareAashiqui(2021)/720p.m3u8"
-  },
- {
-    "movieName": "Sufna",
-    "type": "Drama - Comedy / 2020",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2020/Sufna(2020)/Sufna(2020).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2020/Sufna(2020)/Sufna(2020)/720p.m3u8"
-  },
- {
-    "movieName": "Naukar Vahuti Da",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NaukarVahutiDa(2019)/NaukarVahutiDa(2019)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NaukarVahutiDa(2019)/NaukarVahutiDa(2019)/720p.m3u8"
-  },
- {
-    "movieName": "Nikka Zaildar 3",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NikkaZaildar3(2019)/NikkaZaildar3(2019)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/NikkaZaildar3(2019)/NikkaZaildar3(2019)/720p.m3u8"
-  },
-  {
-    "movieName": "Lukan Michi",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/LukanMichi(2019)/LukanMichi(2019)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/LukanMichi(2019)/LukanMichi(2019)/720p.m3u8"
-  },
- {
-    "movieName": "Chal Mera Putt",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/ChalMeraPutt(2019)/ChalMeraPutt(2019)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/ChalMeraPutt(2019)/ChalMeraPutt(2019)/720p.m3u8"
-  },
- {
-    "movieName": "Daaka",
-    "type": "Drama - Comedy / 2019",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2017/Lahoriye/Lahoriye(2017).jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/Daaka(2019)/Daaka(2019)/720p.m3u8"
-  },
- {
-    "movieName": "Aate Di Chidi",
-    "type": "Drama - Comedy / 2017",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2018/AateDiChidi(2018)/AateDiChidi(2018)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2018/AateDiChidi(2018)/AateDiChidi(2018)/720p.m3u8"
-  },
- {
-    "movieName": "Lahoriye",
-    "type": "Drama - Comedy / 2017",
-    "imageUrl": "https://storage.googleapis.com/movieflixmovies/punjabi/2019/Daaka(2019)/Daaka(2019)_11zon.jpg",
-    "videoUrl0": "https://storage.googleapis.com/movieflixmovies/punjabi/2017/Lahoriye/Lahoriye/720p.m3u8"
-  }
+		
   ]
   }
 ]
