@@ -3,10 +3,64 @@
         "typeId": "2",
         "typeItemList": [
 		{
+    "movieName": "Furiosa: A Mad Max Saga",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/FuriosaAMadMaxSaga(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/FuriosaAMadMaxSaga(2024)/FuriosaAMadMaxSaga(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "HitMan",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/HitMan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/HitMan(2024)/HitMan(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Dune: Part Two",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DunePartTwo(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DunePartTwo(2024)/DunePartTwo(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Ghostbusters: Frozen Empire",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/GhostbustersFrozenEmpire(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/GhostbustersFrozenEmpire(2024)/GhostbustersFrozenEmpire(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Contagion of Fear",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ContagionofFear(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ContagionofFear(2024)/ContagionofFear(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "IF",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/IF(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/IF(2024)/IF(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Don't Worry Darling",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DontWorryDarling(2022)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DontWorryDarling(2022)/DontWorryDarling(2022)_720p.m3u8"
+  },
+		{
+    "movieName": "Atlas",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Atlas(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Atlas(2024)/Atlas(2024)_720p.m3u8"
+  },
+		{
     "movieName": "Arthur The King",
     "type": "Drama - Thriller / 2024",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ArthurtheKing(2024)/cover.jpg",
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ArthurtheKing(2024)/ArthurtheKing(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Art of Love",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ArtofLove(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ArtofLove(2024)/ArtofLove(2024)_720p.m3u8"
   },
 		{
     "movieName": "Abigail",
