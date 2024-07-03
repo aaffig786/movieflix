@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+            "movieName":"Lootere",
+            "type":"Season 1 - Crime / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Lootere(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Lootere(2024)Season1/Lootere(2024)Season1_720p.m3u8"
+         },
+		{
             "movieName":"Illegal",
             "type":"Season 3 - Thriller / 2024",
             "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Illegal(2024)Season3/cover.jpg",
