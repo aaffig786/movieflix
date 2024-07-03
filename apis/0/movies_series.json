@@ -2,6 +2,12 @@
 	{
         "typeId": "0",
         "typeItemList": [
+		{
+    "movieName": "Family Star",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/FamilyStar(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/FamilyStar(2024)/720p.m3u8"
+  },
 
 		{
     "movieName": "Sharma jee Ki Beti",
