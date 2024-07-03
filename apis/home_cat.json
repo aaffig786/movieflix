@@ -194,11 +194,11 @@
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/LaapataaLadies(2024)/720p.m3u8"
   },
 		{
-    "movieName": "Gadera",
-    "type": "Drama - Thriller / 2024",
-    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Gadera(2024)/cover.jpg",
-    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Gadera(2024)/720p.m3u8"
-  },
+            "movieName":"Lootere",
+            "type":"Season 1 - Crime / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Lootere(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/Lootere(2024)Season1/Lootere(2024)Season1_720p.m3u8"
+         },
     {
     "movieName": "Night of the Hunted",
     "type": "Horror - Thriller / 2023",
