@@ -81,6 +81,12 @@
     "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2024/Blackia2(2024)/Blackia2(2024)_720p.m3u8"
   },
 		{
+    "movieName": "Carry on Jatta 3",
+    "type": "Comedy - Drama / 2023",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/CarryonJatta3(2023)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/CarryonJatta3(2023)/CarryonJatta3(2023)_720p.m3u8"
+  },
+		{
     "movieName": "White Punjab",
     "type": "Drama - Thriller / 2023",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/punjabi/2023/WhitePunjab(2023)/cover.jpg",
