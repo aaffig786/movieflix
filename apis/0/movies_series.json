@@ -3,6 +3,12 @@
         "typeId": "0",
         "typeItemList": [
 		{
+            "movieName":"Test",
+            "type":"Season 1 - Thriller / 2024",
+            "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/RanneetiBalakot%26Beyond(2024)Season1/cover.jpg",
+            "videoUrl":"https://storage.googleapis.com/mfdataapi/movies/english/2024/CivilWar(2024)/CivilWar(2024).ts"
+         },
+		{
             "movieName":"Ranneeti: Balakot & Beyond",
             "type":"Season 1 - Thriller / 2024",
             "imageUrl":"https://storage.googleapis.com/mfdataapi/seasons/indian/2024/RanneetiBalakot%26Beyond(2024)Season1/cover.jpg",
