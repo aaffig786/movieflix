@@ -1,31 +1,15 @@
 [
   {
-    "date": "22/07/2024",
-    "movie1": "Doctor Strange in the Multiverse of Madness",
-    "movie2": "Second Movie",
-    "movie3": "Third Movie",
-    "movie4": "Forth Movie"
+    "movieName": "Family Star",
+    "request": "Requested by: Aftab",
+    "imageUrl": "https://storage.googleapis.com/easyearning/MazeRunner.jpg",
+    "videoUrl": "https://storage.googleapis.com/easyearning/KusuKusu/KusuKusu_720p.m3u8"
   },
 
    {
-    "date": "24/07/2024",
-    "movie1": "First Movie",
-    "movie2": "Doctor Strange in the Multiverse of Madness",
-    "movie3": "Third Movie",
-    "movie4": "Forth Movie"
-  },
-  {
-    "date": "26/07/2024",
-    "movie1": "First Movie",
-    "movie2": "Second Movie",
-    "movie3": "Third Movie",
-    "movie4": "Forth Movie"
-  },
-  {
-    "date": "28/07/2024",
-    "movie1": "First Movie",
-    "movie2": "Second Movie",
-    "movie3": "Third Movie",
-    "movie4": "Forth Movie"
+    "movieName": "Family Star",
+    "request": "Requested by: Aftab",
+    "imageUrl": "https://storage.googleapis.com/easyearning/MazeRunner.jpg",
+    "videoUrl": "https://storage.googleapis.com/easyearning/KusuKusu/KusuKusu_720p.m3u8"
   }
 ]
