@@ -1,31 +1,31 @@
 [
   {
-    "Date": "22/07/2024",
-    "Movie1": "First Movie",
-    "Movie2": "Second Movie",
-    "Movie3": "Third Movie",
-    "Movie4": "Forth Movie"
+    "date": "22/07/2024",
+    "movie1": "First Movie",
+    "movie2": "Second Movie",
+    "movie3": "Third Movie",
+    "movie4": "Forth Movie"
   },
 
    {
-    "Date": "24/07/2024",
-    "Movie1": "First Movie",
-    "Movie2": "Second Movie",
-    "Movie3": "Third Movie",
-    "Movie4": "Forth Movie"
+    "date": "24/07/2024",
+    "movie1": "First Movie",
+    "movie2": "Second Movie",
+    "movie3": "Third Movie",
+    "movie4": "Forth Movie"
   },
   {
-    "Date": "26/07/2024",
-    "Movie1": "First Movie",
-    "Movie2": "Second Movie",
-    "Movie3": "Third Movie",
-    "Movie4": "Forth Movie"
+    "date": "26/07/2024",
+    "movie1": "First Movie",
+    "movie2": "Second Movie",
+    "movie3": "Third Movie",
+    "movie4": "Forth Movie"
   },
   {
-    "Date": "28/07/2024",
-    "Movie1": "First Movie",
-    "Movie2": "Second Movie",
-    "Movie3": "Third Movie",
-    "Movie4": "Forth Movie"
+    "date": "28/07/2024",
+    "movie1": "First Movie",
+    "movie2": "Second Movie",
+    "movie3": "Third Movie",
+    "movie4": "Forth Movie"
   }
 ]
