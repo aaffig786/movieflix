@@ -1,0 +1,20 @@
+{
+  "winners": {
+    "June": {
+      "name": "John Doe",
+      "points": 120
+    },
+    "July": {
+      "name": "Jane Smith",
+      "points": 150
+    },
+    "August": {
+      "name": "Alice Johnson",
+      "points": 200
+    },
+    "September": {
+      "name": "Bob Brown",
+      "points": 180
+    }
+  }
+}
