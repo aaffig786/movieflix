@@ -3,25 +3,25 @@
     "June": {
       "month": "June",
       "name": "John Doe",
-      "points": 120,
+      "points": 12000,
       "status": "Transferred"
     },
     "July": {
       "month": "July",
       "name": "Jane Smith",
-      "points": 150,
+      "points": 15050,
       "status": "Transferred"
     },
     "August": {
       "month": "August",
       "name": "Alice Johnson",
-      "points": 200,
+      "points": 2450,
       "status": "Transferred"
     },
     "September": {
       "month": "September",
       "name": "Bob Brown",
-      "points": 180,
+      "points": 1890,
       "status": "Transferred"
     }
   }
