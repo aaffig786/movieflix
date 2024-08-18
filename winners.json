@@ -1,26 +1,32 @@
 {
   "winners": {
+    "July": {
+      "month": "June",
+      "name": "Aqsa",
+      "points": 7400,
+      "status": "Transferred"
+    },
     "June": {
       "month": "June",
-      "name": "John Doe",
-      "points": 12000,
+      "name": "Asad",
+      "points": 8050,
       "status": "Transferred"
     },
     "July": {
       "month": "July",
-      "name": "Jane Smith",
-      "points": 15050,
+      "name": "Asad",
+      "points": 9100,
       "status": "Transferred"
     },
     "August": {
       "month": "August",
-      "name": "Alice Johnson",
+      "name": "Nimra",
       "points": 2450,
       "status": "Transferred"
     },
     "September": {
       "month": "September",
-      "name": "Bob Brown",
+      "name": "Ali",
       "points": 1890,
       "status": "Transferred"
     }
