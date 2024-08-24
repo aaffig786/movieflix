@@ -1,60 +1,61 @@
 [
-	{
+    {
         "typeId": "0",
         "typeItemList": [
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-	{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         },
-		{
-            "movieName":"Test",
-            "type":"Season 1 - Thriller / 2024",
-            "https://storage.googleapis.com/mfdataapi/images.jpeg",
-            "videoUrl":"https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
-         }
-	]
- }
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            },
+            {
+                "movieName": "Test",
+                "type": "Season 1 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+            }
+        ]
+    }
 ]
