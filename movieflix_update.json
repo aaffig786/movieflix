@@ -1,6 +1,6 @@
 {
   "app_version": {
-    "version_name": "2.0",
-    "update_url": "https://example.com/path/to/your/app.apk"
+    "version_name": "5.0",
+    "update_url": "https://storage.googleapis.com/mfdataapi/app-release.apk"
   }
 }
