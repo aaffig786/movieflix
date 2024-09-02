@@ -3,9 +3,9 @@
         "typeItemList": [
             {
                 "movieName": "Test - 1",
-                "type": "Season 1 - Thriller / 2024",
-                "imageUrl": "https://storage.googleapis.com/mfdataapi/images.jpeg",
-                "videoUrl": "https://storage.googleapis.com/mfdataapi/DILBAR.mp4"
+                "type": "Season 3 - Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/Seasons/Indian/Mirzapur(2024)HindiSeason3/poster.jpg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/Seasons/Indian/Mirzapur(2024)HindiSeason3/Mirzapur(2024)HindiSeason3.mp4"
             },
             {
                 "movieName": "Test - 2",
