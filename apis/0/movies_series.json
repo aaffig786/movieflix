@@ -4,8 +4,8 @@
             {
                 "movieName": "Test - 1",
                 "type": "Season 3 - Thriller / 2024",
-                "imageUrl": "https://storage.googleapis.com/mfdataapi/Seasons/Indian/Mirzapur(2024)HindiSeason3/poster.jpg",
-                "videoUrl": "https://storage.googleapis.com/mfdataapi/Seasons/Indian/Mirzapur(2024)HindiSeason3/Mirzapur(2024)HindiSeason3.mp4"
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/poster.jpg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/DilKehtaHaiRemix.mp4"
             },
             {
                 "movieName": "Test - 2",
