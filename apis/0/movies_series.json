@@ -2,10 +2,10 @@
     {
         "typeItemList": [
             {
-                "movieName": "Dil Kehta Hai - Remix",
-                "type": "Season 3 - Thriller / 2024",
-                "imageUrl": "https://storage.googleapis.com/mfdataapi/poster.jpg",
-                "videoUrl": "https://storage.googleapis.com/mfdataapi/DilKehtaHaiRemix.mp4"
+                "movieName": "A Quiet Place - Day One",
+                "type": "Thriller / 2024",
+                "imageUrl": "https://storage.googleapis.com/mfdataapi/Movies%20%26%20Seasons/AQuietPlaceDayOne(2024)/AQuietPlaceDayOne.jpg",
+                "videoUrl": "https://storage.googleapis.com/mfdataapi/Movies%20%26%20Seasons/AQuietPlaceDayOne(2024)/AQuietPlaceDayOne(2024).mp4"
             },
             {
                 "movieName": "Dil Kehta Hai2 - Remix",
