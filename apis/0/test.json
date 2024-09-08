@@ -1,0 +1,16 @@
+[
+  {
+    "image": "https://storage.googleapis.com/mfdataapi/Movies%20%26%20Seasons/Aavesham(2024)/Aavesham.jpg",
+    "title": "Aavesham",
+    "year": "2024",
+    "category": "Action",
+    "videoUrl": "https://example.com/movie1.mp4"
+  },
+  {
+    "image": "https://storage.googleapis.com/mfdataapi/Movies%20%26%20Seasons/Aavesham(2024)/Aavesham.jpg",
+    "title": "Movie 2",
+    "year": "2022",
+    "category": "Drama",
+    "videoUrl": "https://example.com/movie2.mp4"
+  }
+]
